@@ -1,0 +1,3206 @@
+{
+  "query": "get me all the tickets that are in progress.",
+  "jql": "status = \"In Progress\" AND project = \"KAN\" ORDER BY created DESC",
+  "count": 457,
+  "issues": [
+    {
+      "key": "KAN-1906",
+      "summary": "Dummy Ticket 1499",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:45:42.371+0530"
+    },
+    {
+      "key": "KAN-1903",
+      "summary": "Dummy Ticket 1496",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:45:30.130+0530"
+    },
+    {
+      "key": "KAN-1900",
+      "summary": "Dummy Ticket 1493",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:45:18.938+0530"
+    },
+    {
+      "key": "KAN-1898",
+      "summary": "Dummy Ticket 1491",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:45:12.251+0530"
+    },
+    {
+      "key": "KAN-1897",
+      "summary": "Dummy Ticket 1490",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:45:08.095+0530"
+    },
+    {
+      "key": "KAN-1896",
+      "summary": "Dummy Ticket 1489",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:45:03.871+0530"
+    },
+    {
+      "key": "KAN-1894",
+      "summary": "Dummy Ticket 1487",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:44:56.793+0530"
+    },
+    {
+      "key": "KAN-1891",
+      "summary": "Dummy Ticket 1484",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:44:47.222+0530"
+    },
+    {
+      "key": "KAN-1890",
+      "summary": "Dummy Ticket 1483",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:44:42.888+0530"
+    },
+    {
+      "key": "KAN-1889",
+      "summary": "Dummy Ticket 1482",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:44:38.467+0530"
+    },
+    {
+      "key": "KAN-1886",
+      "summary": "Dummy Ticket 1479",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:44:22.435+0530"
+    },
+    {
+      "key": "KAN-1883",
+      "summary": "Dummy Ticket 1476",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:44:11.582+0530"
+    },
+    {
+      "key": "KAN-1879",
+      "summary": "Dummy Ticket 1472",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:43:53.690+0530"
+    },
+    {
+      "key": "KAN-1874",
+      "summary": "Dummy Ticket 1467",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:43:34.489+0530"
+    },
+    {
+      "key": "KAN-1873",
+      "summary": "Dummy Ticket 1466",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:43:29.814+0530"
+    },
+    {
+      "key": "KAN-1870",
+      "summary": "Dummy Ticket 1463",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:43:16.680+0530"
+    },
+    {
+      "key": "KAN-1863",
+      "summary": "Dummy Ticket 1456",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:42:53.074+0530"
+    },
+    {
+      "key": "KAN-1862",
+      "summary": "Dummy Ticket 1455",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:42:48.775+0530"
+    },
+    {
+      "key": "KAN-1861",
+      "summary": "Dummy Ticket 1454",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:42:44.560+0530"
+    },
+    {
+      "key": "KAN-1858",
+      "summary": "Dummy Ticket 1451",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:42:31.850+0530"
+    },
+    {
+      "key": "KAN-1857",
+      "summary": "Dummy Ticket 1450",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:42:27.238+0530"
+    },
+    {
+      "key": "KAN-1854",
+      "summary": "Dummy Ticket 1447",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:42:20.327+0530"
+    },
+    {
+      "key": "KAN-1853",
+      "summary": "Dummy Ticket 1446",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:42:16.230+0530"
+    },
+    {
+      "key": "KAN-1849",
+      "summary": "Dummy Ticket 1442",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:42:03.231+0530"
+    },
+    {
+      "key": "KAN-1847",
+      "summary": "Dummy Ticket 1440",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:41:56.729+0530"
+    },
+    {
+      "key": "KAN-1843",
+      "summary": "Dummy Ticket 1436",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:41:43.052+0530"
+    },
+    {
+      "key": "KAN-1839",
+      "summary": "Dummy Ticket 1432",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:41:26.339+0530"
+    },
+    {
+      "key": "KAN-1831",
+      "summary": "Dummy Ticket 1424",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:40:56.909+0530"
+    },
+    {
+      "key": "KAN-1828",
+      "summary": "Dummy Ticket 1421",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:40:44.378+0530"
+    },
+    {
+      "key": "KAN-1826",
+      "summary": "Dummy Ticket 1419",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:40:37.741+0530"
+    },
+    {
+      "key": "KAN-1821",
+      "summary": "Dummy Ticket 1414",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:40:19.150+0530"
+    },
+    {
+      "key": "KAN-1820",
+      "summary": "Dummy Ticket 1413",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:40:15.461+0530"
+    },
+    {
+      "key": "KAN-1817",
+      "summary": "Dummy Ticket 1410",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:40:06.262+0530"
+    },
+    {
+      "key": "KAN-1813",
+      "summary": "Dummy Ticket 1406",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:39:55.444+0530"
+    },
+    {
+      "key": "KAN-1804",
+      "summary": "Dummy Ticket 1397",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:39:16.627+0530"
+    },
+    {
+      "key": "KAN-1800",
+      "summary": "Dummy Ticket 1393",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:39:06.096+0530"
+    },
+    {
+      "key": "KAN-1790",
+      "summary": "Dummy Ticket 1383",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:38:32.940+0530"
+    },
+    {
+      "key": "KAN-1787",
+      "summary": "Dummy Ticket 1380",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:38:19.643+0530"
+    },
+    {
+      "key": "KAN-1785",
+      "summary": "Dummy Ticket 1378",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:38:13.538+0530"
+    },
+    {
+      "key": "KAN-1782",
+      "summary": "Dummy Ticket 1375",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:38:06.112+0530"
+    },
+    {
+      "key": "KAN-1781",
+      "summary": "Dummy Ticket 1374",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:38:01.847+0530"
+    },
+    {
+      "key": "KAN-1780",
+      "summary": "Dummy Ticket 1373",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:37:58.213+0530"
+    },
+    {
+      "key": "KAN-1776",
+      "summary": "Dummy Ticket 1369",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:37:47.769+0530"
+    },
+    {
+      "key": "KAN-1775",
+      "summary": "Dummy Ticket 1368",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:37:44.024+0530"
+    },
+    {
+      "key": "KAN-1771",
+      "summary": "Dummy Ticket 1364",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:37:32.541+0530"
+    },
+    {
+      "key": "KAN-1762",
+      "summary": "Dummy Ticket 1355",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:37:02.879+0530"
+    },
+    {
+      "key": "KAN-1760",
+      "summary": "Dummy Ticket 1353",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:36:56.456+0530"
+    },
+    {
+      "key": "KAN-1757",
+      "summary": "Dummy Ticket 1350",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:36:47.279+0530"
+    },
+    {
+      "key": "KAN-1756",
+      "summary": "Dummy Ticket 1349",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:36:43.117+0530"
+    },
+    {
+      "key": "KAN-1751",
+      "summary": "Dummy Ticket 1344",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:36:27.502+0530"
+    },
+    {
+      "key": "KAN-1747",
+      "summary": "Dummy Ticket 1340",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:36:13.505+0530"
+    },
+    {
+      "key": "KAN-1746",
+      "summary": "Dummy Ticket 1339",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:36:09.376+0530"
+    },
+    {
+      "key": "KAN-1745",
+      "summary": "Dummy Ticket 1338",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:36:04.691+0530"
+    },
+    {
+      "key": "KAN-1744",
+      "summary": "Dummy Ticket 1337",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:36:00.446+0530"
+    },
+    {
+      "key": "KAN-1729",
+      "summary": "Dummy Ticket 1322",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:34:59.386+0530"
+    },
+    {
+      "key": "KAN-1727",
+      "summary": "Dummy Ticket 1320",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:34:51.221+0530"
+    },
+    {
+      "key": "KAN-1726",
+      "summary": "Dummy Ticket 1319",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:34:46.696+0530"
+    },
+    {
+      "key": "KAN-1721",
+      "summary": "Dummy Ticket 1314",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:34:28.142+0530"
+    },
+    {
+      "key": "KAN-1714",
+      "summary": "Dummy Ticket 1307",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:34:01.373+0530"
+    },
+    {
+      "key": "KAN-1711",
+      "summary": "Dummy Ticket 1304",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:33:47.540+0530"
+    },
+    {
+      "key": "KAN-1707",
+      "summary": "Dummy Ticket 1300",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:33:29.776+0530"
+    },
+    {
+      "key": "KAN-1700",
+      "summary": "Dummy Ticket 1293",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:33:04.862+0530"
+    },
+    {
+      "key": "KAN-1698",
+      "summary": "Dummy Ticket 1291",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:32:58.712+0530"
+    },
+    {
+      "key": "KAN-1695",
+      "summary": "Dummy Ticket 1288",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:32:51.423+0530"
+    },
+    {
+      "key": "KAN-1692",
+      "summary": "Dummy Ticket 1285",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:32:38.418+0530"
+    },
+    {
+      "key": "KAN-1691",
+      "summary": "Dummy Ticket 1284",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:32:34.098+0530"
+    },
+    {
+      "key": "KAN-1688",
+      "summary": "Dummy Ticket 1281",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:32:23.401+0530"
+    },
+    {
+      "key": "KAN-1685",
+      "summary": "Dummy Ticket 1278",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:32:15.228+0530"
+    },
+    {
+      "key": "KAN-1684",
+      "summary": "Dummy Ticket 1277",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:32:10.837+0530"
+    },
+    {
+      "key": "KAN-1680",
+      "summary": "Dummy Ticket 1273",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:31:58.931+0530"
+    },
+    {
+      "key": "KAN-1673",
+      "summary": "Dummy Ticket 1266",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:31:31.843+0530"
+    },
+    {
+      "key": "KAN-1668",
+      "summary": "Dummy Ticket 1261",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:31:14.292+0530"
+    },
+    {
+      "key": "KAN-1663",
+      "summary": "Dummy Ticket 1256",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:31:02.831+0530"
+    },
+    {
+      "key": "KAN-1662",
+      "summary": "Dummy Ticket 1255",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:30:58.782+0530"
+    },
+    {
+      "key": "KAN-1658",
+      "summary": "Dummy Ticket 1251",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:30:46.175+0530"
+    },
+    {
+      "key": "KAN-1657",
+      "summary": "Dummy Ticket 1250",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:30:42.203+0530"
+    },
+    {
+      "key": "KAN-1656",
+      "summary": "Dummy Ticket 1249",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:30:37.838+0530"
+    },
+    {
+      "key": "KAN-1651",
+      "summary": "Dummy Ticket 1244",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:30:17.771+0530"
+    },
+    {
+      "key": "KAN-1650",
+      "summary": "Dummy Ticket 1243",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:30:13.022+0530"
+    },
+    {
+      "key": "KAN-1645",
+      "summary": "Dummy Ticket 1238",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:29:54.386+0530"
+    },
+    {
+      "key": "KAN-1641",
+      "summary": "Dummy Ticket 1234",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:29:40.191+0530"
+    },
+    {
+      "key": "KAN-1640",
+      "summary": "Dummy Ticket 1233",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:29:36.113+0530"
+    },
+    {
+      "key": "KAN-1639",
+      "summary": "Dummy Ticket 1232",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:29:32.045+0530"
+    },
+    {
+      "key": "KAN-1637",
+      "summary": "Dummy Ticket 1230",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:29:25.618+0530"
+    },
+    {
+      "key": "KAN-1634",
+      "summary": "Dummy Ticket 1227",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:29:14.491+0530"
+    },
+    {
+      "key": "KAN-1633",
+      "summary": "Dummy Ticket 1226",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:29:10.763+0530"
+    },
+    {
+      "key": "KAN-1628",
+      "summary": "Dummy Ticket 1221",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:28:54.247+0530"
+    },
+    {
+      "key": "KAN-1627",
+      "summary": "Dummy Ticket 1220",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:28:50.275+0530"
+    },
+    {
+      "key": "KAN-1623",
+      "summary": "Dummy Ticket 1216",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:28:38.473+0530"
+    },
+    {
+      "key": "KAN-1622",
+      "summary": "Dummy Ticket 1215",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:28:34.032+0530"
+    },
+    {
+      "key": "KAN-1620",
+      "summary": "Dummy Ticket 1213",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:28:22.480+0530"
+    },
+    {
+      "key": "KAN-1614",
+      "summary": "Dummy Ticket 1207",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:28:01.281+0530"
+    },
+    {
+      "key": "KAN-1607",
+      "summary": "Dummy Ticket 1200",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:27:31.546+0530"
+    },
+    {
+      "key": "KAN-1602",
+      "summary": "Dummy Ticket 1195",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:27:14.306+0530"
+    },
+    {
+      "key": "KAN-1594",
+      "summary": "Dummy Ticket 1187",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:26:47.747+0530"
+    },
+    {
+      "key": "KAN-1590",
+      "summary": "Dummy Ticket 1183",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:26:35.960+0530"
+    },
+    {
+      "key": "KAN-1579",
+      "summary": "Dummy Ticket 1172",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:26:00.053+0530"
+    },
+    {
+      "key": "KAN-1578",
+      "summary": "Dummy Ticket 1171",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:25:55.863+0530"
+    },
+    {
+      "key": "KAN-1563",
+      "summary": "Dummy Ticket 1156",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:25:11.948+0530"
+    },
+    {
+      "key": "KAN-1560",
+      "summary": "Dummy Ticket 1153",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:25:04.620+0530"
+    },
+    {
+      "key": "KAN-1559",
+      "summary": "Dummy Ticket 1152",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:25:00.498+0530"
+    },
+    {
+      "key": "KAN-1556",
+      "summary": "Dummy Ticket 1149",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:24:52.280+0530"
+    },
+    {
+      "key": "KAN-1555",
+      "summary": "Dummy Ticket 1148",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:24:48.512+0530"
+    },
+    {
+      "key": "KAN-1546",
+      "summary": "Dummy Ticket 1139",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:24:10.494+0530"
+    },
+    {
+      "key": "KAN-1545",
+      "summary": "Dummy Ticket 1138",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:24:06.109+0530"
+    },
+    {
+      "key": "KAN-1544",
+      "summary": "Dummy Ticket 1137",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:24:02.826+0530"
+    },
+    {
+      "key": "KAN-1543",
+      "summary": "Dummy Ticket 1136",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:23:58.338+0530"
+    },
+    {
+      "key": "KAN-1538",
+      "summary": "Dummy Ticket 1131",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:23:41.298+0530"
+    },
+    {
+      "key": "KAN-1536",
+      "summary": "Dummy Ticket 1129",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:23:34.293+0530"
+    },
+    {
+      "key": "KAN-1523",
+      "summary": "Dummy Ticket 1116",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:22:52.612+0530"
+    },
+    {
+      "key": "KAN-1521",
+      "summary": "Dummy Ticket 1114",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:22:44.006+0530"
+    },
+    {
+      "key": "KAN-1517",
+      "summary": "Dummy Ticket 1110",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:22:23.987+0530"
+    },
+    {
+      "key": "KAN-1506",
+      "summary": "Dummy Ticket 1099",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:21:39.100+0530"
+    },
+    {
+      "key": "KAN-1503",
+      "summary": "Dummy Ticket 1096",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:21:28.847+0530"
+    },
+    {
+      "key": "KAN-1502",
+      "summary": "Dummy Ticket 1095",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:21:24.755+0530"
+    },
+    {
+      "key": "KAN-1501",
+      "summary": "Dummy Ticket 1094",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:21:20.946+0530"
+    },
+    {
+      "key": "KAN-1497",
+      "summary": "Dummy Ticket 1090",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:21:04.762+0530"
+    },
+    {
+      "key": "KAN-1493",
+      "summary": "Dummy Ticket 1086",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:20:49.663+0530"
+    },
+    {
+      "key": "KAN-1492",
+      "summary": "Dummy Ticket 1085",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:20:45.341+0530"
+    },
+    {
+      "key": "KAN-1490",
+      "summary": "Dummy Ticket 1083",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:20:39.666+0530"
+    },
+    {
+      "key": "KAN-1483",
+      "summary": "Dummy Ticket 1076",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:20:16.537+0530"
+    },
+    {
+      "key": "KAN-1479",
+      "summary": "Dummy Ticket 1072",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:20:04.234+0530"
+    },
+    {
+      "key": "KAN-1477",
+      "summary": "Dummy Ticket 1070",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:19:56.271+0530"
+    },
+    {
+      "key": "KAN-1471",
+      "summary": "Dummy Ticket 1064",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:19:33.027+0530"
+    },
+    {
+      "key": "KAN-1468",
+      "summary": "Dummy Ticket 1061",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:19:24.615+0530"
+    },
+    {
+      "key": "KAN-1467",
+      "summary": "Dummy Ticket 1060",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:19:20.191+0530"
+    },
+    {
+      "key": "KAN-1458",
+      "summary": "Dummy Ticket 1051",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:18:45.668+0530"
+    },
+    {
+      "key": "KAN-1457",
+      "summary": "Dummy Ticket 1050",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:18:40.690+0530"
+    },
+    {
+      "key": "KAN-1451",
+      "summary": "Dummy Ticket 1044",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:18:20.594+0530"
+    },
+    {
+      "key": "KAN-1446",
+      "summary": "Dummy Ticket 1039",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:18:06.815+0530"
+    },
+    {
+      "key": "KAN-1445",
+      "summary": "Dummy Ticket 1038",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:18:02.409+0530"
+    },
+    {
+      "key": "KAN-1443",
+      "summary": "Dummy Ticket 1036",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:17:55.917+0530"
+    },
+    {
+      "key": "KAN-1441",
+      "summary": "Dummy Ticket 1034",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:17:49.543+0530"
+    },
+    {
+      "key": "KAN-1439",
+      "summary": "Dummy Ticket 1032",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:17:43.062+0530"
+    },
+    {
+      "key": "KAN-1435",
+      "summary": "Dummy Ticket 1028",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:17:27.562+0530"
+    },
+    {
+      "key": "KAN-1434",
+      "summary": "Dummy Ticket 1027",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:17:23.608+0530"
+    },
+    {
+      "key": "KAN-1425",
+      "summary": "Dummy Ticket 1018",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:16:45.738+0530"
+    },
+    {
+      "key": "KAN-1423",
+      "summary": "Dummy Ticket 1016",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:16:35.506+0530"
+    },
+    {
+      "key": "KAN-1421",
+      "summary": "Dummy Ticket 1014",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:16:25.253+0530"
+    },
+    {
+      "key": "KAN-1418",
+      "summary": "Dummy Ticket 1011",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:16:16.033+0530"
+    },
+    {
+      "key": "KAN-1417",
+      "summary": "Dummy Ticket 1010",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:16:11.242+0530"
+    },
+    {
+      "key": "KAN-1412",
+      "summary": "Dummy Ticket 1005",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:15:46.120+0530"
+    },
+    {
+      "key": "KAN-1410",
+      "summary": "Dummy Ticket 1003",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:15:38.395+0530"
+    },
+    {
+      "key": "KAN-1401",
+      "summary": "Dummy Ticket 994",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:15:04.499+0530"
+    },
+    {
+      "key": "KAN-1400",
+      "summary": "Dummy Ticket 993",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:15:00.118+0530"
+    },
+    {
+      "key": "KAN-1397",
+      "summary": "Dummy Ticket 990",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:14:50.605+0530"
+    },
+    {
+      "key": "KAN-1396",
+      "summary": "Dummy Ticket 989",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:14:46.794+0530"
+    },
+    {
+      "key": "KAN-1391",
+      "summary": "Dummy Ticket 984",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:14:28.716+0530"
+    },
+    {
+      "key": "KAN-1390",
+      "summary": "Dummy Ticket 983",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:14:24.805+0530"
+    },
+    {
+      "key": "KAN-1387",
+      "summary": "Dummy Ticket 980",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:14:15.221+0530"
+    },
+    {
+      "key": "KAN-1385",
+      "summary": "Dummy Ticket 978",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:14:06.521+0530"
+    },
+    {
+      "key": "KAN-1382",
+      "summary": "Dummy Ticket 975",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:13:58.066+0530"
+    },
+    {
+      "key": "KAN-1380",
+      "summary": "Dummy Ticket 973",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:13:42.585+0530"
+    },
+    {
+      "key": "KAN-1379",
+      "summary": "Dummy Ticket 972",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:13:38.348+0530"
+    },
+    {
+      "key": "KAN-1373",
+      "summary": "Dummy Ticket 966",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:13:05.497+0530"
+    },
+    {
+      "key": "KAN-1366",
+      "summary": "Dummy Ticket 959",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:12:39.118+0530"
+    },
+    {
+      "key": "KAN-1363",
+      "summary": "Dummy Ticket 956",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:12:26.751+0530"
+    },
+    {
+      "key": "KAN-1358",
+      "summary": "Dummy Ticket 951",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:12:02.919+0530"
+    },
+    {
+      "key": "KAN-1353",
+      "summary": "Dummy Ticket 946",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:11:40.448+0530"
+    },
+    {
+      "key": "KAN-1351",
+      "summary": "Dummy Ticket 944",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:11:33.878+0530"
+    },
+    {
+      "key": "KAN-1348",
+      "summary": "Dummy Ticket 941",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:11:21.663+0530"
+    },
+    {
+      "key": "KAN-1346",
+      "summary": "Dummy Ticket 939",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:11:15.595+0530"
+    },
+    {
+      "key": "KAN-1345",
+      "summary": "Dummy Ticket 938",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:11:11.142+0530"
+    },
+    {
+      "key": "KAN-1344",
+      "summary": "Dummy Ticket 937",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:11:06.269+0530"
+    },
+    {
+      "key": "KAN-1342",
+      "summary": "Dummy Ticket 935",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:10:55.056+0530"
+    },
+    {
+      "key": "KAN-1341",
+      "summary": "Dummy Ticket 934",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:10:50.278+0530"
+    },
+    {
+      "key": "KAN-1337",
+      "summary": "Dummy Ticket 930",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:10:31.156+0530"
+    },
+    {
+      "key": "KAN-1334",
+      "summary": "Dummy Ticket 927",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:10:20.194+0530"
+    },
+    {
+      "key": "KAN-1333",
+      "summary": "Dummy Ticket 926",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:10:16.666+0530"
+    },
+    {
+      "key": "KAN-1330",
+      "summary": "Dummy Ticket 923",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:10:05.865+0530"
+    },
+    {
+      "key": "KAN-1329",
+      "summary": "Dummy Ticket 922",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:10:02.462+0530"
+    },
+    {
+      "key": "KAN-1326",
+      "summary": "Dummy Ticket 919",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:09:49.677+0530"
+    },
+    {
+      "key": "KAN-1322",
+      "summary": "Dummy Ticket 915",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:09:36.409+0530"
+    },
+    {
+      "key": "KAN-1318",
+      "summary": "Dummy Ticket 911",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:09:26.436+0530"
+    },
+    {
+      "key": "KAN-1314",
+      "summary": "Dummy Ticket 907",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:09:14.816+0530"
+    },
+    {
+      "key": "KAN-1312",
+      "summary": "Dummy Ticket 905",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:09:06.591+0530"
+    },
+    {
+      "key": "KAN-1307",
+      "summary": "Dummy Ticket 900",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:08:53.127+0530"
+    },
+    {
+      "key": "KAN-1297",
+      "summary": "Dummy Ticket 890",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:08:17.686+0530"
+    },
+    {
+      "key": "KAN-1296",
+      "summary": "Dummy Ticket 889",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:08:12.256+0530"
+    },
+    {
+      "key": "KAN-1292",
+      "summary": "Dummy Ticket 885",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:07:58.588+0530"
+    },
+    {
+      "key": "KAN-1285",
+      "summary": "Dummy Ticket 878",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:07:41.712+0530"
+    },
+    {
+      "key": "KAN-1283",
+      "summary": "Dummy Ticket 876",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:07:33.569+0530"
+    },
+    {
+      "key": "KAN-1278",
+      "summary": "Dummy Ticket 871",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:07:17.228+0530"
+    },
+    {
+      "key": "KAN-1274",
+      "summary": "Dummy Ticket 867",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:07:04.576+0530"
+    },
+    {
+      "key": "KAN-1258",
+      "summary": "Dummy Ticket 851",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:06:09.243+0530"
+    },
+    {
+      "key": "KAN-1254",
+      "summary": "Dummy Ticket 847",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:05:56.202+0530"
+    },
+    {
+      "key": "KAN-1252",
+      "summary": "Dummy Ticket 845",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:05:48.320+0530"
+    },
+    {
+      "key": "KAN-1249",
+      "summary": "Dummy Ticket 842",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:05:36.786+0530"
+    },
+    {
+      "key": "KAN-1243",
+      "summary": "Dummy Ticket 836",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:05:17.771+0530"
+    },
+    {
+      "key": "KAN-1239",
+      "summary": "Dummy Ticket 832",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:04:51.975+0530"
+    },
+    {
+      "key": "KAN-1237",
+      "summary": "Dummy Ticket 830",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:04:46.816+0530"
+    },
+    {
+      "key": "KAN-1231",
+      "summary": "Dummy Ticket 824",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:04:26.038+0530"
+    },
+    {
+      "key": "KAN-1226",
+      "summary": "Dummy Ticket 819",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:04:10.317+0530"
+    },
+    {
+      "key": "KAN-1224",
+      "summary": "Dummy Ticket 817",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:04:02.121+0530"
+    },
+    {
+      "key": "KAN-1216",
+      "summary": "Dummy Ticket 809",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:03:39.426+0530"
+    },
+    {
+      "key": "KAN-1199",
+      "summary": "Dummy Ticket 792",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:02:39.832+0530"
+    },
+    {
+      "key": "KAN-1192",
+      "summary": "Dummy Ticket 785",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:02:21.231+0530"
+    },
+    {
+      "key": "KAN-1189",
+      "summary": "Dummy Ticket 782",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:02:11.148+0530"
+    },
+    {
+      "key": "KAN-1187",
+      "summary": "Dummy Ticket 780",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:02:03.348+0530"
+    },
+    {
+      "key": "KAN-1186",
+      "summary": "Dummy Ticket 779",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:01:59.425+0530"
+    },
+    {
+      "key": "KAN-1184",
+      "summary": "Dummy Ticket 777",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:01:53.622+0530"
+    },
+    {
+      "key": "KAN-1181",
+      "summary": "Dummy Ticket 774",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:01:41.659+0530"
+    },
+    {
+      "key": "KAN-1178",
+      "summary": "Dummy Ticket 771",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:01:33.094+0530"
+    },
+    {
+      "key": "KAN-1174",
+      "summary": "Dummy Ticket 767",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:01:21.265+0530"
+    },
+    {
+      "key": "KAN-1167",
+      "summary": "Dummy Ticket 760",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:01:03.220+0530"
+    },
+    {
+      "key": "KAN-1155",
+      "summary": "Dummy Ticket 748",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:00:29.245+0530"
+    },
+    {
+      "key": "KAN-1153",
+      "summary": "Dummy Ticket 746",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:00:23.745+0530"
+    },
+    {
+      "key": "KAN-1151",
+      "summary": "Dummy Ticket 744",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:00:18.664+0530"
+    },
+    {
+      "key": "KAN-1148",
+      "summary": "Dummy Ticket 741",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T17:00:10.558+0530"
+    },
+    {
+      "key": "KAN-1142",
+      "summary": "Dummy Ticket 735",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:59:50.170+0530"
+    },
+    {
+      "key": "KAN-1137",
+      "summary": "Dummy Ticket 730",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:59:33.479+0530"
+    },
+    {
+      "key": "KAN-1131",
+      "summary": "Dummy Ticket 724",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:59:15.895+0530"
+    },
+    {
+      "key": "KAN-1127",
+      "summary": "Dummy Ticket 720",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:58:59.295+0530"
+    },
+    {
+      "key": "KAN-1126",
+      "summary": "Dummy Ticket 719",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:58:55.587+0530"
+    },
+    {
+      "key": "KAN-1125",
+      "summary": "Dummy Ticket 718",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:58:51.692+0530"
+    },
+    {
+      "key": "KAN-1124",
+      "summary": "Dummy Ticket 717",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:58:48.032+0530"
+    },
+    {
+      "key": "KAN-1120",
+      "summary": "Dummy Ticket 713",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:58:37.617+0530"
+    },
+    {
+      "key": "KAN-1118",
+      "summary": "Dummy Ticket 711",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:58:32.516+0530"
+    },
+    {
+      "key": "KAN-1114",
+      "summary": "Dummy Ticket 707",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:58:19.551+0530"
+    },
+    {
+      "key": "KAN-1113",
+      "summary": "Dummy Ticket 706",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:58:15.552+0530"
+    },
+    {
+      "key": "KAN-1111",
+      "summary": "Dummy Ticket 704",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:58:06.856+0530"
+    },
+    {
+      "key": "KAN-1108",
+      "summary": "Dummy Ticket 701",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:57:57.085+0530"
+    },
+    {
+      "key": "KAN-1090",
+      "summary": "Dummy Ticket 683",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:56:54.991+0530"
+    },
+    {
+      "key": "KAN-1086",
+      "summary": "Dummy Ticket 679",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:56:45.472+0530"
+    },
+    {
+      "key": "KAN-1079",
+      "summary": "Dummy Ticket 672",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:56:24.308+0530"
+    },
+    {
+      "key": "KAN-1074",
+      "summary": "Dummy Ticket 667",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:56:13.208+0530"
+    },
+    {
+      "key": "KAN-1070",
+      "summary": "Dummy Ticket 663",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:55:58.320+0530"
+    },
+    {
+      "key": "KAN-1060",
+      "summary": "Dummy Ticket 653",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:55:36.096+0530"
+    },
+    {
+      "key": "KAN-1055",
+      "summary": "Dummy Ticket 648",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:55:20.777+0530"
+    },
+    {
+      "key": "KAN-1053",
+      "summary": "Dummy Ticket 646",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:55:15.514+0530"
+    },
+    {
+      "key": "KAN-1051",
+      "summary": "Dummy Ticket 644",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:55:09.942+0530"
+    },
+    {
+      "key": "KAN-1049",
+      "summary": "Dummy Ticket 642",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:55:03.947+0530"
+    },
+    {
+      "key": "KAN-1048",
+      "summary": "Dummy Ticket 641",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:55:00.560+0530"
+    },
+    {
+      "key": "KAN-1047",
+      "summary": "Dummy Ticket 640",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:54:56.788+0530"
+    },
+    {
+      "key": "KAN-1044",
+      "summary": "Dummy Ticket 637",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:54:45.597+0530"
+    },
+    {
+      "key": "KAN-1031",
+      "summary": "Dummy Ticket 624",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:54:05.451+0530"
+    },
+    {
+      "key": "KAN-1030",
+      "summary": "Dummy Ticket 623",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:54:01.364+0530"
+    },
+    {
+      "key": "KAN-1027",
+      "summary": "Dummy Ticket 620",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:53:51.773+0530"
+    },
+    {
+      "key": "KAN-1026",
+      "summary": "Dummy Ticket 619",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:53:48.081+0530"
+    },
+    {
+      "key": "KAN-1023",
+      "summary": "Dummy Ticket 616",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:53:37.442+0530"
+    },
+    {
+      "key": "KAN-1021",
+      "summary": "Dummy Ticket 614",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:53:32.006+0530"
+    },
+    {
+      "key": "KAN-1020",
+      "summary": "Dummy Ticket 613",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:53:28.341+0530"
+    },
+    {
+      "key": "KAN-1010",
+      "summary": "Dummy Ticket 603",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:52:56.216+0530"
+    },
+    {
+      "key": "KAN-1009",
+      "summary": "Dummy Ticket 602",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:52:52.693+0530"
+    },
+    {
+      "key": "KAN-1008",
+      "summary": "Dummy Ticket 601",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:52:49.205+0530"
+    },
+    {
+      "key": "KAN-993",
+      "summary": "Dummy Ticket 586",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:52:09.145+0530"
+    },
+    {
+      "key": "KAN-978",
+      "summary": "Dummy Ticket 571",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:51:09.538+0530"
+    },
+    {
+      "key": "KAN-976",
+      "summary": "Dummy Ticket 569",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:51:02.085+0530"
+    },
+    {
+      "key": "KAN-969",
+      "summary": "Dummy Ticket 562",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:50:43.986+0530"
+    },
+    {
+      "key": "KAN-968",
+      "summary": "Dummy Ticket 561",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:50:40.176+0530"
+    },
+    {
+      "key": "KAN-963",
+      "summary": "Dummy Ticket 556",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:50:19.999+0530"
+    },
+    {
+      "key": "KAN-953",
+      "summary": "Dummy Ticket 546",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:49:40.766+0530"
+    },
+    {
+      "key": "KAN-949",
+      "summary": "Dummy Ticket 542",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:49:31.677+0530"
+    },
+    {
+      "key": "KAN-940",
+      "summary": "Dummy Ticket 533",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:48:57.941+0530"
+    },
+    {
+      "key": "KAN-932",
+      "summary": "Dummy Ticket 525",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:48:33.508+0530"
+    },
+    {
+      "key": "KAN-927",
+      "summary": "Dummy Ticket 520",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:48:22.859+0530"
+    },
+    {
+      "key": "KAN-917",
+      "summary": "Dummy Ticket 510",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:47:52.641+0530"
+    },
+    {
+      "key": "KAN-915",
+      "summary": "Dummy Ticket 508",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:47:44.118+0530"
+    },
+    {
+      "key": "KAN-911",
+      "summary": "Dummy Ticket 504",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:47:35.213+0530"
+    },
+    {
+      "key": "KAN-909",
+      "summary": "Dummy Ticket 502",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:47:28.722+0530"
+    },
+    {
+      "key": "KAN-904",
+      "summary": "Dummy Ticket 497",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:47:12.943+0530"
+    },
+    {
+      "key": "KAN-890",
+      "summary": "Dummy Ticket 483",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:46:31.376+0530"
+    },
+    {
+      "key": "KAN-889",
+      "summary": "Dummy Ticket 482",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:46:27.827+0530"
+    },
+    {
+      "key": "KAN-888",
+      "summary": "Dummy Ticket 481",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:46:24.014+0530"
+    },
+    {
+      "key": "KAN-887",
+      "summary": "Dummy Ticket 480",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:46:20.237+0530"
+    },
+    {
+      "key": "KAN-885",
+      "summary": "Dummy Ticket 478",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:46:14.205+0530"
+    },
+    {
+      "key": "KAN-881",
+      "summary": "Dummy Ticket 474",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:46:02.075+0530"
+    },
+    {
+      "key": "KAN-879",
+      "summary": "Dummy Ticket 472",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:45:53.430+0530"
+    },
+    {
+      "key": "KAN-871",
+      "summary": "Dummy Ticket 464",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:45:33.005+0530"
+    },
+    {
+      "key": "KAN-866",
+      "summary": "Dummy Ticket 459",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:45:15.882+0530"
+    },
+    {
+      "key": "KAN-865",
+      "summary": "Dummy Ticket 458",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:45:12.064+0530"
+    },
+    {
+      "key": "KAN-856",
+      "summary": "Dummy Ticket 449",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:44:42.862+0530"
+    },
+    {
+      "key": "KAN-852",
+      "summary": "Dummy Ticket 445",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:44:34.661+0530"
+    },
+    {
+      "key": "KAN-847",
+      "summary": "Dummy Ticket 440",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:44:16.384+0530"
+    },
+    {
+      "key": "KAN-845",
+      "summary": "Dummy Ticket 438",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:44:09.080+0530"
+    },
+    {
+      "key": "KAN-836",
+      "summary": "Dummy Ticket 429",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:43:30.559+0530"
+    },
+    {
+      "key": "KAN-835",
+      "summary": "Dummy Ticket 428",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:43:26.710+0530"
+    },
+    {
+      "key": "KAN-827",
+      "summary": "Dummy Ticket 420",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:42:59.591+0530"
+    },
+    {
+      "key": "KAN-820",
+      "summary": "Dummy Ticket 413",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:42:33.264+0530"
+    },
+    {
+      "key": "KAN-817",
+      "summary": "Dummy Ticket 410",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:42:25.483+0530"
+    },
+    {
+      "key": "KAN-812",
+      "summary": "Dummy Ticket 405",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:42:05.968+0530"
+    },
+    {
+      "key": "KAN-808",
+      "summary": "Dummy Ticket 401",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:41:51.991+0530"
+    },
+    {
+      "key": "KAN-798",
+      "summary": "Dummy Ticket 391",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:41:19.747+0530"
+    },
+    {
+      "key": "KAN-797",
+      "summary": "Dummy Ticket 390",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:41:16.374+0530"
+    },
+    {
+      "key": "KAN-791",
+      "summary": "Dummy Ticket 384",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:40:48.384+0530"
+    },
+    {
+      "key": "KAN-788",
+      "summary": "Dummy Ticket 381",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:40:39.064+0530"
+    },
+    {
+      "key": "KAN-782",
+      "summary": "Dummy Ticket 375",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:40:17.020+0530"
+    },
+    {
+      "key": "KAN-780",
+      "summary": "Dummy Ticket 373",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:40:06.857+0530"
+    },
+    {
+      "key": "KAN-777",
+      "summary": "Dummy Ticket 370",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:39:54.836+0530"
+    },
+    {
+      "key": "KAN-773",
+      "summary": "Dummy Ticket 366",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:39:34.848+0530"
+    },
+    {
+      "key": "KAN-767",
+      "summary": "Dummy Ticket 360",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:39:19.183+0530"
+    },
+    {
+      "key": "KAN-762",
+      "summary": "Dummy Ticket 355",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:39:01.787+0530"
+    },
+    {
+      "key": "KAN-759",
+      "summary": "Dummy Ticket 352",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:38:50.606+0530"
+    },
+    {
+      "key": "KAN-758",
+      "summary": "Dummy Ticket 351",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:38:46.882+0530"
+    },
+    {
+      "key": "KAN-751",
+      "summary": "Dummy Ticket 344",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:38:23.101+0530"
+    },
+    {
+      "key": "KAN-739",
+      "summary": "Dummy Ticket 332",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:37:40.208+0530"
+    },
+    {
+      "key": "KAN-736",
+      "summary": "Dummy Ticket 329",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:37:32.937+0530"
+    },
+    {
+      "key": "KAN-734",
+      "summary": "Dummy Ticket 327",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:37:26.188+0530"
+    },
+    {
+      "key": "KAN-720",
+      "summary": "Dummy Ticket 313",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:36:39.527+0530"
+    },
+    {
+      "key": "KAN-719",
+      "summary": "Dummy Ticket 312",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:36:35.666+0530"
+    },
+    {
+      "key": "KAN-717",
+      "summary": "Dummy Ticket 310",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:36:29.734+0530"
+    },
+    {
+      "key": "KAN-715",
+      "summary": "Dummy Ticket 308",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:36:20.495+0530"
+    },
+    {
+      "key": "KAN-713",
+      "summary": "Dummy Ticket 306",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:36:13.092+0530"
+    },
+    {
+      "key": "KAN-711",
+      "summary": "Dummy Ticket 304",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:36:07.177+0530"
+    },
+    {
+      "key": "KAN-708",
+      "summary": "Dummy Ticket 301",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:35:52.214+0530"
+    },
+    {
+      "key": "KAN-706",
+      "summary": "Dummy Ticket 299",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:35:42.607+0530"
+    },
+    {
+      "key": "KAN-704",
+      "summary": "Dummy Ticket 297",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:35:32.767+0530"
+    },
+    {
+      "key": "KAN-682",
+      "summary": "Dummy Ticket 275",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:34:09.390+0530"
+    },
+    {
+      "key": "KAN-681",
+      "summary": "Dummy Ticket 274",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:34:05.095+0530"
+    },
+    {
+      "key": "KAN-676",
+      "summary": "Dummy Ticket 269",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:33:49.764+0530"
+    },
+    {
+      "key": "KAN-671",
+      "summary": "Dummy Ticket 264",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:33:31.445+0530"
+    },
+    {
+      "key": "KAN-670",
+      "summary": "Dummy Ticket 263",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:33:27.287+0530"
+    },
+    {
+      "key": "KAN-669",
+      "summary": "Dummy Ticket 262",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:33:21.927+0530"
+    },
+    {
+      "key": "KAN-658",
+      "summary": "Dummy Ticket 251",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:32:33.107+0530"
+    },
+    {
+      "key": "KAN-657",
+      "summary": "Dummy Ticket 250",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:32:28.236+0530"
+    },
+    {
+      "key": "KAN-648",
+      "summary": "Dummy Ticket 241",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:31:50.509+0530"
+    },
+    {
+      "key": "KAN-631",
+      "summary": "Dummy Ticket 224",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:30:51.124+0530"
+    },
+    {
+      "key": "KAN-630",
+      "summary": "Dummy Ticket 223",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:30:46.831+0530"
+    },
+    {
+      "key": "KAN-629",
+      "summary": "Dummy Ticket 222",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:30:42.384+0530"
+    },
+    {
+      "key": "KAN-626",
+      "summary": "Dummy Ticket 219",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:30:30.604+0530"
+    },
+    {
+      "key": "KAN-617",
+      "summary": "Dummy Ticket 210",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:29:59.554+0530"
+    },
+    {
+      "key": "KAN-615",
+      "summary": "Dummy Ticket 208",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:29:49.942+0530"
+    },
+    {
+      "key": "KAN-613",
+      "summary": "Dummy Ticket 206",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:29:44.986+0530"
+    },
+    {
+      "key": "KAN-609",
+      "summary": "Dummy Ticket 202",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:29:34.122+0530"
+    },
+    {
+      "key": "KAN-596",
+      "summary": "Dummy Ticket 189",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:28:50.361+0530"
+    },
+    {
+      "key": "KAN-595",
+      "summary": "Dummy Ticket 188",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:28:46.719+0530"
+    },
+    {
+      "key": "KAN-591",
+      "summary": "Dummy Ticket 184",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:28:35.287+0530"
+    },
+    {
+      "key": "KAN-583",
+      "summary": "Dummy Ticket 176",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:27:58.090+0530"
+    },
+    {
+      "key": "KAN-576",
+      "summary": "Dummy Ticket 169",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:27:37.688+0530"
+    },
+    {
+      "key": "KAN-573",
+      "summary": "Dummy Ticket 166",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:27:29.098+0530"
+    },
+    {
+      "key": "KAN-562",
+      "summary": "Dummy Ticket 155",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:26:54.243+0530"
+    },
+    {
+      "key": "KAN-561",
+      "summary": "Dummy Ticket 154",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:26:50.400+0530"
+    },
+    {
+      "key": "KAN-559",
+      "summary": "Dummy Ticket 152",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:26:44.436+0530"
+    },
+    {
+      "key": "KAN-558",
+      "summary": "Dummy Ticket 151",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:26:40.500+0530"
+    },
+    {
+      "key": "KAN-556",
+      "summary": "Dummy Ticket 149",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:26:33.387+0530"
+    },
+    {
+      "key": "KAN-549",
+      "summary": "Dummy Ticket 142",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:26:09.813+0530"
+    },
+    {
+      "key": "KAN-548",
+      "summary": "Dummy Ticket 141",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:26:05.090+0530"
+    },
+    {
+      "key": "KAN-544",
+      "summary": "Dummy Ticket 137",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:25:47.811+0530"
+    },
+    {
+      "key": "KAN-543",
+      "summary": "Dummy Ticket 136",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:25:43.496+0530"
+    },
+    {
+      "key": "KAN-542",
+      "summary": "Dummy Ticket 135",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:25:39.637+0530"
+    },
+    {
+      "key": "KAN-532",
+      "summary": "Dummy Ticket 125",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:25:05.128+0530"
+    },
+    {
+      "key": "KAN-531",
+      "summary": "Dummy Ticket 124",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:25:00.416+0530"
+    },
+    {
+      "key": "KAN-527",
+      "summary": "Dummy Ticket 120",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:24:42.953+0530"
+    },
+    {
+      "key": "KAN-526",
+      "summary": "Dummy Ticket 119",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:24:38.208+0530"
+    },
+    {
+      "key": "KAN-524",
+      "summary": "Dummy Ticket 117",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:24:26.257+0530"
+    },
+    {
+      "key": "KAN-522",
+      "summary": "Dummy Ticket 115",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:24:17.587+0530"
+    },
+    {
+      "key": "KAN-521",
+      "summary": "Dummy Ticket 114",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:24:12.942+0530"
+    },
+    {
+      "key": "KAN-515",
+      "summary": "Dummy Ticket 108",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:23:43.229+0530"
+    },
+    {
+      "key": "KAN-514",
+      "summary": "Dummy Ticket 107",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:23:38.391+0530"
+    },
+    {
+      "key": "KAN-512",
+      "summary": "Dummy Ticket 105",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:23:29.740+0530"
+    },
+    {
+      "key": "KAN-495",
+      "summary": "Dummy Ticket 88",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:22:33.211+0530"
+    },
+    {
+      "key": "KAN-494",
+      "summary": "Dummy Ticket 87",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:22:28.312+0530"
+    },
+    {
+      "key": "KAN-493",
+      "summary": "Dummy Ticket 86",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:22:22.865+0530"
+    },
+    {
+      "key": "KAN-487",
+      "summary": "Dummy Ticket 80",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:21:57.415+0530"
+    },
+    {
+      "key": "KAN-486",
+      "summary": "Dummy Ticket 79",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:21:52.407+0530"
+    },
+    {
+      "key": "KAN-485",
+      "summary": "Dummy Ticket 78",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:21:47.169+0530"
+    },
+    {
+      "key": "KAN-445",
+      "summary": "Dummy Ticket 38",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:19:15.344+0530"
+    },
+    {
+      "key": "KAN-444",
+      "summary": "Dummy Ticket 37",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:19:11.272+0530"
+    },
+    {
+      "key": "KAN-442",
+      "summary": "Dummy Ticket 35",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:19:05.251+0530"
+    },
+    {
+      "key": "KAN-436",
+      "summary": "Dummy Ticket 29",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:18:47.664+0530"
+    },
+    {
+      "key": "KAN-434",
+      "summary": "Dummy Ticket 27",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:18:37.740+0530"
+    },
+    {
+      "key": "KAN-429",
+      "summary": "Dummy Ticket 22",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:18:19.886+0530"
+    },
+    {
+      "key": "KAN-427",
+      "summary": "Dummy Ticket 20",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:18:10.539+0530"
+    },
+    {
+      "key": "KAN-421",
+      "summary": "Dummy Ticket 14",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:17:48.703+0530"
+    },
+    {
+      "key": "KAN-413",
+      "summary": "Dummy Ticket 6",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:17:19.529+0530"
+    },
+    {
+      "key": "KAN-411",
+      "summary": "Dummy Ticket 4",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:17:14.014+0530"
+    },
+    {
+      "key": "KAN-410",
+      "summary": "Dummy Ticket 3",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:17:09.999+0530"
+    },
+    {
+      "key": "KAN-401",
+      "summary": "Dummy Ticket 345",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:06:17.916+0530"
+    },
+    {
+      "key": "KAN-396",
+      "summary": "Dummy Ticket 340",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:06:06.416+0530"
+    },
+    {
+      "key": "KAN-394",
+      "summary": "Dummy Ticket 338",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:06:01.273+0530"
+    },
+    {
+      "key": "KAN-392",
+      "summary": "Dummy Ticket 336",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:05:56.581+0530"
+    },
+    {
+      "key": "KAN-387",
+      "summary": "Dummy Ticket 331",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:05:46.714+0530"
+    },
+    {
+      "key": "KAN-386",
+      "summary": "Dummy Ticket 330",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:05:44.009+0530"
+    },
+    {
+      "key": "KAN-377",
+      "summary": "Dummy Ticket 321",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:05:20.622+0530"
+    },
+    {
+      "key": "KAN-376",
+      "summary": "Dummy Ticket 320",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:05:18.278+0530"
+    },
+    {
+      "key": "KAN-374",
+      "summary": "Dummy Ticket 318",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:05:13.506+0530"
+    },
+    {
+      "key": "KAN-366",
+      "summary": "Dummy Ticket 310",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:04:56.385+0530"
+    },
+    {
+      "key": "KAN-365",
+      "summary": "Dummy Ticket 309",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:04:51.946+0530"
+    },
+    {
+      "key": "KAN-362",
+      "summary": "Dummy Ticket 306",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:04:45.050+0530"
+    },
+    {
+      "key": "KAN-347",
+      "summary": "Dummy Ticket 291",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:04:12.224+0530"
+    },
+    {
+      "key": "KAN-345",
+      "summary": "Dummy Ticket 289",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:04:05.042+0530"
+    },
+    {
+      "key": "KAN-338",
+      "summary": "Dummy Ticket 282",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:03:49.667+0530"
+    },
+    {
+      "key": "KAN-330",
+      "summary": "Dummy Ticket 274",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:03:33.615+0530"
+    },
+    {
+      "key": "KAN-323",
+      "summary": "Dummy Ticket 267",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:03:19.300+0530"
+    },
+    {
+      "key": "KAN-322",
+      "summary": "Dummy Ticket 266",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:03:17.181+0530"
+    },
+    {
+      "key": "KAN-319",
+      "summary": "Dummy Ticket 263",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:03:10.246+0530"
+    },
+    {
+      "key": "KAN-318",
+      "summary": "Dummy Ticket 262",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:03:08.116+0530"
+    },
+    {
+      "key": "KAN-317",
+      "summary": "Dummy Ticket 261",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:03:05.769+0530"
+    },
+    {
+      "key": "KAN-310",
+      "summary": "Dummy Ticket 254",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:02:49.191+0530"
+    },
+    {
+      "key": "KAN-307",
+      "summary": "Dummy Ticket 251",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:02:41.832+0530"
+    },
+    {
+      "key": "KAN-306",
+      "summary": "Dummy Ticket 250",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:02:38.820+0530"
+    },
+    {
+      "key": "KAN-304",
+      "summary": "Dummy Ticket 248",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:02:34.635+0530"
+    },
+    {
+      "key": "KAN-301",
+      "summary": "Dummy Ticket 245",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:02:27.660+0530"
+    },
+    {
+      "key": "KAN-296",
+      "summary": "Dummy Ticket 240",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:02:17.931+0530"
+    },
+    {
+      "key": "KAN-290",
+      "summary": "Dummy Ticket 234",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:02:05.720+0530"
+    },
+    {
+      "key": "KAN-289",
+      "summary": "Dummy Ticket 233",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:02:03.374+0530"
+    },
+    {
+      "key": "KAN-288",
+      "summary": "Dummy Ticket 232",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:02:01.219+0530"
+    },
+    {
+      "key": "KAN-283",
+      "summary": "Dummy Ticket 227",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:01:49.529+0530"
+    },
+    {
+      "key": "KAN-282",
+      "summary": "Dummy Ticket 226",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:01:47.336+0530"
+    },
+    {
+      "key": "KAN-281",
+      "summary": "Dummy Ticket 225",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:01:44.888+0530"
+    },
+    {
+      "key": "KAN-280",
+      "summary": "Dummy Ticket 224",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:01:42.804+0530"
+    },
+    {
+      "key": "KAN-277",
+      "summary": "Dummy Ticket 221",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:01:35.756+0530"
+    },
+    {
+      "key": "KAN-274",
+      "summary": "Dummy Ticket 218",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:01:29.345+0530"
+    },
+    {
+      "key": "KAN-273",
+      "summary": "Dummy Ticket 217",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:01:27.110+0530"
+    },
+    {
+      "key": "KAN-269",
+      "summary": "Dummy Ticket 213",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:01:18.785+0530"
+    },
+    {
+      "key": "KAN-268",
+      "summary": "Dummy Ticket 212",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:01:16.606+0530"
+    },
+    {
+      "key": "KAN-267",
+      "summary": "Dummy Ticket 211",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:01:14.346+0530"
+    },
+    {
+      "key": "KAN-258",
+      "summary": "Dummy Ticket 202",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:00:54.696+0530"
+    },
+    {
+      "key": "KAN-257",
+      "summary": "Dummy Ticket 201",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:00:52.652+0530"
+    },
+    {
+      "key": "KAN-255",
+      "summary": "Dummy Ticket 199",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:00:47.798+0530"
+    },
+    {
+      "key": "KAN-254",
+      "summary": "Dummy Ticket 198",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:00:45.276+0530"
+    },
+    {
+      "key": "KAN-253",
+      "summary": "Dummy Ticket 197",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:00:42.957+0530"
+    },
+    {
+      "key": "KAN-252",
+      "summary": "Dummy Ticket 196",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:00:40.682+0530"
+    },
+    {
+      "key": "KAN-251",
+      "summary": "Dummy Ticket 195",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:00:38.345+0530"
+    },
+    {
+      "key": "KAN-247",
+      "summary": "Dummy Ticket 191",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:00:28.970+0530"
+    },
+    {
+      "key": "KAN-244",
+      "summary": "Dummy Ticket 188",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:00:22.077+0530"
+    },
+    {
+      "key": "KAN-236",
+      "summary": "Dummy Ticket 180",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T16:00:05.023+0530"
+    },
+    {
+      "key": "KAN-233",
+      "summary": "Dummy Ticket 177",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:59:57.127+0530"
+    },
+    {
+      "key": "KAN-229",
+      "summary": "Dummy Ticket 173",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:59:48.470+0530"
+    },
+    {
+      "key": "KAN-228",
+      "summary": "Dummy Ticket 172",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:59:45.918+0530"
+    },
+    {
+      "key": "KAN-215",
+      "summary": "Dummy Ticket 159",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:59:17.456+0530"
+    },
+    {
+      "key": "KAN-207",
+      "summary": "Dummy Ticket 151",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:59:00.455+0530"
+    },
+    {
+      "key": "KAN-205",
+      "summary": "Dummy Ticket 149",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:58:55.596+0530"
+    },
+    {
+      "key": "KAN-197",
+      "summary": "Dummy Ticket 141",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:58:35.711+0530"
+    },
+    {
+      "key": "KAN-195",
+      "summary": "Dummy Ticket 139",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:58:30.700+0530"
+    },
+    {
+      "key": "KAN-189",
+      "summary": "Dummy Ticket 133",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:58:16.508+0530"
+    },
+    {
+      "key": "KAN-181",
+      "summary": "Dummy Ticket 125",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:57:55.500+0530"
+    },
+    {
+      "key": "KAN-180",
+      "summary": "Dummy Ticket 124",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:57:53.030+0530"
+    },
+    {
+      "key": "KAN-177",
+      "summary": "Dummy Ticket 121",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:57:45.998+0530"
+    },
+    {
+      "key": "KAN-176",
+      "summary": "Dummy Ticket 120",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:57:43.275+0530"
+    },
+    {
+      "key": "KAN-170",
+      "summary": "Dummy Ticket 114",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:57:30.961+0530"
+    },
+    {
+      "key": "KAN-165",
+      "summary": "Dummy Ticket 109",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:57:20.619+0530"
+    },
+    {
+      "key": "KAN-156",
+      "summary": "Dummy Ticket 100",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:57:02.582+0530"
+    },
+    {
+      "key": "KAN-152",
+      "summary": "Dummy Ticket 96",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:56:51.578+0530"
+    },
+    {
+      "key": "KAN-151",
+      "summary": "Dummy Ticket 95",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:56:48.245+0530"
+    },
+    {
+      "key": "KAN-148",
+      "summary": "Dummy Ticket 92",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:56:42.078+0530"
+    },
+    {
+      "key": "KAN-134",
+      "summary": "Dummy Ticket 78",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:55:59.217+0530"
+    },
+    {
+      "key": "KAN-132",
+      "summary": "Dummy Ticket 76",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:55:51.676+0530"
+    },
+    {
+      "key": "KAN-131",
+      "summary": "Dummy Ticket 75",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:55:48.640+0530"
+    },
+    {
+      "key": "KAN-129",
+      "summary": "Dummy Ticket 73",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:55:40.862+0530"
+    },
+    {
+      "key": "KAN-128",
+      "summary": "Dummy Ticket 72",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:55:37.069+0530"
+    },
+    {
+      "key": "KAN-126",
+      "summary": "Dummy Ticket 70",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:55:30.064+0530"
+    },
+    {
+      "key": "KAN-125",
+      "summary": "Dummy Ticket 69",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:55:26.510+0530"
+    },
+    {
+      "key": "KAN-123",
+      "summary": "Dummy Ticket 67",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:55:18.801+0530"
+    },
+    {
+      "key": "KAN-120",
+      "summary": "Dummy Ticket 64",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:55:08.408+0530"
+    },
+    {
+      "key": "KAN-109",
+      "summary": "Dummy Ticket 53",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:54:43.416+0530"
+    },
+    {
+      "key": "KAN-103",
+      "summary": "Dummy Ticket 47",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:54:27.371+0530"
+    },
+    {
+      "key": "KAN-99",
+      "summary": "Dummy Ticket 43",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:54:19.061+0530"
+    },
+    {
+      "key": "KAN-86",
+      "summary": "Dummy Ticket 30",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:53:48.737+0530"
+    },
+    {
+      "key": "KAN-83",
+      "summary": "Dummy Ticket 27",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:53:40.762+0530"
+    },
+    {
+      "key": "KAN-80",
+      "summary": "Dummy Ticket 24",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:53:36.078+0530"
+    },
+    {
+      "key": "KAN-76",
+      "summary": "Dummy Ticket 20",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:53:26.851+0530"
+    },
+    {
+      "key": "KAN-72",
+      "summary": "Dummy Ticket 16",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:53:17.591+0530"
+    },
+    {
+      "key": "KAN-68",
+      "summary": "Dummy Ticket 12",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:53:09.125+0530"
+    },
+    {
+      "key": "KAN-64",
+      "summary": "Dummy Ticket 8",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-17T15:53:01.394+0530"
+    },
+    {
+      "key": "KAN-4",
+      "summary": "Implement search feature",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-08T17:13:11.685+0530"
+    },
+    {
+      "key": "KAN-3",
+      "summary": "Fix login issue",
+      "status": "In Progress",
+      "assignee": null,
+      "created": "2026-04-08T17:12:14.601+0530"
+    }
+  ]
+}
