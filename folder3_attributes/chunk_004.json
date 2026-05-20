@@ -1,0 +1,122 @@
+[
+  {
+    "issue_key": "KAN-1821",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T17:40:19.150+0530",
+    "updated": "2026-04-17T17:40:21.770+0530"
+  },
+  {
+    "issue_key": "KAN-1820",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T17:40:15.461+0530",
+    "updated": "2026-04-17T17:40:17.743+0530"
+  },
+  {
+    "issue_key": "KAN-1817",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T17:40:06.262+0530",
+    "updated": "2026-04-17T17:40:08.438+0530"
+  },
+  {
+    "issue_key": "KAN-1813",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T17:39:55.444+0530",
+    "updated": "2026-04-17T17:39:57.944+0530"
+  },
+  {
+    "issue_key": "KAN-1804",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T17:39:16.627+0530",
+    "updated": "2026-04-17T17:39:19.408+0530"
+  },
+  {
+    "issue_key": "KAN-1800",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T17:39:06.096+0530",
+    "updated": "2026-04-17T17:39:08.765+0530"
+  },
+  {
+    "issue_key": "KAN-1790",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T17:38:32.940+0530",
+    "updated": "2026-04-17T17:38:35.458+0530"
+  },
+  {
+    "issue_key": "KAN-1787",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T17:38:19.643+0530",
+    "updated": "2026-04-17T17:38:22.211+0530"
+  },
+  {
+    "issue_key": "KAN-1785",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T17:38:13.538+0530",
+    "updated": "2026-04-17T17:38:16.160+0530"
+  },
+  {
+    "issue_key": "KAN-1782",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T17:38:06.112+0530",
+    "updated": "2026-04-17T17:38:08.181+0530"
+  }
+]
