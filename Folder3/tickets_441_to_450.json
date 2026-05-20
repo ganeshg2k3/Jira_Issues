@@ -1,0 +1,453 @@
+[
+  {
+    "issue_key": "KAN-128",
+    "attributes": {
+      "issuetype": "Task",
+      "components": [],
+      "fixVersions": [],
+      "resolution": null,
+      "timetracking": {},
+      "attachment": [],
+      "resolutiondate": null,
+      "watches": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-128/watchers",
+        "watchCount": 1,
+        "isWatching": true
+      },
+      "subtasks": [],
+      "created": "2026-04-17T15:55:37.069+0530",
+      "reporter": "HarshaVardhan",
+      "priority": "Medium",
+      "labels": [],
+      "environment": null,
+      "versions": [],
+      "duedate": null,
+      "votes": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-128/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "issuelinks": [],
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "assignee": null,
+      "updated": "2026-04-17T15:55:38.977+0530",
+      "status": "In Progress"
+    }
+  },
+  {
+    "issue_key": "KAN-126",
+    "attributes": {
+      "issuetype": "Task",
+      "components": [],
+      "fixVersions": [],
+      "resolution": null,
+      "timetracking": {},
+      "attachment": [],
+      "resolutiondate": null,
+      "watches": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-126/watchers",
+        "watchCount": 1,
+        "isWatching": true
+      },
+      "subtasks": [],
+      "created": "2026-04-17T15:55:30.064+0530",
+      "reporter": "HarshaVardhan",
+      "priority": "Medium",
+      "labels": [],
+      "environment": null,
+      "versions": [],
+      "duedate": null,
+      "votes": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-126/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "issuelinks": [
+        {
+          "id": "10001",
+          "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issueLink/10001",
+          "type": {
+            "id": "10000",
+            "name": "Blocks",
+            "inward": "is blocked by",
+            "outward": "blocks",
+            "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issueLinkType/10000"
+          },
+          "inwardIssue": {
+            "id": "10168",
+            "key": "KAN-76",
+            "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/10168",
+            "fields": {
+              "summary": "Dummy Ticket 20",
+              "status": {
+                "self": "https://harshavardhan7973.atlassian.net/rest/api/3/status/10007",
+                "description": "",
+                "iconUrl": "https://harshavardhan7973.atlassian.net/images/icons/statuses/generic.png",
+                "name": "In Progress",
+                "id": "10007",
+                "statusCategory": {
+                  "self": "https://harshavardhan7973.atlassian.net/rest/api/3/statuscategory/4",
+                  "id": 4,
+                  "key": "indeterminate",
+                  "colorName": "yellow",
+                  "name": "In Progress"
+                }
+              },
+              "priority": {
+                "self": "https://harshavardhan7973.atlassian.net/rest/api/3/priority/3",
+                "iconUrl": "https://harshavardhan7973.atlassian.net/images/icons/priorities/medium_new.svg",
+                "name": "Medium",
+                "id": "3"
+              },
+              "issuetype": {
+                "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issuetype/10004",
+                "id": "10004",
+                "description": "Tasks track small, distinct pieces of work.",
+                "iconUrl": "https://harshavardhan7973.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+                "name": "Task",
+                "subtask": false,
+                "avatarId": 10318,
+                "entityId": "25496ecd-b338-4d08-8214-05ea0b9bd0b7",
+                "hierarchyLevel": 0
+              }
+            }
+          }
+        }
+      ],
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "assignee": null,
+      "updated": "2026-04-30T13:21:24.082+0530",
+      "status": "In Progress"
+    }
+  },
+  {
+    "issue_key": "KAN-125",
+    "attributes": {
+      "issuetype": "Task",
+      "components": [],
+      "fixVersions": [],
+      "resolution": null,
+      "timetracking": {},
+      "attachment": [],
+      "resolutiondate": null,
+      "watches": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-125/watchers",
+        "watchCount": 1,
+        "isWatching": true
+      },
+      "subtasks": [],
+      "created": "2026-04-17T15:55:26.510+0530",
+      "reporter": "HarshaVardhan",
+      "priority": "Medium",
+      "labels": [],
+      "environment": null,
+      "versions": [],
+      "duedate": null,
+      "votes": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-125/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "issuelinks": [],
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "assignee": null,
+      "updated": "2026-04-17T15:55:28.185+0530",
+      "status": "In Progress"
+    }
+  },
+  {
+    "issue_key": "KAN-123",
+    "attributes": {
+      "issuetype": "Task",
+      "components": [],
+      "fixVersions": [],
+      "resolution": null,
+      "timetracking": {},
+      "attachment": [],
+      "resolutiondate": null,
+      "watches": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-123/watchers",
+        "watchCount": 1,
+        "isWatching": true
+      },
+      "subtasks": [],
+      "created": "2026-04-17T15:55:18.801+0530",
+      "reporter": "HarshaVardhan",
+      "priority": "Medium",
+      "labels": [],
+      "environment": null,
+      "versions": [],
+      "duedate": null,
+      "votes": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-123/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "issuelinks": [],
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "assignee": null,
+      "updated": "2026-04-17T15:55:21.527+0530",
+      "status": "In Progress"
+    }
+  },
+  {
+    "issue_key": "KAN-120",
+    "attributes": {
+      "issuetype": "Task",
+      "components": [],
+      "fixVersions": [],
+      "resolution": null,
+      "timetracking": {},
+      "attachment": [],
+      "resolutiondate": null,
+      "watches": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-120/watchers",
+        "watchCount": 1,
+        "isWatching": true
+      },
+      "subtasks": [],
+      "created": "2026-04-17T15:55:08.408+0530",
+      "reporter": "HarshaVardhan",
+      "priority": "Medium",
+      "labels": [],
+      "environment": null,
+      "versions": [],
+      "duedate": null,
+      "votes": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-120/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "issuelinks": [],
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "assignee": null,
+      "updated": "2026-04-17T15:55:10.077+0530",
+      "status": "In Progress"
+    }
+  },
+  {
+    "issue_key": "KAN-109",
+    "attributes": {
+      "issuetype": "Task",
+      "components": [],
+      "fixVersions": [],
+      "resolution": null,
+      "timetracking": {},
+      "attachment": [],
+      "resolutiondate": null,
+      "watches": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-109/watchers",
+        "watchCount": 1,
+        "isWatching": true
+      },
+      "subtasks": [],
+      "created": "2026-04-17T15:54:43.416+0530",
+      "reporter": "HarshaVardhan",
+      "priority": "Medium",
+      "labels": [],
+      "environment": null,
+      "versions": [],
+      "duedate": null,
+      "votes": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-109/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "issuelinks": [],
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "assignee": null,
+      "updated": "2026-04-17T15:54:44.382+0530",
+      "status": "In Progress"
+    }
+  },
+  {
+    "issue_key": "KAN-103",
+    "attributes": {
+      "issuetype": "Task",
+      "components": [],
+      "fixVersions": [],
+      "resolution": null,
+      "timetracking": {},
+      "attachment": [],
+      "resolutiondate": null,
+      "watches": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-103/watchers",
+        "watchCount": 1,
+        "isWatching": true
+      },
+      "subtasks": [],
+      "created": "2026-04-17T15:54:27.371+0530",
+      "reporter": "HarshaVardhan",
+      "priority": "Medium",
+      "labels": [],
+      "environment": null,
+      "versions": [],
+      "duedate": null,
+      "votes": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-103/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "issuelinks": [],
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "assignee": null,
+      "updated": "2026-04-17T15:54:28.687+0530",
+      "status": "In Progress"
+    }
+  },
+  {
+    "issue_key": "KAN-99",
+    "attributes": {
+      "issuetype": "Task",
+      "components": [],
+      "fixVersions": [],
+      "resolution": null,
+      "timetracking": {},
+      "attachment": [],
+      "resolutiondate": null,
+      "watches": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-99/watchers",
+        "watchCount": 1,
+        "isWatching": true
+      },
+      "subtasks": [],
+      "created": "2026-04-17T15:54:19.061+0530",
+      "reporter": "HarshaVardhan",
+      "priority": "Medium",
+      "labels": [],
+      "environment": null,
+      "versions": [],
+      "duedate": null,
+      "votes": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-99/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "issuelinks": [],
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "assignee": null,
+      "updated": "2026-04-17T15:54:20.351+0530",
+      "status": "In Progress"
+    }
+  },
+  {
+    "issue_key": "KAN-86",
+    "attributes": {
+      "issuetype": "Task",
+      "components": [],
+      "fixVersions": [],
+      "resolution": null,
+      "timetracking": {},
+      "attachment": [],
+      "resolutiondate": null,
+      "watches": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-86/watchers",
+        "watchCount": 1,
+        "isWatching": true
+      },
+      "subtasks": [],
+      "created": "2026-04-17T15:53:48.737+0530",
+      "reporter": "HarshaVardhan",
+      "priority": "Medium",
+      "labels": [],
+      "environment": null,
+      "versions": [],
+      "duedate": null,
+      "votes": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-86/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "issuelinks": [],
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "assignee": null,
+      "updated": "2026-04-17T15:53:49.890+0530",
+      "status": "In Progress"
+    }
+  },
+  {
+    "issue_key": "KAN-83",
+    "attributes": {
+      "issuetype": "Task",
+      "components": [],
+      "fixVersions": [],
+      "resolution": null,
+      "timetracking": {},
+      "attachment": [],
+      "resolutiondate": null,
+      "watches": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-83/watchers",
+        "watchCount": 1,
+        "isWatching": true
+      },
+      "subtasks": [],
+      "created": "2026-04-17T15:53:40.762+0530",
+      "reporter": "HarshaVardhan",
+      "priority": "Medium",
+      "labels": [],
+      "environment": null,
+      "versions": [],
+      "duedate": null,
+      "votes": {
+        "self": "https://harshavardhan7973.atlassian.net/rest/api/3/issue/KAN-83/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "issuelinks": [],
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "assignee": null,
+      "updated": "2026-04-17T15:53:42.050+0530",
+      "status": "In Progress"
+    }
+  }
+]
