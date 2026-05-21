@@ -1,0 +1,86 @@
+[
+  {
+    "issue_key": "KAN-80",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T15:53:36.078+0530",
+    "updated": "2026-04-17T15:53:37.270+0530"
+  },
+  {
+    "issue_key": "KAN-76",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T15:53:26.851+0530",
+    "updated": "2026-04-30T13:21:24.049+0530"
+  },
+  {
+    "issue_key": "KAN-72",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T15:53:17.591+0530",
+    "updated": "2026-04-17T15:53:18.780+0530"
+  },
+  {
+    "issue_key": "KAN-68",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T15:53:09.125+0530",
+    "updated": "2026-04-30T12:15:57.313+0530"
+  },
+  {
+    "issue_key": "KAN-64",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-17T15:53:01.394+0530",
+    "updated": "2026-04-17T15:53:02.471+0530"
+  },
+  {
+    "issue_key": "KAN-4",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-08T17:13:11.685+0530",
+    "updated": "2026-04-08T17:13:12.328+0530"
+  },
+  {
+    "issue_key": "KAN-3",
+    "status": "In Progress",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-08T17:12:14.601+0530",
+    "updated": "2026-04-08T17:12:34.075+0530"
+  }
+]
