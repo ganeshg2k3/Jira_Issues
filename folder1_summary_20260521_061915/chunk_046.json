@@ -1,0 +1,37 @@
+[
+  {
+    "issue_key": "KAN-80",
+    "summary": "Dummy Ticket 24",
+    "description": ""
+  },
+  {
+    "issue_key": "KAN-76",
+    "summary": "Dummy Ticket 20",
+    "description": ""
+  },
+  {
+    "issue_key": "KAN-72",
+    "summary": "Dummy Ticket 16",
+    "description": ""
+  },
+  {
+    "issue_key": "KAN-68",
+    "summary": "Dummy Ticket 12",
+    "description": ""
+  },
+  {
+    "issue_key": "KAN-64",
+    "summary": "Dummy Ticket 8",
+    "description": ""
+  },
+  {
+    "issue_key": "KAN-4",
+    "summary": "Implement search feature",
+    "description": "Develop a search functionality to allow users to quickly find content within the application."
+  },
+  {
+    "issue_key": "KAN-3",
+    "summary": "Fix login issue",
+    "description": "Users are facing login failures intermittently. Investigate and resolve authentication issues."
+  }
+]
