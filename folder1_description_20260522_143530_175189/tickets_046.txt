@@ -1,0 +1,68 @@
+############################################################
+INPUT FILE: tickets_001.txt
+MODE: 2 - DESCRIPTION MODE
+############################################################
+
+============================================================
+Issue Key: KAN-80
+============================================================
+
+Summary: Dummy Ticket 24
+
+Description:
+
+
+============================================================
+Issue Key: KAN-76
+============================================================
+
+Summary: Dummy Ticket 20
+
+Description:
+
+
+============================================================
+Issue Key: KAN-72
+============================================================
+
+Summary: Dummy Ticket 16
+
+Description:
+
+
+============================================================
+Issue Key: KAN-68
+============================================================
+
+Summary: Dummy Ticket 12
+
+Description:
+
+
+============================================================
+Issue Key: KAN-64
+============================================================
+
+Summary: Dummy Ticket 8
+
+Description:
+
+
+============================================================
+Issue Key: KAN-4
+============================================================
+
+Summary: Implement search feature
+
+Description:
+Develop a search functionality to allow users to quickly find content within the application.
+
+============================================================
+Issue Key: KAN-3
+============================================================
+
+Summary: Fix login issue
+
+Description:
+Users are facing login failures intermittently. Investigate and resolve authentication issues.
+
