@@ -1,0 +1,102 @@
+############################################################
+INPUT FILE: tickets_001.txt
+MODE: 2 - DESCRIPTION MODE
+############################################################
+
+============================================================
+Issue Key: KAN-59
+============================================================
+
+Summary: Dummy Ticket 3
+
+Description:
+
+
+============================================================
+Issue Key: KAN-58
+============================================================
+
+Summary: Dummy Ticket 2
+
+Description:
+
+
+============================================================
+Issue Key: KAN-57
+============================================================
+
+Summary: Dummy Ticket 1
+
+Description:
+
+
+============================================================
+Issue Key: KAN-56
+============================================================
+
+Summary: Auto Ticket 56
+
+Description:
+Auto Ticket 56 Description
+This is automatically generated ticket 56 for bulk testing.
+
+============================================================
+Issue Key: KAN-55
+============================================================
+
+Summary: Auto Ticket 55
+
+Description:
+Auto Ticket 55 Description
+This is automatically generated ticket 55 for bulk testing.
+
+============================================================
+Issue Key: KAN-54
+============================================================
+
+Summary: Auto Ticket 54
+
+Description:
+Auto Ticket 54 Description
+This is automatically generated ticket 54 for bulk testing.
+
+============================================================
+Issue Key: KAN-53
+============================================================
+
+Summary: Auto Ticket 53
+
+Description:
+Auto Ticket 53 Description
+This is automatically generated ticket 53 for bulk testing.
+
+============================================================
+Issue Key: KAN-52
+============================================================
+
+Summary: Auto Ticket 52
+
+Description:
+Auto Ticket 52 Description
+This is automatically generated ticket 52 for bulk testing.
+
+============================================================
+Issue Key: KAN-51
+============================================================
+
+Summary: Auto Ticket 51
+
+Description:
+Auto Ticket 51 Description
+This is automatically generated ticket 51 for bulk testing.
+
+============================================================
+Issue Key: KAN-50
+============================================================
+
+Summary: Auto Ticket 50
+
+Description:
+Auto Ticket 50 Description
+This is automatically generated ticket 50 for bulk testing.
+
