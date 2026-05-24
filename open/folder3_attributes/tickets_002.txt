@@ -1,0 +1,145 @@
+############################################################
+MODE: 3 - ATTRIBUTE MODE
+Written: 2026-05-24 19:56:22 UTC
+############################################################
+
+============================================================
+Issue Key: SCRUM-66
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:42.184+0530
+Updated: 2026-05-25T01:20:42.254+0530
+Labels: testing
+Components: 
+
+============================================================
+Issue Key: SCRUM-65
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:39.329+0530
+Updated: 2026-05-25T01:20:39.533+0530
+Labels: design, schema
+Components: 
+
+============================================================
+Issue Key: SCRUM-64
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:22.800+0530
+Updated: 2026-05-06T00:01:24.784+0530
+Labels: case-10, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-63
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:19.478+0530
+Updated: 2026-05-06T00:01:21.557+0530
+Labels: case-9, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-62
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:16.175+0530
+Updated: 2026-05-06T00:01:18.033+0530
+Labels: case-8, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-61
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:13.053+0530
+Updated: 2026-05-06T00:01:14.821+0530
+Labels: case-7, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-60
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:10.012+0530
+Updated: 2026-05-06T00:01:11.792+0530
+Labels: case-6, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-59
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:06.850+0530
+Updated: 2026-05-06T00:01:08.745+0530
+Labels: case-5, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-58
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:03.580+0530
+Updated: 2026-05-06T00:01:05.583+0530
+Labels: case-4, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-57
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:00.397+0530
+Updated: 2026-05-06T00:01:02.263+0530
+Labels: case-3, config, deployment, incident
+Components: Deployment
+

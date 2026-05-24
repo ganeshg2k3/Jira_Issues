@@ -1,0 +1,95 @@
+############################################################
+MODE: 2 - DESCRIPTION MODE
+Written: 2026-05-24 19:56:22 UTC
+############################################################
+
+============================================================
+Issue Key: SCRUM-76
+============================================================
+
+Summary: Configure Jira project board and workflows
+
+Description:
+Set up the Jira board with swim lanes, workflows, and ticket templates.
+
+============================================================
+Issue Key: SCRUM-75
+============================================================
+
+Summary: Write runbook for on-call pipeline failures
+
+Description:
+Runbook created covering common failure scenarios and resolution steps.
+
+============================================================
+Issue Key: SCRUM-74
+============================================================
+
+Summary: Remove deprecated endpoints from v1 API
+
+Description:
+Cleaned up all v1 endpoints that were marked deprecated since Q1.
+
+============================================================
+Issue Key: SCRUM-73
+============================================================
+
+Summary: Add logging to all pipeline stages
+
+Description:
+Structured logging added across ingestion, transform, and load stages.
+
+============================================================
+Issue Key: SCRUM-72
+============================================================
+
+Summary: Set up local dev environment guide
+
+Description:
+Write a guide for new devs to set up local environment with Docker.
+
+============================================================
+Issue Key: SCRUM-71
+============================================================
+
+Summary: Initial repo setup and folder structure
+
+Description:
+Create the GitHub repo, set up folder structure and README.
+
+============================================================
+Issue Key: SCRUM-70
+============================================================
+
+Summary: Set up CI/CD for data jobs
+
+Description:
+Automate testing and deployment of pipeline code via GitHub Actions.
+
+============================================================
+Issue Key: SCRUM-69
+============================================================
+
+Summary: Add retry logic to API calls
+
+Description:
+External API calls in the sync job have no retry. Add exponential backoff.
+
+============================================================
+Issue Key: SCRUM-68
+============================================================
+
+Summary: Migrate legacy tables to new schema
+
+Description:
+Old tables from v1 need to be migrated to the v2 schema with backfill.
+
+============================================================
+Issue Key: SCRUM-67
+============================================================
+
+Summary: Document data dictionary for all tables
+
+Description:
+Write up definitions for all columns across the main tables in Confluence.
+

@@ -1,0 +1,115 @@
+############################################################
+MODE: 1 - COMMENT INTELLIGENCE MODE
+Written: 2026-05-24 19:56:22 UTC
+############################################################
+
+============================================================
+Issue Key: SCRUM-36
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Seen with credit cards
+* Retries sometimes succeed
+
+============================================================
+Issue Key: SCRUM-35
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Seen with credit cards
+* Retries sometimes succeed
+
+============================================================
+Issue Key: SCRUM-34
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+
+============================================================
+Issue Key: SCRUM-33
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+
+============================================================
+Issue Key: SCRUM-32
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+
+============================================================
+Issue Key: SCRUM-31
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+
+============================================================
+Issue Key: SCRUM-30
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+
+============================================================
+Issue Key: SCRUM-29
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+
+============================================================
+Issue Key: SCRUM-28
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+
+============================================================
+Issue Key: SCRUM-27
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+
