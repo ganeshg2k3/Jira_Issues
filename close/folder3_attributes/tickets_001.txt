@@ -45,3 +45,17 @@ Updated: 2026-05-25T18:01:34.332+0530
 Labels: jira, setup
 Components: 
 
+============================================================
+Issue Key: SCRUM-76
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Low
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:15.324+0530
+Updated: 2026-05-25T18:01:34.332+0530
+Labels: jira, setup
+Components: 
+
