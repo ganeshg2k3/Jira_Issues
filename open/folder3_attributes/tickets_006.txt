@@ -1,63 +1,7 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-25 16:31:29 UTC
+Written: 2026-05-25 16:34:31 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-20
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:04.321+0530
-Updated: 2026-05-05T23:59:06.165+0530
-Labels: case-6, kafka, lag, streaming
-Components: Notifications, Streaming
-
-============================================================
-Issue Key: SCRUM-19
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:01.103+0530
-Updated: 2026-05-05T23:59:03.059+0530
-Labels: case-5, kafka, lag, streaming
-Components: Notifications, Streaming
-
-============================================================
-Issue Key: SCRUM-18
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:58:57.827+0530
-Updated: 2026-05-05T23:58:59.644+0530
-Labels: case-4, kafka, lag, streaming
-Components: Notifications, Streaming
-
-============================================================
-Issue Key: SCRUM-17
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:58:54.638+0530
-Updated: 2026-05-05T23:58:56.576+0530
-Labels: case-3, kafka, lag, streaming
-Components: Notifications, Streaming
 
 ============================================================
 Issue Key: SCRUM-16
@@ -140,6 +84,62 @@ Assignee: None
 Reporter: Ganesh G
 Created: 2026-04-30T12:57:43.225+0530
 Updated: 2026-04-30T12:57:48.332+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: SCRUM-10
+============================================================
+
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T12:57:39.816+0530
+Updated: 2026-04-30T12:58:43.772+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: SCRUM-9
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T12:50:10.523+0530
+Updated: 2026-04-30T13:18:21.799+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: SCRUM-8
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T12:50:09.061+0530
+Updated: 2026-04-30T12:50:09.125+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: SCRUM-7
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T12:50:07.447+0530
+Updated: 2026-04-30T12:50:07.503+0530
 Labels: 
 Components: 
 

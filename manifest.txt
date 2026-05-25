@@ -94,3 +94,7 @@ Run: 2026-05-25 16:31:29 UTC
   Closed fetched : 6
   Open fetched   : 67
 
+Run: 2026-05-25 16:34:31 UTC
+  Closed fetched : 10
+  Open fetched   : 63
+

@@ -1,51 +1,7 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 16:31:29 UTC
+Written: 2026-05-25 16:34:31 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-41
-============================================================
-
-Summary: Payment transaction failures (case 7)
-
-Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 7.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-40
-============================================================
-
-Summary: Payment transaction failures (case 6)
-
-Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 6.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-39
-============================================================
-
-Summary: Payment transaction failures (case 5)
-
-Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 5.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-38
-============================================================
-
-Summary: Payment transaction failures (case 4)
-
-Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 4.
-Replication steps and logs attached.
 
 ============================================================
 Issue Key: SCRUM-37
@@ -111,5 +67,49 @@ Summary: Login failures for multiple users (case 7)
 Description:
 Users are intermittently unable to log in due to authentication errors.
 Observed impact varies across services. Instance: 7.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-30
+============================================================
+
+Summary: Login failures for multiple users (case 6)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 6.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-29
+============================================================
+
+Summary: Login failures for multiple users (case 5)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 5.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-28
+============================================================
+
+Summary: Login failures for multiple users (case 4)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 4.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-27
+============================================================
+
+Summary: Login failures for multiple users (case 3)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 3.
 Replication steps and logs attached.
 

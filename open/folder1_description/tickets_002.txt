@@ -1,51 +1,7 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 16:31:29 UTC
+Written: 2026-05-25 16:34:31 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-62
-============================================================
-
-Summary: Deployment caused configuration issues (case 8)
-
-Description:
-Recent deployment introduced incorrect configuration values.
-Observed impact varies across services. Instance: 8.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-61
-============================================================
-
-Summary: Deployment caused configuration issues (case 7)
-
-Description:
-Recent deployment introduced incorrect configuration values.
-Observed impact varies across services. Instance: 7.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-60
-============================================================
-
-Summary: Deployment caused configuration issues (case 6)
-
-Description:
-Recent deployment introduced incorrect configuration values.
-Observed impact varies across services. Instance: 6.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-59
-============================================================
-
-Summary: Deployment caused configuration issues (case 5)
-
-Description:
-Recent deployment introduced incorrect configuration values.
-Observed impact varies across services. Instance: 5.
-Replication steps and logs attached.
 
 ============================================================
 Issue Key: SCRUM-58
@@ -111,5 +67,49 @@ Summary: API timeout under load (case 8)
 Description:
 Backend APIs are timing out when system load increases.
 Observed impact varies across services. Instance: 8.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-51
+============================================================
+
+Summary: API timeout under load (case 7)
+
+Description:
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 7.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-50
+============================================================
+
+Summary: API timeout under load (case 6)
+
+Description:
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 6.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-49
+============================================================
+
+Summary: API timeout under load (case 5)
+
+Description:
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 5.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-48
+============================================================
+
+Summary: API timeout under load (case 4)
+
+Description:
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 4.
 Replication steps and logs attached.
 

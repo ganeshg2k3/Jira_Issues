@@ -1,6 +1,6 @@
 ############################################################
 MODE: 1 - COMMENT INTELLIGENCE MODE
-Written: 2026-05-25 16:31:29 UTC
+Written: 2026-05-25 16:34:31 UTC
 ############################################################
 
 ============================================================
@@ -12,39 +12,7 @@ Commenters:
 Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-73
-============================================================
-
-Commenters:
-
-Important Discussion Points:
-
-============================================================
 Issue Key: SCRUM-72
-============================================================
-
-Commenters:
-
-Important Discussion Points:
-
-============================================================
-Issue Key: SCRUM-70
-============================================================
-
-Commenters:
-
-Important Discussion Points:
-
-============================================================
-Issue Key: SCRUM-69
-============================================================
-
-Commenters:
-
-Important Discussion Points:
-
-============================================================
-Issue Key: SCRUM-68
 ============================================================
 
 Commenters:
@@ -80,6 +48,50 @@ Important Discussion Points:
 
 ============================================================
 Issue Key: SCRUM-63
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-62
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-61
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-60
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-59
 ============================================================
 
 Commenters:

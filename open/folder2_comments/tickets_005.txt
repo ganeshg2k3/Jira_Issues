@@ -1,51 +1,7 @@
 ############################################################
 MODE: 1 - COMMENT INTELLIGENCE MODE
-Written: 2026-05-25 16:31:29 UTC
+Written: 2026-05-25 16:34:31 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-30
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
-
-============================================================
-Issue Key: SCRUM-29
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
-
-============================================================
-Issue Key: SCRUM-28
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
-
-============================================================
-Issue Key: SCRUM-27
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
 ============================================================
 Issue Key: SCRUM-26
@@ -104,6 +60,50 @@ Important Discussion Points:
 
 ============================================================
 Issue Key: SCRUM-21
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Observed in production
+* Restart temporarily reduces lag
+
+============================================================
+Issue Key: SCRUM-20
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Observed in production
+* Restart temporarily reduces lag
+
+============================================================
+Issue Key: SCRUM-19
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Observed in production
+* Restart temporarily reduces lag
+
+============================================================
+Issue Key: SCRUM-18
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Observed in production
+* Restart temporarily reduces lag
+
+============================================================
+Issue Key: SCRUM-17
 ============================================================
 
 Commenters:
