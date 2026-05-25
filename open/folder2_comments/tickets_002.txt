@@ -1,10 +1,10 @@
 ############################################################
 MODE: 1 - COMMENT INTELLIGENCE MODE
-Written: 2026-05-25 11:39:15 UTC
+Written: 2026-05-25 11:39:46 UTC
 ############################################################
 
 ============================================================
-Issue Key: KAN-1895
+Issue Key: SCRUM-66
 ============================================================
 
 Commenters:
@@ -12,7 +12,7 @@ Commenters:
 Important Discussion Points:
 
 ============================================================
-Issue Key: KAN-1894
+Issue Key: SCRUM-65
 ============================================================
 
 Commenters:
@@ -20,66 +20,90 @@ Commenters:
 Important Discussion Points:
 
 ============================================================
-Issue Key: KAN-1893
+Issue Key: SCRUM-64
 ============================================================
 
 Commenters:
+* Ganesh G
 
 Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
 
 ============================================================
-Issue Key: KAN-1892
+Issue Key: SCRUM-63
 ============================================================
 
 Commenters:
+* Ganesh G
 
 Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
 
 ============================================================
-Issue Key: KAN-1891
+Issue Key: SCRUM-62
 ============================================================
 
 Commenters:
+* Ganesh G
 
 Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
 
 ============================================================
-Issue Key: KAN-1890
+Issue Key: SCRUM-61
 ============================================================
 
 Commenters:
+* Ganesh G
 
 Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
 
 ============================================================
-Issue Key: KAN-1889
+Issue Key: SCRUM-60
 ============================================================
 
 Commenters:
+* Ganesh G
 
 Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
 
 ============================================================
-Issue Key: KAN-1886
+Issue Key: SCRUM-59
 ============================================================
 
 Commenters:
+* Ganesh G
 
 Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
 
 ============================================================
-Issue Key: KAN-1884
+Issue Key: SCRUM-58
 ============================================================
 
 Commenters:
+* Ganesh G
 
 Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
 
 ============================================================
-Issue Key: KAN-1883
+Issue Key: SCRUM-57
 ============================================================
 
 Commenters:
+* Ganesh G
 
 Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
 

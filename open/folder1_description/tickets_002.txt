@@ -1,95 +1,111 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 11:39:15 UTC
+Written: 2026-05-25 11:39:46 UTC
 ############################################################
 
 ============================================================
-Issue Key: KAN-1895
+Issue Key: SCRUM-66
 ============================================================
 
-Summary: Dummy Ticket 1488
+Summary: Add unit tests for transformation module
 
 Description:
-
+Coverage is below 60% for the transform layer. Add tests for edge cases.
 
 ============================================================
-Issue Key: KAN-1894
+Issue Key: SCRUM-65
 ============================================================
 
-Summary: Dummy Ticket 1487
+Summary: Design schema for events table
 
 Description:
-
+Define the schema for the events table including partitioning strategy.
 
 ============================================================
-Issue Key: KAN-1893
+Issue Key: SCRUM-64
 ============================================================
 
-Summary: Dummy Ticket 1486
+Summary: Deployment caused configuration issues (case 10)
 
 Description:
-
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 10.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1892
+Issue Key: SCRUM-63
 ============================================================
 
-Summary: Dummy Ticket 1485
+Summary: Deployment caused configuration issues (case 9)
 
 Description:
-
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 9.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1891
+Issue Key: SCRUM-62
 ============================================================
 
-Summary: Dummy Ticket 1484
+Summary: Deployment caused configuration issues (case 8)
 
 Description:
-
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 8.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1890
+Issue Key: SCRUM-61
 ============================================================
 
-Summary: Dummy Ticket 1483
+Summary: Deployment caused configuration issues (case 7)
 
 Description:
-
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 7.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1889
+Issue Key: SCRUM-60
 ============================================================
 
-Summary: Dummy Ticket 1482
+Summary: Deployment caused configuration issues (case 6)
 
 Description:
-
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 6.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1886
+Issue Key: SCRUM-59
 ============================================================
 
-Summary: Dummy Ticket 1479
+Summary: Deployment caused configuration issues (case 5)
 
 Description:
-
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 5.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1884
+Issue Key: SCRUM-58
 ============================================================
 
-Summary: Dummy Ticket 1477
+Summary: Deployment caused configuration issues (case 4)
 
 Description:
-
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 4.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1883
+Issue Key: SCRUM-57
 ============================================================
 
-Summary: Dummy Ticket 1476
+Summary: Deployment caused configuration issues (case 3)
 
 Description:
-
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 3.
+Replication steps and logs attached.
 

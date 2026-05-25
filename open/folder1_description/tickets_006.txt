@@ -1,95 +1,115 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 11:39:15 UTC
+Written: 2026-05-25 11:39:46 UTC
 ############################################################
 
 ============================================================
-Issue Key: KAN-1843
+Issue Key: SCRUM-26
 ============================================================
 
-Summary: Dummy Ticket 1436
+Summary: Login failures for multiple users (case 2)
 
 Description:
-
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 2.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1842
+Issue Key: SCRUM-25
 ============================================================
 
-Summary: Dummy Ticket 1435
+Summary: Login failures for multiple users (case 1)
 
 Description:
-
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 1.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1841
+Issue Key: SCRUM-24
 ============================================================
 
-Summary: Dummy Ticket 1434
+Summary: Kafka consumer lag causing delayed processing (case 10)
 
 Description:
-
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 10.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1839
+Issue Key: SCRUM-23
 ============================================================
 
-Summary: Dummy Ticket 1432
+Summary: Kafka consumer lag causing delayed processing (case 9)
 
 Description:
-
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 9.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1838
+Issue Key: SCRUM-22
 ============================================================
 
-Summary: Dummy Ticket 1431
+Summary: Kafka consumer lag causing delayed processing (case 8)
 
 Description:
-
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 8.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1837
+Issue Key: SCRUM-21
 ============================================================
 
-Summary: Dummy Ticket 1430
+Summary: Kafka consumer lag causing delayed processing (case 7)
 
 Description:
-
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 7.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1836
+Issue Key: SCRUM-20
 ============================================================
 
-Summary: Dummy Ticket 1429
+Summary: Kafka consumer lag causing delayed processing (case 6)
 
 Description:
-
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 6.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1835
+Issue Key: SCRUM-19
 ============================================================
 
-Summary: Dummy Ticket 1428
+Summary: Kafka consumer lag causing delayed processing (case 5)
 
 Description:
-
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 5.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1834
+Issue Key: SCRUM-18
 ============================================================
 
-Summary: Dummy Ticket 1427
+Summary: Kafka consumer lag causing delayed processing (case 4)
 
 Description:
-
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 4.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1831
+Issue Key: SCRUM-17
 ============================================================
 
-Summary: Dummy Ticket 1424
+Summary: Kafka consumer lag causing delayed processing (case 3)
 
 Description:
-
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 3.
+Replication steps and logs attached.
 
