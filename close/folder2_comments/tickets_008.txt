@@ -4,7 +4,67 @@ Written: 2026-05-25 16:39:34 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-52
+Issue Key: SCRUM-67
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-65
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-63
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-62
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-61
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-60
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-53
 ============================================================
 
 Commenters:
@@ -15,101 +75,13 @@ Important Discussion Points:
 * No recent config changes
 
 ============================================================
-Issue Key: SCRUM-51
+Issue Key: SCRUM-32
 ============================================================
 
 Commenters:
 * Ganesh G
 
 Important Discussion Points:
-* Latency spikes during peak hours
-* No recent config changes
-
-============================================================
-Issue Key: SCRUM-50
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Latency spikes during peak hours
-* No recent config changes
-
-============================================================
-Issue Key: SCRUM-49
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Latency spikes during peak hours
-* No recent config changes
-
-============================================================
-Issue Key: SCRUM-48
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Latency spikes during peak hours
-* No recent config changes
-
-============================================================
-Issue Key: SCRUM-47
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Latency spikes during peak hours
-* No recent config changes
-
-============================================================
-Issue Key: SCRUM-46
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Latency spikes during peak hours
-* No recent config changes
-
-============================================================
-Issue Key: SCRUM-45
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Latency spikes during peak hours
-* No recent config changes
-
-============================================================
-Issue Key: SCRUM-44
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
-
-============================================================
-Issue Key: SCRUM-43
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
+* Issue impacts mobile and web
+* Token validation failing
 
