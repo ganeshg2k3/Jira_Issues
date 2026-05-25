@@ -1,145 +1,145 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-25 11:39:10 UTC
+Written: 2026-05-25 11:39:15 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-36
+Issue Key: KAN-1855
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:52.772+0530
-Updated: 2026-05-05T23:59:54.626+0530
-Labels: case-2, error, gateway, payment
-Components: Payments
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:42:24.249+0530
+Updated: 2026-04-17T17:42:24.285+0530
+Labels: 
+Components: 
 
 ============================================================
-Issue Key: SCRUM-35
+Issue Key: KAN-1854
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:42:20.327+0530
+Updated: 2026-04-17T17:42:22.779+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1853
+============================================================
+
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:42:16.230+0530
+Updated: 2026-04-17T17:42:18.980+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1851
+============================================================
+
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:49.713+0530
-Updated: 2026-05-05T23:59:51.422+0530
-Labels: case-1, error, gateway, payment
-Components: Payments
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:42:08.724+0530
+Updated: 2026-04-17T17:42:08.783+0530
+Labels: 
+Components: 
 
 ============================================================
-Issue Key: SCRUM-34
+Issue Key: KAN-1850
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:46.581+0530
-Updated: 2026-05-05T23:59:48.412+0530
-Labels: auth, case-10, failure, login
-Components: Auth
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:42:07.099+0530
+Updated: 2026-04-17T17:42:07.159+0530
+Labels: 
+Components: 
 
 ============================================================
-Issue Key: SCRUM-33
+Issue Key: KAN-1849
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:42:03.231+0530
+Updated: 2026-04-17T17:42:05.425+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1848
+============================================================
+
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:43.808+0530
-Updated: 2026-05-05T23:59:45.430+0530
-Labels: auth, case-9, failure, login
-Components: Auth
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:42:01.208+0530
+Updated: 2026-04-17T17:42:01.265+0530
+Labels: 
+Components: 
 
 ============================================================
-Issue Key: SCRUM-32
+Issue Key: KAN-1847
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:41:56.729+0530
+Updated: 2026-04-17T17:41:59.454+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1845
+============================================================
+
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:40.950+0530
-Updated: 2026-05-05T23:59:42.611+0530
-Labels: auth, case-8, failure, login
-Components: Auth
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:41:49.059+0530
+Updated: 2026-04-17T17:41:49.123+0530
+Labels: 
+Components: 
 
 ============================================================
-Issue Key: SCRUM-31
+Issue Key: KAN-1844
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:38.091+0530
-Updated: 2026-05-05T23:59:39.734+0530
-Labels: auth, case-7, failure, login
-Components: Auth
-
-============================================================
-Issue Key: SCRUM-30
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:35.158+0530
-Updated: 2026-05-05T23:59:36.818+0530
-Labels: auth, case-6, failure, login
-Components: Auth
-
-============================================================
-Issue Key: SCRUM-29
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:32.117+0530
-Updated: 2026-05-05T23:59:33.958+0530
-Labels: auth, case-5, failure, login
-Components: Auth
-
-============================================================
-Issue Key: SCRUM-28
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:29.176+0530
-Updated: 2026-05-05T23:59:30.826+0530
-Labels: auth, case-4, failure, login
-Components: Auth
-
-============================================================
-Issue Key: SCRUM-27
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:26.264+0530
-Updated: 2026-05-05T23:59:27.897+0530
-Labels: auth, case-3, failure, login
-Components: Auth
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:41:47.414+0530
+Updated: 2026-04-17T17:41:47.478+0530
+Labels: 
+Components: 
 

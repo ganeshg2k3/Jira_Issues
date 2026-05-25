@@ -1,95 +1,95 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 11:39:10 UTC
+Written: 2026-05-25 11:39:15 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-76
+Issue Key: KAN-1909
 ============================================================
 
-Summary: Configure Jira project board and workflows
+Summary: https://harshavardhan7973.atlassian.net/jira/software/projects/KAN/boards/1?selectedIssue=KAN-6
 
 Description:
-Set up the Jira board with swim lanes, workflows, and ticket templates.
+
 
 ============================================================
-Issue Key: SCRUM-75
+Issue Key: KAN-1906
 ============================================================
 
-Summary: Write runbook for on-call pipeline failures
+Summary: Dummy Ticket 1499
 
 Description:
-Runbook created covering common failure scenarios and resolution steps.
+
 
 ============================================================
-Issue Key: SCRUM-74
+Issue Key: KAN-1905
 ============================================================
 
-Summary: Remove deprecated endpoints from v1 API
+Summary: Dummy Ticket 1498
 
 Description:
-Cleaned up all v1 endpoints that were marked deprecated since Q1.
+
 
 ============================================================
-Issue Key: SCRUM-73
+Issue Key: KAN-1903
 ============================================================
 
-Summary: Add logging to all pipeline stages
+Summary: Dummy Ticket 1496
 
 Description:
-Structured logging added across ingestion, transform, and load stages.
+
 
 ============================================================
-Issue Key: SCRUM-72
+Issue Key: KAN-1901
 ============================================================
 
-Summary: Set up local dev environment guide
+Summary: Dummy Ticket 1494
 
 Description:
-Write a guide for new devs to set up local environment with Docker.
+
 
 ============================================================
-Issue Key: SCRUM-71
+Issue Key: KAN-1900
 ============================================================
 
-Summary: Initial repo setup and folder structure
+Summary: Dummy Ticket 1493
 
 Description:
-Create the GitHub repo, set up folder structure and README.
+
 
 ============================================================
-Issue Key: SCRUM-70
+Issue Key: KAN-1899
 ============================================================
 
-Summary: Set up CI/CD for data jobs
+Summary: Dummy Ticket 1492
 
 Description:
-Automate testing and deployment of pipeline code via GitHub Actions.
+
 
 ============================================================
-Issue Key: SCRUM-69
+Issue Key: KAN-1898
 ============================================================
 
-Summary: Add retry logic to API calls
+Summary: Dummy Ticket 1491
 
 Description:
-External API calls in the sync job have no retry. Add exponential backoff.
+
 
 ============================================================
-Issue Key: SCRUM-68
+Issue Key: KAN-1897
 ============================================================
 
-Summary: Migrate legacy tables to new schema
+Summary: Dummy Ticket 1490
 
 Description:
-Old tables from v1 need to be migrated to the v2 schema with backfill.
+
 
 ============================================================
-Issue Key: SCRUM-67
+Issue Key: KAN-1896
 ============================================================
 
-Summary: Document data dictionary for all tables
+Summary: Dummy Ticket 1489
 
 Description:
-Write up definitions for all columns across the main tables in Confluence.
+
 

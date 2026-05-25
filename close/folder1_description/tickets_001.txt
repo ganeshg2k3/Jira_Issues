@@ -12,3 +12,12 @@ Summary: Setup project repository
 Description:
 Initialize repository, configure version control, and add initial project structure.
 
+============================================================
+Issue Key: KAN-5
+============================================================
+
+Summary: Setup project repository
+
+Description:
+Initialize repository, configure version control, and add initial project structure.
+

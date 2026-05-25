@@ -1,115 +1,95 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 11:39:10 UTC
+Written: 2026-05-25 11:39:15 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-36
+Issue Key: KAN-1855
 ============================================================
 
-Summary: Payment transaction failures (case 2)
+Summary: Dummy Ticket 1448
 
 Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 2.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-35
+Issue Key: KAN-1854
 ============================================================
 
-Summary: Payment transaction failures (case 1)
+Summary: Dummy Ticket 1447
 
 Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 1.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-34
+Issue Key: KAN-1853
 ============================================================
 
-Summary: Login failures for multiple users (case 10)
+Summary: Dummy Ticket 1446
 
 Description:
-Users are intermittently unable to log in due to authentication errors.
-Observed impact varies across services. Instance: 10.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-33
+Issue Key: KAN-1851
 ============================================================
 
-Summary: Login failures for multiple users (case 9)
+Summary: Dummy Ticket 1444
 
 Description:
-Users are intermittently unable to log in due to authentication errors.
-Observed impact varies across services. Instance: 9.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-32
+Issue Key: KAN-1850
 ============================================================
 
-Summary: Login failures for multiple users (case 8)
+Summary: Dummy Ticket 1443
 
 Description:
-Users are intermittently unable to log in due to authentication errors.
-Observed impact varies across services. Instance: 8.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-31
+Issue Key: KAN-1849
 ============================================================
 
-Summary: Login failures for multiple users (case 7)
+Summary: Dummy Ticket 1442
 
 Description:
-Users are intermittently unable to log in due to authentication errors.
-Observed impact varies across services. Instance: 7.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-30
+Issue Key: KAN-1848
 ============================================================
 
-Summary: Login failures for multiple users (case 6)
+Summary: Dummy Ticket 1441
 
 Description:
-Users are intermittently unable to log in due to authentication errors.
-Observed impact varies across services. Instance: 6.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-29
+Issue Key: KAN-1847
 ============================================================
 
-Summary: Login failures for multiple users (case 5)
+Summary: Dummy Ticket 1440
 
 Description:
-Users are intermittently unable to log in due to authentication errors.
-Observed impact varies across services. Instance: 5.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-28
+Issue Key: KAN-1845
 ============================================================
 
-Summary: Login failures for multiple users (case 4)
+Summary: Dummy Ticket 1438
 
 Description:
-Users are intermittently unable to log in due to authentication errors.
-Observed impact varies across services. Instance: 4.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-27
+Issue Key: KAN-1844
 ============================================================
 
-Summary: Login failures for multiple users (case 3)
+Summary: Dummy Ticket 1437
 
 Description:
-Users are intermittently unable to log in due to authentication errors.
-Observed impact varies across services. Instance: 3.
-Replication steps and logs attached.
+
 
