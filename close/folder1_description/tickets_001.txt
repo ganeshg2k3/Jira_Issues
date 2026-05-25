@@ -39,3 +39,61 @@ Summary: Configure Jira project board and workflows
 Description:
 Set up the Jira board with swim lanes, workflows, and ticket templates.
 
+============================================================
+Issue Key: SCRUM-76
+============================================================
+
+Summary: Configure Jira project board and workflows
+
+Description:
+Set up the Jira board with swim lanes, workflows, and ticket templates.
+
+============================================================
+Issue Key: SCRUM-75
+============================================================
+
+Summary: Write runbook for on-call pipeline failures
+
+Description:
+Runbook created covering common failure scenarios and resolution steps.
+
+============================================================
+Issue Key: SCRUM-71
+============================================================
+
+Summary: Initial repo setup and folder structure
+
+Description:
+Create the GitHub repo, set up folder structure and README.
+
+============================================================
+Issue Key: SCRUM-67
+============================================================
+
+Summary: Document data dictionary for all tables
+
+Description:
+Write up definitions for all columns across the main tables in Confluence.
+
+============================================================
+Issue Key: SCRUM-53
+============================================================
+
+Summary: API timeout under load (case 9)
+
+Description:
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 9.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-32
+============================================================
+
+Summary: Login failures for multiple users (case 8)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 8.
+Replication steps and logs attached.
+

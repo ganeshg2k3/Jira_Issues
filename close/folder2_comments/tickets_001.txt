@@ -35,3 +35,57 @@ Commenters:
 
 Important Discussion Points:
 
+============================================================
+Issue Key: SCRUM-76
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-75
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-71
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-67
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-53
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Latency spikes during peak hours
+* No recent config changes
+
+============================================================
+Issue Key: SCRUM-32
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+

@@ -1,51 +1,7 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 12:31:51 UTC
+Written: 2026-05-25 14:53:57 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-45
-============================================================
-
-Summary: API timeout under load (case 1)
-
-Description:
-Backend APIs are timing out when system load increases.
-Observed impact varies across services. Instance: 1.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-44
-============================================================
-
-Summary: Payment transaction failures (case 10)
-
-Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 10.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-43
-============================================================
-
-Summary: Payment transaction failures (case 9)
-
-Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 9.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-42
-============================================================
-
-Summary: Payment transaction failures (case 8)
-
-Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 8.
-Replication steps and logs attached.
 
 ============================================================
 Issue Key: SCRUM-41
@@ -111,5 +67,49 @@ Summary: Payment transaction failures (case 2)
 Description:
 Payment requests fail due to downstream gateway errors.
 Observed impact varies across services. Instance: 2.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-35
+============================================================
+
+Summary: Payment transaction failures (case 1)
+
+Description:
+Payment requests fail due to downstream gateway errors.
+Observed impact varies across services. Instance: 1.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-34
+============================================================
+
+Summary: Login failures for multiple users (case 10)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 10.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-33
+============================================================
+
+Summary: Login failures for multiple users (case 9)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 9.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-31
+============================================================
+
+Summary: Login failures for multiple users (case 7)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 7.
 Replication steps and logs attached.
 
