@@ -4,100 +4,86 @@ Written: 2026-05-25 14:54:01 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-10
+Issue Key: SCRUM-76
 ============================================================
 
 Issue Type: Task
-Status: In Progress
-Priority: Medium
+Status: Resolved
+Priority: Low
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-04-30T12:57:39.816+0530
-Updated: 2026-04-30T12:58:43.772+0530
-Labels: 
+Created: 2026-05-25T01:21:15.324+0530
+Updated: 2026-05-25T18:01:34.332+0530
+Labels: jira, setup
 Components: 
 
 ============================================================
-Issue Key: SCRUM-9
+Issue Key: SCRUM-75
 ============================================================
 
 Issue Type: Task
-Status: To Do
+Status: Resolved
 Priority: Medium
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-04-30T12:50:10.523+0530
-Updated: 2026-04-30T13:18:21.799+0530
-Labels: 
+Created: 2026-05-25T01:21:12.621+0530
+Updated: 2026-05-25T20:21:24.528+0530
+Labels: documentation, on-call
 Components: 
 
 ============================================================
-Issue Key: SCRUM-8
+Issue Key: SCRUM-71
 ============================================================
 
 Issue Type: Task
-Status: To Do
+Status: Resolved
 Priority: Medium
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-04-30T12:50:09.061+0530
-Updated: 2026-04-30T12:50:09.125+0530
-Labels: 
+Created: 2026-05-25T01:20:54.475+0530
+Updated: 2026-05-25T20:21:28.833+0530
+Labels: setup
 Components: 
 
 ============================================================
-Issue Key: SCRUM-7
+Issue Key: SCRUM-67
 ============================================================
 
 Issue Type: Task
-Status: To Do
-Priority: Medium
+Status: Resolved
+Priority: Low
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-04-30T12:50:07.447+0530
-Updated: 2026-04-30T12:50:07.503+0530
-Labels: 
+Created: 2026-05-25T01:20:45.068+0530
+Updated: 2026-05-25T20:21:33.226+0530
+Labels: documentation
 Components: 
 
 ============================================================
-Issue Key: SCRUM-6
+Issue Key: SCRUM-53
 ============================================================
 
-Issue Type: Task
-Status: To Do
-Priority: Medium
+Issue Type: Incident
+Status: Resolved
+Priority: High
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-04-30T12:50:05.879+0530
-Updated: 2026-04-30T12:50:05.972+0530
-Labels: 
-Components: 
+Created: 2026-05-06T00:00:47.234+0530
+Updated: 2026-05-25T20:21:37.919+0530
+Labels: api, case-9, latency, timeout
+Components: API
 
 ============================================================
-Issue Key: SCRUM-5
+Issue Key: SCRUM-32
 ============================================================
 
-Issue Type: Task
-Status: To Do
-Priority: Medium
+Issue Type: Incident
+Status: Resolved
+Priority: High
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-04-30T12:50:04.291+0530
-Updated: 2026-04-30T12:50:04.357+0530
-Labels: 
-Components: 
-
-============================================================
-Issue Key: SCRUM-3
-============================================================
-
-Issue Type: Service Request
-Status: In Progress
-Priority: None
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-04-30T11:20:35.152+0530
-Updated: 2026-04-30T11:20:36.778+0530
-Labels: 
-Components: 
+Created: 2026-05-05T23:59:40.950+0530
+Updated: 2026-05-25T20:21:47.290+0530
+Labels: auth, case-8, failure, login
+Components: Auth
 
