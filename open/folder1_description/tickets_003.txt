@@ -1,95 +1,115 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 11:38:36 UTC
+Written: 2026-05-25 11:39:10 UTC
 ############################################################
 
 ============================================================
-Issue Key: KAN-1882
+Issue Key: SCRUM-56
 ============================================================
 
-Summary: Dummy Ticket 1475
+Summary: Deployment caused configuration issues (case 2)
 
 Description:
-
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 2.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1879
+Issue Key: SCRUM-55
 ============================================================
 
-Summary: Dummy Ticket 1472
+Summary: Deployment caused configuration issues (case 1)
 
 Description:
-
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 1.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1878
+Issue Key: SCRUM-54
 ============================================================
 
-Summary: Dummy Ticket 1471
+Summary: API timeout under load (case 10)
 
 Description:
-
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 10.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1877
+Issue Key: SCRUM-53
 ============================================================
 
-Summary: Dummy Ticket 1470
+Summary: API timeout under load (case 9)
 
 Description:
-
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 9.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1875
+Issue Key: SCRUM-52
 ============================================================
 
-Summary: Dummy Ticket 1468
+Summary: API timeout under load (case 8)
 
 Description:
-
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 8.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1874
+Issue Key: SCRUM-51
 ============================================================
 
-Summary: Dummy Ticket 1467
+Summary: API timeout under load (case 7)
 
 Description:
-
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 7.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1873
+Issue Key: SCRUM-50
 ============================================================
 
-Summary: Dummy Ticket 1466
+Summary: API timeout under load (case 6)
 
 Description:
-
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 6.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1872
+Issue Key: SCRUM-49
 ============================================================
 
-Summary: Dummy Ticket 1465
+Summary: API timeout under load (case 5)
 
 Description:
-
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 5.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1870
+Issue Key: SCRUM-48
 ============================================================
 
-Summary: Dummy Ticket 1463
+Summary: API timeout under load (case 4)
 
 Description:
-
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 4.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1867
+Issue Key: SCRUM-47
 ============================================================
 
-Summary: Dummy Ticket 1460
+Summary: API timeout under load (case 3)
 
 Description:
-
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 3.
+Replication steps and logs attached.
 

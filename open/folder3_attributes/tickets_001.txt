@@ -1,145 +1,145 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-25 11:38:36 UTC
+Written: 2026-05-25 11:39:10 UTC
 ############################################################
 
 ============================================================
-Issue Key: KAN-1909
-============================================================
-
-Issue Type: Subtask
-Status: To Do
-Priority: Medium
-Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-30T11:56:54.727+0530
-Updated: 2026-04-30T11:56:54.817+0530
-Labels: 
-Components: 
-
-============================================================
-Issue Key: KAN-1906
+Issue Key: SCRUM-76
 ============================================================
 
 Issue Type: Task
-Status: In Progress
-Priority: Medium
+Status: To Do
+Priority: Low
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:45:42.371+0530
-Updated: 2026-04-17T17:45:45.811+0530
-Labels: 
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:15.324+0530
+Updated: 2026-05-25T01:21:15.494+0530
+Labels: jira, setup
 Components: 
 
 ============================================================
-Issue Key: KAN-1905
+Issue Key: SCRUM-75
 ============================================================
 
 Issue Type: Task
 Status: To Do
 Priority: Medium
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:45:39.523+0530
-Updated: 2026-04-17T17:45:40.907+0530
-Labels: 
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:12.621+0530
+Updated: 2026-05-25T01:21:12.675+0530
+Labels: documentation, on-call
 Components: 
 
 ============================================================
-Issue Key: KAN-1903
+Issue Key: SCRUM-74
 ============================================================
 
 Issue Type: Task
-Status: In Progress
-Priority: Medium
+Status: To Do
+Priority: Low
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:45:30.130+0530
-Updated: 2026-04-17T17:45:32.962+0530
-Labels: 
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:08.422+0530
+Updated: 2026-05-25T01:21:08.489+0530
+Labels: cleanup
 Components: 
 
 ============================================================
-Issue Key: KAN-1901
+Issue Key: SCRUM-73
 ============================================================
 
 Issue Type: Task
 Status: To Do
 Priority: Medium
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:45:22.824+0530
-Updated: 2026-04-17T17:45:22.882+0530
-Labels: 
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:03.952+0530
+Updated: 2026-05-25T01:21:04.026+0530
+Labels: logging
 Components: 
 
 ============================================================
-Issue Key: KAN-1900
+Issue Key: SCRUM-72
 ============================================================
 
 Issue Type: Task
-Status: In Progress
-Priority: Medium
+Status: To Do
+Priority: Low
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:45:18.938+0530
-Updated: 2026-04-17T17:45:21.293+0530
-Labels: 
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:59.820+0530
+Updated: 2026-05-25T01:20:59.906+0530
+Labels: documentation
 Components: 
 
 ============================================================
-Issue Key: KAN-1899
+Issue Key: SCRUM-71
 ============================================================
 
 Issue Type: Task
 Status: To Do
 Priority: Medium
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:45:17.396+0530
-Updated: 2026-04-17T17:45:17.433+0530
-Labels: 
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:54.475+0530
+Updated: 2026-05-25T01:20:54.584+0530
+Labels: setup
 Components: 
 
 ============================================================
-Issue Key: KAN-1898
+Issue Key: SCRUM-70
 ============================================================
 
 Issue Type: Task
-Status: In Progress
+Status: To Do
 Priority: Medium
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:45:12.251+0530
-Updated: 2026-04-17T17:45:14.928+0530
-Labels: 
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:52.610+0530
+Updated: 2026-05-25T01:20:52.701+0530
+Labels: automation, ci-cd
 Components: 
 
 ============================================================
-Issue Key: KAN-1897
+Issue Key: SCRUM-69
 ============================================================
 
 Issue Type: Task
-Status: In Progress
+Status: To Do
 Priority: Medium
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:45:08.095+0530
-Updated: 2026-04-17T17:45:10.478+0530
-Labels: 
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:49.582+0530
+Updated: 2026-05-25T01:20:49.671+0530
+Labels: reliability
 Components: 
 
 ============================================================
-Issue Key: KAN-1896
+Issue Key: SCRUM-68
 ============================================================
 
 Issue Type: Task
-Status: In Progress
-Priority: Medium
+Status: To Do
+Priority: High
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:45:03.871+0530
-Updated: 2026-04-17T17:45:06.499+0530
-Labels: 
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:47.026+0530
+Updated: 2026-05-25T01:20:47.082+0530
+Labels: migration
+Components: 
+
+============================================================
+Issue Key: SCRUM-67
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Low
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:45.068+0530
+Updated: 2026-05-25T01:20:45.152+0530
+Labels: documentation
 Components: 
 

@@ -1,145 +1,145 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-25 11:38:36 UTC
+Written: 2026-05-25 11:39:10 UTC
 ############################################################
 
 ============================================================
-Issue Key: KAN-1895
+Issue Key: SCRUM-66
 ============================================================
 
 Issue Type: Task
 Status: To Do
 Priority: Medium
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:45:01.435+0530
-Updated: 2026-04-17T17:45:01.468+0530
-Labels: 
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:42.184+0530
+Updated: 2026-05-25T01:20:42.254+0530
+Labels: testing
 Components: 
 
 ============================================================
-Issue Key: KAN-1894
-============================================================
-
-Issue Type: Task
-Status: In Progress
-Priority: Medium
-Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:44:56.793+0530
-Updated: 2026-04-17T17:44:59.688+0530
-Labels: 
-Components: 
-
-============================================================
-Issue Key: KAN-1893
+Issue Key: SCRUM-65
 ============================================================
 
 Issue Type: Task
 Status: To Do
 Priority: Medium
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:44:54.717+0530
-Updated: 2026-04-17T17:44:54.755+0530
-Labels: 
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:39.329+0530
+Updated: 2026-05-25T01:20:39.533+0530
+Labels: design, schema
 Components: 
 
 ============================================================
-Issue Key: KAN-1892
+Issue Key: SCRUM-64
 ============================================================
 
-Issue Type: Task
+Issue Type: Incident
 Status: To Do
-Priority: Medium
+Priority: High
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:44:51.611+0530
-Updated: 2026-04-17T17:44:53.009+0530
-Labels: 
-Components: 
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:22.800+0530
+Updated: 2026-05-06T00:01:24.784+0530
+Labels: case-10, config, deployment, incident
+Components: Deployment
 
 ============================================================
-Issue Key: KAN-1891
+Issue Key: SCRUM-63
 ============================================================
 
-Issue Type: Task
-Status: In Progress
-Priority: Medium
-Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:44:47.222+0530
-Updated: 2026-04-17T17:44:50.146+0530
-Labels: 
-Components: 
-
-============================================================
-Issue Key: KAN-1890
-============================================================
-
-Issue Type: Task
-Status: In Progress
-Priority: Medium
-Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:44:42.888+0530
-Updated: 2026-04-17T17:44:45.436+0530
-Labels: 
-Components: 
-
-============================================================
-Issue Key: KAN-1889
-============================================================
-
-Issue Type: Task
-Status: In Progress
-Priority: Medium
-Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:44:38.467+0530
-Updated: 2026-04-17T17:44:41.288+0530
-Labels: 
-Components: 
-
-============================================================
-Issue Key: KAN-1886
-============================================================
-
-Issue Type: Task
-Status: In Progress
-Priority: Medium
-Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:44:22.435+0530
-Updated: 2026-04-17T17:44:24.735+0530
-Labels: 
-Components: 
-
-============================================================
-Issue Key: KAN-1884
-============================================================
-
-Issue Type: Task
+Issue Type: Incident
 Status: To Do
-Priority: Medium
+Priority: High
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:44:15.299+0530
-Updated: 2026-04-17T17:44:15.330+0530
-Labels: 
-Components: 
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:19.478+0530
+Updated: 2026-05-06T00:01:21.557+0530
+Labels: case-9, config, deployment, incident
+Components: Deployment
 
 ============================================================
-Issue Key: KAN-1883
+Issue Key: SCRUM-62
 ============================================================
 
-Issue Type: Task
-Status: In Progress
-Priority: Medium
+Issue Type: Incident
+Status: To Do
+Priority: High
 Assignee: None
-Reporter: HarshaVardhan
-Created: 2026-04-17T17:44:11.582+0530
-Updated: 2026-04-17T17:44:14.044+0530
-Labels: 
-Components: 
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:16.175+0530
+Updated: 2026-05-06T00:01:18.033+0530
+Labels: case-8, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-61
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:13.053+0530
+Updated: 2026-05-06T00:01:14.821+0530
+Labels: case-7, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-60
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:10.012+0530
+Updated: 2026-05-06T00:01:11.792+0530
+Labels: case-6, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-59
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:06.850+0530
+Updated: 2026-05-06T00:01:08.745+0530
+Labels: case-5, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-58
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:03.580+0530
+Updated: 2026-05-06T00:01:05.583+0530
+Labels: case-4, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-57
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:00.397+0530
+Updated: 2026-05-06T00:01:02.263+0530
+Labels: case-3, config, deployment, incident
+Components: Deployment
 

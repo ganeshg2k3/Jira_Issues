@@ -1,95 +1,115 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 11:38:36 UTC
+Written: 2026-05-25 11:39:10 UTC
 ############################################################
 
 ============================================================
-Issue Key: KAN-1866
+Issue Key: SCRUM-46
 ============================================================
 
-Summary: Dummy Ticket 1459
+Summary: API timeout under load (case 2)
 
 Description:
-
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 2.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1865
+Issue Key: SCRUM-45
 ============================================================
 
-Summary: Dummy Ticket 1458
+Summary: API timeout under load (case 1)
 
 Description:
-
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 1.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1864
+Issue Key: SCRUM-44
 ============================================================
 
-Summary: Dummy Ticket 1457
+Summary: Payment transaction failures (case 10)
 
 Description:
-
+Payment requests fail due to downstream gateway errors.
+Observed impact varies across services. Instance: 10.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1863
+Issue Key: SCRUM-43
 ============================================================
 
-Summary: Dummy Ticket 1456
+Summary: Payment transaction failures (case 9)
 
 Description:
-
+Payment requests fail due to downstream gateway errors.
+Observed impact varies across services. Instance: 9.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1862
+Issue Key: SCRUM-42
 ============================================================
 
-Summary: Dummy Ticket 1455
+Summary: Payment transaction failures (case 8)
 
 Description:
-
+Payment requests fail due to downstream gateway errors.
+Observed impact varies across services. Instance: 8.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1861
+Issue Key: SCRUM-41
 ============================================================
 
-Summary: Dummy Ticket 1454
+Summary: Payment transaction failures (case 7)
 
 Description:
-
+Payment requests fail due to downstream gateway errors.
+Observed impact varies across services. Instance: 7.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1859
+Issue Key: SCRUM-40
 ============================================================
 
-Summary: Dummy Ticket 1452
+Summary: Payment transaction failures (case 6)
 
 Description:
-
+Payment requests fail due to downstream gateway errors.
+Observed impact varies across services. Instance: 6.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1858
+Issue Key: SCRUM-39
 ============================================================
 
-Summary: Dummy Ticket 1451
+Summary: Payment transaction failures (case 5)
 
 Description:
-
+Payment requests fail due to downstream gateway errors.
+Observed impact varies across services. Instance: 5.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1857
+Issue Key: SCRUM-38
 ============================================================
 
-Summary: Dummy Ticket 1450
+Summary: Payment transaction failures (case 4)
 
 Description:
-
+Payment requests fail due to downstream gateway errors.
+Observed impact varies across services. Instance: 4.
+Replication steps and logs attached.
 
 ============================================================
-Issue Key: KAN-1856
+Issue Key: SCRUM-37
 ============================================================
 
-Summary: Dummy Ticket 1449
+Summary: Payment transaction failures (case 3)
 
 Description:
-
+Payment requests fail due to downstream gateway errors.
+Observed impact varies across services. Instance: 3.
+Replication steps and logs attached.
 
