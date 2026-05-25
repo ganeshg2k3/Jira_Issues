@@ -1,115 +1,85 @@
 ############################################################
 MODE: 1 - COMMENT INTELLIGENCE MODE
-Written: 2026-05-25 10:07:18 UTC
+Written: 2026-05-25 11:38:36 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-36
+Issue Key: KAN-1855
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
 
 ============================================================
-Issue Key: SCRUM-35
+Issue Key: KAN-1854
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
 
 ============================================================
-Issue Key: SCRUM-34
+Issue Key: KAN-1853
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
 ============================================================
-Issue Key: SCRUM-33
+Issue Key: KAN-1851
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
 ============================================================
-Issue Key: SCRUM-32
+Issue Key: KAN-1850
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
 ============================================================
-Issue Key: SCRUM-31
+Issue Key: KAN-1849
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
 ============================================================
-Issue Key: SCRUM-30
+Issue Key: KAN-1848
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
 ============================================================
-Issue Key: SCRUM-29
+Issue Key: KAN-1847
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
 ============================================================
-Issue Key: SCRUM-28
+Issue Key: KAN-1845
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
 ============================================================
-Issue Key: SCRUM-27
+Issue Key: KAN-1844
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 

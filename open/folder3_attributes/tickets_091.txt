@@ -1,0 +1,145 @@
+############################################################
+MODE: 3 - ATTRIBUTE MODE
+Written: 2026-05-25 11:38:36 UTC
+############################################################
+
+============================================================
+Issue Key: KAN-737
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T16:37:36.690+0530
+Updated: 2026-04-17T16:37:36.753+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-736
+============================================================
+
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T16:37:32.937+0530
+Updated: 2026-04-17T16:37:35.181+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-735
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T16:37:30.377+0530
+Updated: 2026-04-17T16:37:31.585+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-734
+============================================================
+
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T16:37:26.188+0530
+Updated: 2026-04-17T16:37:28.859+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-732
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T16:37:19.170+0530
+Updated: 2026-04-17T16:37:19.230+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-731
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T16:37:17.407+0530
+Updated: 2026-04-17T16:37:17.466+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-730
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T16:37:15.508+0530
+Updated: 2026-04-17T16:37:15.552+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-729
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T16:37:12.205+0530
+Updated: 2026-04-17T16:37:13.249+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-728
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T16:37:10.145+0530
+Updated: 2026-04-17T16:37:10.210+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-727
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T16:37:08.411+0530
+Updated: 2026-04-17T16:37:08.474+0530
+Labels: 
+Components: 
+

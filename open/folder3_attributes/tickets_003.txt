@@ -1,145 +1,145 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-25 10:07:18 UTC
+Written: 2026-05-25 11:38:36 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-56
+Issue Key: KAN-1882
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:56.878+0530
-Updated: 2026-05-06T00:00:58.924+0530
-Labels: case-2, config, deployment, incident
-Components: Deployment
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:44:08.765+0530
+Updated: 2026-04-17T17:44:09.855+0530
+Labels: 
+Components: 
 
 ============================================================
-Issue Key: SCRUM-55
+Issue Key: KAN-1879
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:43:53.690+0530
+Updated: 2026-04-17T17:43:56.407+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1878
+============================================================
+
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:53.563+0530
-Updated: 2026-05-06T00:00:55.525+0530
-Labels: case-1, config, deployment, incident
-Components: Deployment
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:43:50.182+0530
+Updated: 2026-04-17T17:43:51.653+0530
+Labels: 
+Components: 
 
 ============================================================
-Issue Key: SCRUM-54
+Issue Key: KAN-1877
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:50.358+0530
-Updated: 2026-05-06T00:00:52.218+0530
-Labels: api, case-10, latency, timeout
-Components: API
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:43:48.046+0530
+Updated: 2026-04-17T17:43:48.111+0530
+Labels: 
+Components: 
 
 ============================================================
-Issue Key: SCRUM-53
+Issue Key: KAN-1875
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:47.234+0530
-Updated: 2026-05-06T00:00:49.097+0530
-Labels: api, case-9, latency, timeout
-Components: API
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:43:39.176+0530
+Updated: 2026-04-17T17:43:40.409+0530
+Labels: 
+Components: 
 
 ============================================================
-Issue Key: SCRUM-52
+Issue Key: KAN-1874
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:43:34.489+0530
+Updated: 2026-04-17T17:43:37.611+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1873
+============================================================
+
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:43:29.814+0530
+Updated: 2026-04-17T17:43:32.686+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1872
+============================================================
+
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:44.207+0530
-Updated: 2026-05-06T00:00:46.016+0530
-Labels: api, case-8, latency, timeout
-Components: API
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:43:26.476+0530
+Updated: 2026-04-17T17:43:28.090+0530
+Labels: 
+Components: 
 
 ============================================================
-Issue Key: SCRUM-51
+Issue Key: KAN-1870
 ============================================================
 
-Issue Type: Incident
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:43:16.680+0530
+Updated: 2026-04-17T17:43:19.353+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1867
+============================================================
+
+Issue Type: Task
 Status: To Do
-Priority: High
+Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:41.016+0530
-Updated: 2026-05-06T00:00:42.925+0530
-Labels: api, case-7, latency, timeout
-Components: API
-
-============================================================
-Issue Key: SCRUM-50
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:38.137+0530
-Updated: 2026-05-06T00:00:39.788+0530
-Labels: api, case-6, latency, timeout
-Components: API
-
-============================================================
-Issue Key: SCRUM-49
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:35.132+0530
-Updated: 2026-05-06T00:00:36.959+0530
-Labels: api, case-5, latency, timeout
-Components: API
-
-============================================================
-Issue Key: SCRUM-48
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:32.076+0530
-Updated: 2026-05-06T00:00:33.800+0530
-Labels: api, case-4, latency, timeout
-Components: API
-
-============================================================
-Issue Key: SCRUM-47
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:28.814+0530
-Updated: 2026-05-06T00:00:30.866+0530
-Labels: api, case-3, latency, timeout
-Components: API
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:43:04.465+0530
+Updated: 2026-04-17T17:43:04.530+0530
+Labels: 
+Components: 
 

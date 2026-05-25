@@ -1,145 +1,145 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-25 10:07:18 UTC
+Written: 2026-05-25 11:38:36 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-16
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:58:51.533+0530
-Updated: 2026-05-05T23:58:53.405+0530
-Labels: case-2, kafka, lag, streaming
-Components: Notifications, Streaming
-
-============================================================
-Issue Key: SCRUM-15
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:58:48.047+0530
-Updated: 2026-05-05T23:58:50.356+0530
-Labels: case-1, kafka, lag, streaming
-Components: Notifications, Streaming
-
-============================================================
-Issue Key: SCRUM-14
+Issue Key: KAN-1830
 ============================================================
 
 Issue Type: Task
 Status: To Do
 Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-04-30T12:57:57.138+0530
-Updated: 2026-04-30T12:57:59.327+0530
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:40:54.242+0530
+Updated: 2026-04-17T17:40:55.631+0530
 Labels: 
 Components: 
 
 ============================================================
-Issue Key: SCRUM-13
-============================================================
-
-Issue Type: Task
-Status: To Do
-Priority: Medium
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-04-30T12:57:53.501+0530
-Updated: 2026-04-30T12:57:55.630+0530
-Labels: 
-Components: 
-
-============================================================
-Issue Key: SCRUM-12
-============================================================
-
-Issue Type: Task
-Status: To Do
-Priority: Medium
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-04-30T12:57:49.610+0530
-Updated: 2026-04-30T12:57:51.933+0530
-Labels: 
-Components: 
-
-============================================================
-Issue Key: SCRUM-11
-============================================================
-
-Issue Type: Task
-Status: To Do
-Priority: Medium
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-04-30T12:57:43.225+0530
-Updated: 2026-04-30T12:57:48.332+0530
-Labels: 
-Components: 
-
-============================================================
-Issue Key: SCRUM-10
+Issue Key: KAN-1828
 ============================================================
 
 Issue Type: Task
 Status: In Progress
 Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-04-30T12:57:39.816+0530
-Updated: 2026-04-30T12:58:43.772+0530
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:40:44.378+0530
+Updated: 2026-04-17T17:40:47.142+0530
 Labels: 
 Components: 
 
 ============================================================
-Issue Key: SCRUM-9
+Issue Key: KAN-1827
 ============================================================
 
 Issue Type: Task
 Status: To Do
 Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-04-30T12:50:10.523+0530
-Updated: 2026-04-30T13:18:21.799+0530
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:40:42.547+0530
+Updated: 2026-04-17T17:40:42.605+0530
 Labels: 
 Components: 
 
 ============================================================
-Issue Key: SCRUM-8
+Issue Key: KAN-1826
+============================================================
+
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:40:37.741+0530
+Updated: 2026-04-17T17:40:40.886+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1825
 ============================================================
 
 Issue Type: Task
 Status: To Do
 Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-04-30T12:50:09.061+0530
-Updated: 2026-04-30T12:50:09.125+0530
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:40:36.240+0530
+Updated: 2026-04-17T17:40:36.276+0530
 Labels: 
 Components: 
 
 ============================================================
-Issue Key: SCRUM-7
+Issue Key: KAN-1823
 ============================================================
 
 Issue Type: Task
 Status: To Do
 Priority: Medium
 Assignee: None
-Reporter: Ganesh G
-Created: 2026-04-30T12:50:07.447+0530
-Updated: 2026-04-30T12:50:07.503+0530
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:40:27.122+0530
+Updated: 2026-04-17T17:40:28.496+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1822
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:40:23.777+0530
+Updated: 2026-04-17T17:40:25.407+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1821
+============================================================
+
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:40:19.150+0530
+Updated: 2026-04-17T17:40:21.770+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1820
+============================================================
+
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:40:15.461+0530
+Updated: 2026-04-17T17:40:17.743+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: KAN-1819
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: HarshaVardhan
+Created: 2026-04-17T17:40:11.905+0530
+Updated: 2026-04-17T17:40:13.522+0530
 Labels: 
 Components: 
 
