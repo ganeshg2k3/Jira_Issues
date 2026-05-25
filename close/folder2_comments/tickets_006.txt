@@ -4,112 +4,91 @@ Written: 2026-05-25 16:39:30 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-42
+Issue Key: SCRUM-73
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-71
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-70
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-69
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-68
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-67
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-65
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-63
 ============================================================
 
 Commenters:
 * Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
+* Issue started after release
+* Rollback resolved partially
 
 ============================================================
-Issue Key: SCRUM-41
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
-
-============================================================
-Issue Key: SCRUM-40
+Issue Key: SCRUM-62
 ============================================================
 
 Commenters:
 * Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
+* Issue started after release
+* Rollback resolved partially
 
 ============================================================
-Issue Key: SCRUM-39
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
-
-============================================================
-Issue Key: SCRUM-38
+Issue Key: SCRUM-61
 ============================================================
 
 Commenters:
 * Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
-
-============================================================
-Issue Key: SCRUM-37
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
-
-============================================================
-Issue Key: SCRUM-36
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
-
-============================================================
-Issue Key: SCRUM-35
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
-
-============================================================
-Issue Key: SCRUM-34
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
-
-============================================================
-Issue Key: SCRUM-33
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
+* Issue started after release
+* Rollback resolved partially
 
