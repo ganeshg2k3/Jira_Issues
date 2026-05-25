@@ -1,21 +1,7 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-25 12:30:23 UTC
+Written: 2026-05-25 12:31:47 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-16
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:58:51.533+0530
-Updated: 2026-05-05T23:58:53.405+0530
-Labels: case-2, kafka, lag, streaming
-Components: Notifications, Streaming
 
 ============================================================
 Issue Key: SCRUM-15
@@ -140,6 +126,20 @@ Assignee: None
 Reporter: Ganesh G
 Created: 2026-04-30T12:50:07.447+0530
 Updated: 2026-04-30T12:50:07.503+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: SCRUM-6
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T12:50:05.879+0530
+Updated: 2026-04-30T12:50:05.972+0530
 Labels: 
 Components: 
 

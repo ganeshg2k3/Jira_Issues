@@ -1,18 +1,7 @@
 ############################################################
 MODE: 1 - COMMENT INTELLIGENCE MODE
-Written: 2026-05-25 12:30:23 UTC
+Written: 2026-05-25 12:31:47 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-26
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
 ============================================================
 Issue Key: SCRUM-25
@@ -104,6 +93,17 @@ Important Discussion Points:
 
 ============================================================
 Issue Key: SCRUM-17
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Observed in production
+* Restart temporarily reduces lag
+
+============================================================
+Issue Key: SCRUM-16
 ============================================================
 
 Commenters:

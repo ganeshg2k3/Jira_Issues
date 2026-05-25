@@ -1,18 +1,7 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 12:30:23 UTC
+Written: 2026-05-25 12:31:47 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-26
-============================================================
-
-Summary: Login failures for multiple users (case 2)
-
-Description:
-Users are intermittently unable to log in due to authentication errors.
-Observed impact varies across services. Instance: 2.
-Replication steps and logs attached.
 
 ============================================================
 Issue Key: SCRUM-25
@@ -111,5 +100,16 @@ Summary: Kafka consumer lag causing delayed processing (case 3)
 Description:
 Kafka consumers are experiencing lag after deployment, impacting downstream services.
 Observed impact varies across services. Instance: 3.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-16
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 2)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 2.
 Replication steps and logs attached.
 

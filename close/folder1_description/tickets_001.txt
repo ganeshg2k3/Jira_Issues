@@ -21,3 +21,12 @@ Summary: Setup project repository
 Description:
 Initialize repository, configure version control, and add initial project structure.
 
+============================================================
+Issue Key: SCRUM-76
+============================================================
+
+Summary: Configure Jira project board and workflows
+
+Description:
+Set up the Jira board with swim lanes, workflows, and ticket templates.
+

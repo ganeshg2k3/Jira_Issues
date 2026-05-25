@@ -1,16 +1,7 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 12:30:23 UTC
+Written: 2026-05-25 12:31:47 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-66
-============================================================
-
-Summary: Add unit tests for transformation module
-
-Description:
-Coverage is below 60% for the transform layer. Add tests for edge cases.
 
 ============================================================
 Issue Key: SCRUM-65
@@ -107,5 +98,16 @@ Summary: Deployment caused configuration issues (case 3)
 Description:
 Recent deployment introduced incorrect configuration values.
 Observed impact varies across services. Instance: 3.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-56
+============================================================
+
+Summary: Deployment caused configuration issues (case 2)
+
+Description:
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 2.
 Replication steps and logs attached.
 

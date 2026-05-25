@@ -1,21 +1,7 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-25 12:30:23 UTC
+Written: 2026-05-25 12:31:47 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-66
-============================================================
-
-Issue Type: Task
-Status: To Do
-Priority: Medium
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-25T01:20:42.184+0530
-Updated: 2026-05-25T01:20:42.254+0530
-Labels: testing
-Components: 
 
 ============================================================
 Issue Key: SCRUM-65
@@ -141,5 +127,19 @@ Reporter: Ganesh G
 Created: 2026-05-06T00:01:00.397+0530
 Updated: 2026-05-06T00:01:02.263+0530
 Labels: case-3, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-56
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:00:56.878+0530
+Updated: 2026-05-06T00:00:58.924+0530
+Labels: case-2, config, deployment, incident
 Components: Deployment
 

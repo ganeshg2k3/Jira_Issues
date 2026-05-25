@@ -1,21 +1,7 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-25 12:30:23 UTC
+Written: 2026-05-25 12:31:47 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-76
-============================================================
-
-Issue Type: Task
-Status: To Do
-Priority: Low
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-25T01:21:15.324+0530
-Updated: 2026-05-25T01:21:15.494+0530
-Labels: jira, setup
-Components: 
 
 ============================================================
 Issue Key: SCRUM-75
@@ -141,5 +127,19 @@ Reporter: Ganesh G
 Created: 2026-05-25T01:20:45.068+0530
 Updated: 2026-05-25T01:20:45.152+0530
 Labels: documentation
+Components: 
+
+============================================================
+Issue Key: SCRUM-66
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:42.184+0530
+Updated: 2026-05-25T01:20:42.254+0530
+Labels: testing
 Components: 
 

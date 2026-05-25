@@ -1,21 +1,7 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-25 12:30:23 UTC
+Written: 2026-05-25 12:31:47 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-26
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:59:22.905+0530
-Updated: 2026-05-05T23:59:25.039+0530
-Labels: auth, case-2, failure, login
-Components: Auth
 
 ============================================================
 Issue Key: SCRUM-25
@@ -141,5 +127,19 @@ Reporter: Ganesh G
 Created: 2026-05-05T23:58:54.638+0530
 Updated: 2026-05-05T23:58:56.576+0530
 Labels: case-3, kafka, lag, streaming
+Components: Notifications, Streaming
+
+============================================================
+Issue Key: SCRUM-16
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:58:51.533+0530
+Updated: 2026-05-05T23:58:53.405+0530
+Labels: case-2, kafka, lag, streaming
 Components: Notifications, Streaming
 

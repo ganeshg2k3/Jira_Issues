@@ -1,16 +1,7 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 12:30:23 UTC
+Written: 2026-05-25 12:31:47 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-76
-============================================================
-
-Summary: Configure Jira project board and workflows
-
-Description:
-Set up the Jira board with swim lanes, workflows, and ticket templates.
 
 ============================================================
 Issue Key: SCRUM-75
@@ -92,4 +83,13 @@ Summary: Document data dictionary for all tables
 
 Description:
 Write up definitions for all columns across the main tables in Confluence.
+
+============================================================
+Issue Key: SCRUM-66
+============================================================
+
+Summary: Add unit tests for transformation module
+
+Description:
+Coverage is below 60% for the transform layer. Add tests for edge cases.
 

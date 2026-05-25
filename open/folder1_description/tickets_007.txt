@@ -1,18 +1,7 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 12:30:23 UTC
+Written: 2026-05-25 12:31:47 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-16
-============================================================
-
-Summary: Kafka consumer lag causing delayed processing (case 2)
-
-Description:
-Kafka consumers are experiencing lag after deployment, impacting downstream services.
-Observed impact varies across services. Instance: 2.
-Replication steps and logs attached.
 
 ============================================================
 Issue Key: SCRUM-15
@@ -93,6 +82,15 @@ Issue Key: SCRUM-7
 ============================================================
 
 Summary: Auto-generated ticket 3
+
+Description:
+
+
+============================================================
+Issue Key: SCRUM-6
+============================================================
+
+Summary: Auto-generated ticket 2
 
 Description:
 

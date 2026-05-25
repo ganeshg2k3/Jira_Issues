@@ -1,18 +1,7 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-25 12:30:23 UTC
+Written: 2026-05-25 12:31:47 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-56
-============================================================
-
-Summary: Deployment caused configuration issues (case 2)
-
-Description:
-Recent deployment introduced incorrect configuration values.
-Observed impact varies across services. Instance: 2.
-Replication steps and logs attached.
 
 ============================================================
 Issue Key: SCRUM-55
@@ -111,5 +100,16 @@ Summary: API timeout under load (case 3)
 Description:
 Backend APIs are timing out when system load increases.
 Observed impact varies across services. Instance: 3.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-46
+============================================================
+
+Summary: API timeout under load (case 2)
+
+Description:
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 2.
 Replication steps and logs attached.
 
