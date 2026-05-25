@@ -1,0 +1,115 @@
+############################################################
+INPUT FILE: tickets_001.txt
+MODE: 1 - COMMENT INTELLIGENCE MODE
+############################################################
+
+============================================================
+Issue Key: SCRUM-56
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-55
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-54
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Latency spikes during peak hours
+* No recent config changes
+
+============================================================
+Issue Key: SCRUM-53
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Latency spikes during peak hours
+* No recent config changes
+
+============================================================
+Issue Key: SCRUM-52
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Latency spikes during peak hours
+* No recent config changes
+
+============================================================
+Issue Key: SCRUM-51
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Latency spikes during peak hours
+* No recent config changes
+
+============================================================
+Issue Key: SCRUM-50
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Latency spikes during peak hours
+* No recent config changes
+
+============================================================
+Issue Key: SCRUM-49
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Latency spikes during peak hours
+* No recent config changes
+
+============================================================
+Issue Key: SCRUM-48
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Latency spikes during peak hours
+* No recent config changes
+
+============================================================
+Issue Key: SCRUM-47
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Latency spikes during peak hours
+* No recent config changes
+

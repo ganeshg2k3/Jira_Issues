@@ -1,0 +1,115 @@
+############################################################
+INPUT FILE: tickets_001.txt
+MODE: 2 - DESCRIPTION MODE
+############################################################
+
+============================================================
+Issue Key: SCRUM-26
+============================================================
+
+Summary: Login failures for multiple users (case 2)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 2.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-25
+============================================================
+
+Summary: Login failures for multiple users (case 1)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 1.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-24
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 10)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 10.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-23
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 9)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 9.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-22
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 8)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 8.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-21
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 7)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 7.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-20
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 6)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 6.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-19
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 5)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 5.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-18
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 4)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 4.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-17
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 3)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 3.
+Replication steps and logs attached.
+

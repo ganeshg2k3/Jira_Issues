@@ -1,0 +1,145 @@
+############################################################
+INPUT FILE: tickets_001.txt
+MODE: 3 - ATTRIBUTE MODE
+############################################################
+
+============================================================
+Issue Key: SCRUM-76
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Low
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:15.324+0530
+Updated: 2026-05-25T01:21:15.494+0530
+Labels: jira, setup
+Components: 
+
+============================================================
+Issue Key: SCRUM-75
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:12.621+0530
+Updated: 2026-05-25T01:21:12.675+0530
+Labels: documentation, on-call
+Components: 
+
+============================================================
+Issue Key: SCRUM-74
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Low
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:08.422+0530
+Updated: 2026-05-25T01:21:08.489+0530
+Labels: cleanup
+Components: 
+
+============================================================
+Issue Key: SCRUM-73
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:03.952+0530
+Updated: 2026-05-25T01:21:04.026+0530
+Labels: logging
+Components: 
+
+============================================================
+Issue Key: SCRUM-72
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Low
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:59.820+0530
+Updated: 2026-05-25T01:20:59.906+0530
+Labels: documentation
+Components: 
+
+============================================================
+Issue Key: SCRUM-71
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:54.475+0530
+Updated: 2026-05-25T01:20:54.584+0530
+Labels: setup
+Components: 
+
+============================================================
+Issue Key: SCRUM-70
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:52.610+0530
+Updated: 2026-05-25T01:20:52.701+0530
+Labels: automation, ci-cd
+Components: 
+
+============================================================
+Issue Key: SCRUM-69
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:49.582+0530
+Updated: 2026-05-25T01:20:49.671+0530
+Labels: reliability
+Components: 
+
+============================================================
+Issue Key: SCRUM-68
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:47.026+0530
+Updated: 2026-05-25T01:20:47.082+0530
+Labels: migration
+Components: 
+
+============================================================
+Issue Key: SCRUM-67
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Low
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:45.068+0530
+Updated: 2026-05-25T01:20:45.152+0530
+Labels: documentation
+Components: 
+

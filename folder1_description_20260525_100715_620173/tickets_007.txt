@@ -1,0 +1,99 @@
+############################################################
+INPUT FILE: tickets_001.txt
+MODE: 2 - DESCRIPTION MODE
+############################################################
+
+============================================================
+Issue Key: SCRUM-16
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 2)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 2.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-15
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 1)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 1.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-14
+============================================================
+
+Summary: Auto-generated ticket 5
+
+Description:
+
+
+============================================================
+Issue Key: SCRUM-13
+============================================================
+
+Summary: Auto-generated ticket 4
+
+Description:
+
+
+============================================================
+Issue Key: SCRUM-12
+============================================================
+
+Summary: Auto-generated ticket 3
+
+Description:
+
+
+============================================================
+Issue Key: SCRUM-11
+============================================================
+
+Summary: Auto-generated ticket 2
+
+Description:
+
+
+============================================================
+Issue Key: SCRUM-10
+============================================================
+
+Summary: Auto-generated ticket 1
+
+Description:
+
+
+============================================================
+Issue Key: SCRUM-9
+============================================================
+
+Summary: Auto-generated ticket 5
+
+Description:
+
+
+============================================================
+Issue Key: SCRUM-8
+============================================================
+
+Summary: Auto-generated ticket 4
+
+Description:
+
+
+============================================================
+Issue Key: SCRUM-7
+============================================================
+
+Summary: Auto-generated ticket 3
+
+Description:
+
+

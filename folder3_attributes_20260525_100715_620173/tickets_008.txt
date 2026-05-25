@@ -1,0 +1,47 @@
+############################################################
+INPUT FILE: tickets_001.txt
+MODE: 3 - ATTRIBUTE MODE
+############################################################
+
+============================================================
+Issue Key: SCRUM-6
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T12:50:05.879+0530
+Updated: 2026-04-30T12:50:05.972+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: SCRUM-5
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T12:50:04.291+0530
+Updated: 2026-04-30T12:50:04.357+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: SCRUM-3
+============================================================
+
+Issue Type: Service Request
+Status: In Progress
+Priority: None
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T11:20:35.152+0530
+Updated: 2026-04-30T11:20:36.778+0530
+Labels: 
+Components: 
+

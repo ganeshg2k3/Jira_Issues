@@ -1,0 +1,145 @@
+############################################################
+INPUT FILE: tickets_001.txt
+MODE: 3 - ATTRIBUTE MODE
+############################################################
+
+============================================================
+Issue Key: SCRUM-36
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:52.772+0530
+Updated: 2026-05-05T23:59:54.626+0530
+Labels: case-2, error, gateway, payment
+Components: Payments
+
+============================================================
+Issue Key: SCRUM-35
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:49.713+0530
+Updated: 2026-05-05T23:59:51.422+0530
+Labels: case-1, error, gateway, payment
+Components: Payments
+
+============================================================
+Issue Key: SCRUM-34
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:46.581+0530
+Updated: 2026-05-05T23:59:48.412+0530
+Labels: auth, case-10, failure, login
+Components: Auth
+
+============================================================
+Issue Key: SCRUM-33
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:43.808+0530
+Updated: 2026-05-05T23:59:45.430+0530
+Labels: auth, case-9, failure, login
+Components: Auth
+
+============================================================
+Issue Key: SCRUM-32
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:40.950+0530
+Updated: 2026-05-05T23:59:42.611+0530
+Labels: auth, case-8, failure, login
+Components: Auth
+
+============================================================
+Issue Key: SCRUM-31
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:38.091+0530
+Updated: 2026-05-05T23:59:39.734+0530
+Labels: auth, case-7, failure, login
+Components: Auth
+
+============================================================
+Issue Key: SCRUM-30
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:35.158+0530
+Updated: 2026-05-05T23:59:36.818+0530
+Labels: auth, case-6, failure, login
+Components: Auth
+
+============================================================
+Issue Key: SCRUM-29
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:32.117+0530
+Updated: 2026-05-05T23:59:33.958+0530
+Labels: auth, case-5, failure, login
+Components: Auth
+
+============================================================
+Issue Key: SCRUM-28
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:29.176+0530
+Updated: 2026-05-05T23:59:30.826+0530
+Labels: auth, case-4, failure, login
+Components: Auth
+
+============================================================
+Issue Key: SCRUM-27
+============================================================
+
+Issue Type: Incident
+Status: To Do
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:26.264+0530
+Updated: 2026-05-05T23:59:27.897+0530
+Labels: auth, case-3, failure, login
+Components: Auth
+
