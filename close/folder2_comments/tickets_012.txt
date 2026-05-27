@@ -4,7 +4,7 @@ Written: 2026-05-27 17:16:12 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-11
+Issue Key: SCRUM-73
 ============================================================
 
 Commenters:
@@ -12,7 +12,7 @@ Commenters:
 Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-10
+Issue Key: SCRUM-71
 ============================================================
 
 Commenters:
@@ -20,7 +20,7 @@ Commenters:
 Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-9
+Issue Key: SCRUM-70
 ============================================================
 
 Commenters:
@@ -28,7 +28,7 @@ Commenters:
 Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-8
+Issue Key: SCRUM-69
 ============================================================
 
 Commenters:
@@ -36,7 +36,7 @@ Commenters:
 Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-7
+Issue Key: SCRUM-68
 ============================================================
 
 Commenters:
@@ -44,7 +44,7 @@ Commenters:
 Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-6
+Issue Key: SCRUM-67
 ============================================================
 
 Commenters:
@@ -52,7 +52,7 @@ Commenters:
 Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-5
+Issue Key: SCRUM-65
 ============================================================
 
 Commenters:
@@ -60,10 +60,35 @@ Commenters:
 Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-3
+Issue Key: SCRUM-63
 ============================================================
 
 Commenters:
+* Ganesh G
 
 Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-62
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-61
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
 

@@ -1,0 +1,47 @@
+############################################################
+MODE: 3 - ATTRIBUTE MODE
+Written: 2026-05-27 17:16:12 UTC
+############################################################
+
+============================================================
+Issue Key: SCRUM-60
+============================================================
+
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:10.012+0530
+Updated: 2026-05-25T22:09:10.516+0530
+Labels: case-6, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-53
+============================================================
+
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:00:47.234+0530
+Updated: 2026-05-25T20:21:37.919+0530
+Labels: api, case-9, latency, timeout
+Components: API
+
+============================================================
+Issue Key: SCRUM-32
+============================================================
+
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:40.950+0530
+Updated: 2026-05-25T20:21:47.290+0530
+Labels: auth, case-8, failure, login
+Components: Auth
+
