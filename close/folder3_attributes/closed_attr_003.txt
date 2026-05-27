@@ -1,23 +1,19 @@
 ############################################################
-MODE: 2 - DESCRIPTION MODE
+MODE: 3 - ATTRIBUTE MODE
 Written: 2026-05-27 19:20:52 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-6
+Issue Key: SCRUM-33
 ============================================================
 
-Summary: Auto-generated ticket 2
-
-Description:
-
-
-============================================================
-Issue Key: SCRUM-3
-============================================================
-
-Summary: Task 3
-
-Description:
-
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:43.808+0530
+Updated: 2026-05-28T00:50:39.465+0530
+Labels: auth, case-9, failure, login
+Components: Auth
 

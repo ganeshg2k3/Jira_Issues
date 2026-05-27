@@ -4,18 +4,13 @@ Written: 2026-05-27 19:20:52 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-6
+Issue Key: SCRUM-33
 ============================================================
 
 Commenters:
+* Ganesh G
 
 Important Discussion Points:
-
-============================================================
-Issue Key: SCRUM-3
-============================================================
-
-Commenters:
-
-Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
 

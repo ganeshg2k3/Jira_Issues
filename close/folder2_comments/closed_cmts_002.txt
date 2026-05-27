@@ -96,3 +96,14 @@ Commenters:
 
 Important Discussion Points:
 
+============================================================
+Issue Key: SCRUM-34
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+

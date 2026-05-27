@@ -1,6 +1,6 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-27 19:19:22 UTC
+Written: 2026-05-27 19:20:52 UTC
 ############################################################
 
 ============================================================
@@ -116,7 +116,7 @@ Labels: case-1, error, gateway, payment
 Components: Payments
 
 ============================================================
-Issue Key: SCRUM-34
+Issue Key: SCRUM-31
 ============================================================
 
 Issue Type: Incident
@@ -124,13 +124,13 @@ Status: To Do
 Priority: High
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-05-05T23:59:46.581+0530
-Updated: 2026-05-05T23:59:48.412+0530
-Labels: auth, case-10, failure, login
+Created: 2026-05-05T23:59:38.091+0530
+Updated: 2026-05-05T23:59:39.734+0530
+Labels: auth, case-7, failure, login
 Components: Auth
 
 ============================================================
-Issue Key: SCRUM-33
+Issue Key: SCRUM-30
 ============================================================
 
 Issue Type: Incident
@@ -138,8 +138,8 @@ Status: To Do
 Priority: High
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-05-05T23:59:43.808+0530
-Updated: 2026-05-05T23:59:45.430+0530
-Labels: auth, case-9, failure, login
+Created: 2026-05-05T23:59:35.158+0530
+Updated: 2026-05-05T23:59:36.818+0530
+Labels: auth, case-6, failure, login
 Components: Auth
 

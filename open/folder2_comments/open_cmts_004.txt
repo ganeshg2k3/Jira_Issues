@@ -1,29 +1,7 @@
 ############################################################
 MODE: 1 - COMMENT INTELLIGENCE MODE
-Written: 2026-05-27 19:19:22 UTC
+Written: 2026-05-27 19:20:52 UTC
 ############################################################
-
-============================================================
-Issue Key: SCRUM-31
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
-
-============================================================
-Issue Key: SCRUM-30
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
 ============================================================
 Issue Key: SCRUM-29
@@ -104,6 +82,28 @@ Important Discussion Points:
 
 ============================================================
 Issue Key: SCRUM-22
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Observed in production
+* Restart temporarily reduces lag
+
+============================================================
+Issue Key: SCRUM-21
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Observed in production
+* Restart temporarily reduces lag
+
+============================================================
+Issue Key: SCRUM-20
 ============================================================
 
 Commenters:

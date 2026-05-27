@@ -98,3 +98,14 @@ Summary: Auto-generated ticket 1
 Description:
 
 
+============================================================
+Issue Key: SCRUM-34
+============================================================
+
+Summary: Login failures for multiple users (case 10)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 10.
+Replication steps and logs attached.
+
