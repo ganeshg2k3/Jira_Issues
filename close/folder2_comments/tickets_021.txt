@@ -4,103 +4,91 @@ Written: 2026-05-27 17:28:39 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-21
+Issue Key: SCRUM-73
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-71
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-70
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-69
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-68
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-67
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-65
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-63
 ============================================================
 
 Commenters:
 * Ganesh G
 
 Important Discussion Points:
-* Observed in production
-* Restart temporarily reduces lag
+* Issue started after release
+* Rollback resolved partially
 
 ============================================================
-Issue Key: SCRUM-20
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Observed in production
-* Restart temporarily reduces lag
-
-============================================================
-Issue Key: SCRUM-19
+Issue Key: SCRUM-62
 ============================================================
 
 Commenters:
 * Ganesh G
 
 Important Discussion Points:
-* Observed in production
-* Restart temporarily reduces lag
+* Issue started after release
+* Rollback resolved partially
 
 ============================================================
-Issue Key: SCRUM-18
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Observed in production
-* Restart temporarily reduces lag
-
-============================================================
-Issue Key: SCRUM-17
+Issue Key: SCRUM-61
 ============================================================
 
 Commenters:
 * Ganesh G
 
 Important Discussion Points:
-* Observed in production
-* Restart temporarily reduces lag
-
-============================================================
-Issue Key: SCRUM-16
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Observed in production
-* Restart temporarily reduces lag
-
-============================================================
-Issue Key: SCRUM-15
-============================================================
-
-Commenters:
-* Ganesh G
-
-Important Discussion Points:
-* Observed in production
-* Restart temporarily reduces lag
-
-============================================================
-Issue Key: SCRUM-14
-============================================================
-
-Commenters:
-
-Important Discussion Points:
-
-============================================================
-Issue Key: SCRUM-13
-============================================================
-
-Commenters:
-
-Important Discussion Points:
-
-============================================================
-Issue Key: SCRUM-12
-============================================================
-
-Commenters:
-
-Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
 

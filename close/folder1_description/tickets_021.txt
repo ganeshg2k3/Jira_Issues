@@ -4,106 +4,98 @@ Written: 2026-05-27 17:28:39 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-74
+Issue Key: SCRUM-73
 ============================================================
 
-Summary: Remove deprecated endpoints from v1 API
+Summary: Add logging to all pipeline stages
 
 Description:
-Cleaned up all v1 endpoints that were marked deprecated since Q1.
+Structured logging added across ingestion, transform, and load stages.
 
 ============================================================
-Issue Key: SCRUM-72
+Issue Key: SCRUM-71
 ============================================================
 
-Summary: Set up local dev environment guide
+Summary: Initial repo setup and folder structure
 
 Description:
-Write a guide for new devs to set up local environment with Docker.
+Create the GitHub repo, set up folder structure and README.
 
 ============================================================
-Issue Key: SCRUM-66
+Issue Key: SCRUM-70
 ============================================================
 
-Summary: Add unit tests for transformation module
+Summary: Set up CI/CD for data jobs
 
 Description:
-Coverage is below 60% for the transform layer. Add tests for edge cases.
+Automate testing and deployment of pipeline code via GitHub Actions.
 
 ============================================================
-Issue Key: SCRUM-64
+Issue Key: SCRUM-69
 ============================================================
 
-Summary: Deployment caused configuration issues (case 10)
+Summary: Add retry logic to API calls
 
 Description:
-Recent deployment introduced incorrect configuration values.
-Observed impact varies across services. Instance: 10.
-Replication steps and logs attached.
+External API calls in the sync job have no retry. Add exponential backoff.
 
 ============================================================
-Issue Key: SCRUM-59
+Issue Key: SCRUM-68
 ============================================================
 
-Summary: Deployment caused configuration issues (case 5)
+Summary: Migrate legacy tables to new schema
 
 Description:
-Recent deployment introduced incorrect configuration values.
-Observed impact varies across services. Instance: 5.
-Replication steps and logs attached.
+Old tables from v1 need to be migrated to the v2 schema with backfill.
 
 ============================================================
-Issue Key: SCRUM-58
+Issue Key: SCRUM-67
 ============================================================
 
-Summary: Deployment caused configuration issues (case 4)
+Summary: Document data dictionary for all tables
 
 Description:
-Recent deployment introduced incorrect configuration values.
-Observed impact varies across services. Instance: 4.
-Replication steps and logs attached.
+Write up definitions for all columns across the main tables in Confluence.
 
 ============================================================
-Issue Key: SCRUM-57
+Issue Key: SCRUM-65
 ============================================================
 
-Summary: Deployment caused configuration issues (case 3)
+Summary: Design schema for events table
 
 Description:
-Recent deployment introduced incorrect configuration values.
-Observed impact varies across services. Instance: 3.
-Replication steps and logs attached.
+Define the schema for the events table including partitioning strategy.
 
 ============================================================
-Issue Key: SCRUM-56
+Issue Key: SCRUM-63
 ============================================================
 
-Summary: Deployment caused configuration issues (case 2)
+Summary: Deployment caused configuration issues (case 9)
 
 Description:
 Recent deployment introduced incorrect configuration values.
-Observed impact varies across services. Instance: 2.
+Observed impact varies across services. Instance: 9.
 Replication steps and logs attached.
 
 ============================================================
-Issue Key: SCRUM-55
+Issue Key: SCRUM-62
 ============================================================
 
-Summary: Deployment caused configuration issues (case 1)
+Summary: Deployment caused configuration issues (case 8)
 
 Description:
 Recent deployment introduced incorrect configuration values.
-Observed impact varies across services. Instance: 1.
+Observed impact varies across services. Instance: 8.
 Replication steps and logs attached.
 
 ============================================================
-Issue Key: SCRUM-54
+Issue Key: SCRUM-61
 ============================================================
 
-Summary: API timeout under load (case 10)
+Summary: Deployment caused configuration issues (case 7)
 
 Description:
-Backend APIs are timing out when system load increases.
-Observed impact varies across services. Instance: 10.
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 7.
 Replication steps and logs attached.
 

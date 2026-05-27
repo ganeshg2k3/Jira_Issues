@@ -1,0 +1,38 @@
+############################################################
+MODE: 2 - DESCRIPTION MODE
+Written: 2026-05-27 17:28:39 UTC
+############################################################
+
+============================================================
+Issue Key: SCRUM-60
+============================================================
+
+Summary: Deployment caused configuration issues (case 6)
+
+Description:
+Recent deployment introduced incorrect configuration values.
+Observed impact varies across services. Instance: 6.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-53
+============================================================
+
+Summary: API timeout under load (case 9)
+
+Description:
+Backend APIs are timing out when system load increases.
+Observed impact varies across services. Instance: 9.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-32
+============================================================
+
+Summary: Login failures for multiple users (case 8)
+
+Description:
+Users are intermittently unable to log in due to authentication errors.
+Observed impact varies across services. Instance: 8.
+Replication steps and logs attached.
+
