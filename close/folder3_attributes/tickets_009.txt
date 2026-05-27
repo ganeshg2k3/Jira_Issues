@@ -4,142 +4,142 @@ Written: 2026-05-27 06:21:51 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-74
+Issue Key: SCRUM-73
 ============================================================
 
 Issue Type: Task
-Status: To Do
-Priority: Low
+Status: Resolved
+Priority: Medium
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-05-25T01:21:08.422+0530
-Updated: 2026-05-25T01:21:08.489+0530
-Labels: cleanup
+Created: 2026-05-25T01:21:03.952+0530
+Updated: 2026-05-25T22:04:12.111+0530
+Labels: logging
 Components: 
 
 ============================================================
-Issue Key: SCRUM-72
+Issue Key: SCRUM-71
 ============================================================
 
 Issue Type: Task
-Status: To Do
+Status: Resolved
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:54.475+0530
+Updated: 2026-05-25T20:21:28.833+0530
+Labels: setup
+Components: 
+
+============================================================
+Issue Key: SCRUM-70
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:52.610+0530
+Updated: 2026-05-25T22:04:14.453+0530
+Labels: automation, ci-cd
+Components: 
+
+============================================================
+Issue Key: SCRUM-69
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:49.582+0530
+Updated: 2026-05-25T22:04:22.685+0530
+Labels: reliability
+Components: 
+
+============================================================
+Issue Key: SCRUM-68
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:47.026+0530
+Updated: 2026-05-25T22:04:20.064+0530
+Labels: migration
+Components: 
+
+============================================================
+Issue Key: SCRUM-67
+============================================================
+
+Issue Type: Task
+Status: Resolved
 Priority: Low
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-05-25T01:20:59.820+0530
-Updated: 2026-05-25T01:20:59.906+0530
+Created: 2026-05-25T01:20:45.068+0530
+Updated: 2026-05-25T20:21:33.226+0530
 Labels: documentation
 Components: 
 
 ============================================================
-Issue Key: SCRUM-66
+Issue Key: SCRUM-65
 ============================================================
 
 Issue Type: Task
-Status: To Do
+Status: Resolved
 Priority: Medium
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-05-25T01:20:42.184+0530
-Updated: 2026-05-25T01:20:42.254+0530
-Labels: testing
+Created: 2026-05-25T01:20:39.329+0530
+Updated: 2026-05-25T22:09:18.417+0530
+Labels: design, schema
 Components: 
 
 ============================================================
-Issue Key: SCRUM-64
+Issue Key: SCRUM-63
 ============================================================
 
 Issue Type: Incident
-Status: To Do
+Status: Resolved
 Priority: High
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-05-06T00:01:22.800+0530
-Updated: 2026-05-06T00:01:24.784+0530
-Labels: case-10, config, deployment, incident
+Created: 2026-05-06T00:01:19.478+0530
+Updated: 2026-05-25T22:09:12.923+0530
+Labels: case-9, config, deployment, incident
 Components: Deployment
 
 ============================================================
-Issue Key: SCRUM-59
+Issue Key: SCRUM-62
 ============================================================
 
 Issue Type: Incident
-Status: To Do
+Status: Resolved
 Priority: High
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-05-06T00:01:06.850+0530
-Updated: 2026-05-06T00:01:08.745+0530
-Labels: case-5, config, deployment, incident
+Created: 2026-05-06T00:01:16.175+0530
+Updated: 2026-05-25T22:08:59.980+0530
+Labels: case-8, config, deployment, incident
 Components: Deployment
 
 ============================================================
-Issue Key: SCRUM-58
+Issue Key: SCRUM-61
 ============================================================
 
 Issue Type: Incident
-Status: To Do
+Status: Resolved
 Priority: High
 Assignee: None
 Reporter: Ganesh G
-Created: 2026-05-06T00:01:03.580+0530
-Updated: 2026-05-06T00:01:05.583+0530
-Labels: case-4, config, deployment, incident
+Created: 2026-05-06T00:01:13.053+0530
+Updated: 2026-05-25T22:09:07.069+0530
+Labels: case-7, config, deployment, incident
 Components: Deployment
-
-============================================================
-Issue Key: SCRUM-57
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:01:00.397+0530
-Updated: 2026-05-06T00:01:02.263+0530
-Labels: case-3, config, deployment, incident
-Components: Deployment
-
-============================================================
-Issue Key: SCRUM-56
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:56.878+0530
-Updated: 2026-05-06T00:00:58.924+0530
-Labels: case-2, config, deployment, incident
-Components: Deployment
-
-============================================================
-Issue Key: SCRUM-55
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:53.563+0530
-Updated: 2026-05-06T00:00:55.525+0530
-Labels: case-1, config, deployment, incident
-Components: Deployment
-
-============================================================
-Issue Key: SCRUM-54
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-06T00:00:50.358+0530
-Updated: 2026-05-06T00:00:52.218+0530
-Labels: api, case-10, latency, timeout
-Components: API
 

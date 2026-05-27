@@ -1,77 +1,94 @@
 ############################################################
-MODE: 2 - DESCRIPTION MODE
+MODE: 1 - COMMENT INTELLIGENCE MODE
 Written: 2026-05-27 06:21:51 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-11
+Issue Key: SCRUM-73
 ============================================================
 
-Summary: Auto-generated ticket 2
+Commenters:
 
-Description:
-
-
-============================================================
-Issue Key: SCRUM-10
-============================================================
-
-Summary: Auto-generated ticket 1
-
-Description:
-
+Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-9
+Issue Key: SCRUM-71
 ============================================================
 
-Summary: Auto-generated ticket 5
+Commenters:
 
-Description:
-
-
-============================================================
-Issue Key: SCRUM-8
-============================================================
-
-Summary: Auto-generated ticket 4
-
-Description:
-
+Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-7
+Issue Key: SCRUM-70
 ============================================================
 
-Summary: Auto-generated ticket 3
+Commenters:
 
-Description:
-
-
-============================================================
-Issue Key: SCRUM-6
-============================================================
-
-Summary: Auto-generated ticket 2
-
-Description:
-
+Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-5
+Issue Key: SCRUM-69
 ============================================================
 
-Summary: Auto-generated ticket 1
+Commenters:
 
-Description:
-
+Important Discussion Points:
 
 ============================================================
-Issue Key: SCRUM-3
+Issue Key: SCRUM-68
 ============================================================
 
-Summary: Task 3
+Commenters:
 
-Description:
+Important Discussion Points:
 
+============================================================
+Issue Key: SCRUM-67
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-65
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+
+============================================================
+Issue Key: SCRUM-63
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-62
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
+
+============================================================
+Issue Key: SCRUM-61
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue started after release
+* Rollback resolved partially
 
