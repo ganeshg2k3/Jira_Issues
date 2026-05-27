@@ -12,3 +12,12 @@ Summary: Auto-generated ticket 1
 Description:
 
 
+============================================================
+Issue Key: SCRUM-11
+============================================================
+
+Summary: Auto-generated ticket 2
+
+Description:
+
+
