@@ -87,3 +87,25 @@ Users are intermittently unable to log in due to authentication errors.
 Observed impact varies across services. Instance: 8.
 Replication steps and logs attached.
 
+============================================================
+Issue Key: SCRUM-18
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 4)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 4.
+Replication steps and logs attached.
+
+============================================================
+Issue Key: SCRUM-17
+============================================================
+
+Summary: Kafka consumer lag causing delayed processing (case 3)
+
+Description:
+Kafka consumers are experiencing lag after deployment, impacting downstream services.
+Observed impact varies across services. Instance: 3.
+Replication steps and logs attached.
+

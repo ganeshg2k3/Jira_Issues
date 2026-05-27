@@ -85,3 +85,25 @@ Important Discussion Points:
 * Issue impacts mobile and web
 * Token validation failing
 
+============================================================
+Issue Key: SCRUM-18
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Observed in production
+* Restart temporarily reduces lag
+
+============================================================
+Issue Key: SCRUM-17
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Observed in production
+* Restart temporarily reduces lag
+

@@ -1,6 +1,6 @@
 ############################################################
 MODE: 3 - ATTRIBUTE MODE
-Written: 2026-05-27 18:02:02 UTC
+Written: 2026-05-27 18:05:41 UTC
 ############################################################
 
 ============================================================
@@ -43,34 +43,6 @@ Reporter: Ganesh G
 Created: 2026-05-05T23:59:01.103+0530
 Updated: 2026-05-05T23:59:03.059+0530
 Labels: case-5, kafka, lag, streaming
-Components: Notifications, Streaming
-
-============================================================
-Issue Key: SCRUM-18
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:58:57.827+0530
-Updated: 2026-05-05T23:58:59.644+0530
-Labels: case-4, kafka, lag, streaming
-Components: Notifications, Streaming
-
-============================================================
-Issue Key: SCRUM-17
-============================================================
-
-Issue Type: Incident
-Status: To Do
-Priority: High
-Assignee: None
-Reporter: Ganesh G
-Created: 2026-05-05T23:58:54.638+0530
-Updated: 2026-05-05T23:58:56.576+0530
-Labels: case-3, kafka, lag, streaming
 Components: Notifications, Streaming
 
 ============================================================
@@ -140,6 +112,34 @@ Assignee: None
 Reporter: Ganesh G
 Created: 2026-04-30T12:57:49.610+0530
 Updated: 2026-04-30T12:57:51.933+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: SCRUM-11
+============================================================
+
+Issue Type: Task
+Status: To Do
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T12:57:43.225+0530
+Updated: 2026-04-30T12:57:48.332+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: SCRUM-10
+============================================================
+
+Issue Type: Task
+Status: In Progress
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T12:57:39.816+0530
+Updated: 2026-04-30T12:58:43.772+0530
 Labels: 
 Components: 
 
