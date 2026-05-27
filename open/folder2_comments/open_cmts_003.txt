@@ -1,0 +1,115 @@
+############################################################
+MODE: 1 - COMMENT INTELLIGENCE MODE
+Written: 2026-05-27 19:18:07 UTC
+############################################################
+
+============================================================
+Issue Key: SCRUM-42
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Seen with credit cards
+* Retries sometimes succeed
+
+============================================================
+Issue Key: SCRUM-41
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Seen with credit cards
+* Retries sometimes succeed
+
+============================================================
+Issue Key: SCRUM-40
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Seen with credit cards
+* Retries sometimes succeed
+
+============================================================
+Issue Key: SCRUM-39
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Seen with credit cards
+* Retries sometimes succeed
+
+============================================================
+Issue Key: SCRUM-38
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Seen with credit cards
+* Retries sometimes succeed
+
+============================================================
+Issue Key: SCRUM-37
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Seen with credit cards
+* Retries sometimes succeed
+
+============================================================
+Issue Key: SCRUM-36
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Seen with credit cards
+* Retries sometimes succeed
+
+============================================================
+Issue Key: SCRUM-35
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Seen with credit cards
+* Retries sometimes succeed
+
+============================================================
+Issue Key: SCRUM-34
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+
+============================================================
+Issue Key: SCRUM-33
+============================================================
+
+Commenters:
+* Ganesh G
+
+Important Discussion Points:
+* Issue impacts mobile and web
+* Token validation failing
+

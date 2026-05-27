@@ -1,0 +1,131 @@
+############################################################
+MODE: 3 - ATTRIBUTE MODE
+Written: 2026-05-27 19:18:07 UTC
+############################################################
+
+============================================================
+Issue Key: SCRUM-62
+============================================================
+
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:16.175+0530
+Updated: 2026-05-25T22:08:59.980+0530
+Labels: case-8, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-61
+============================================================
+
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:13.053+0530
+Updated: 2026-05-25T22:09:07.069+0530
+Labels: case-7, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-60
+============================================================
+
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:10.012+0530
+Updated: 2026-05-25T22:09:10.516+0530
+Labels: case-6, config, deployment, incident
+Components: Deployment
+
+============================================================
+Issue Key: SCRUM-53
+============================================================
+
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:00:47.234+0530
+Updated: 2026-05-25T20:21:37.919+0530
+Labels: api, case-9, latency, timeout
+Components: API
+
+============================================================
+Issue Key: SCRUM-32
+============================================================
+
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:59:40.950+0530
+Updated: 2026-05-25T20:21:47.290+0530
+Labels: auth, case-8, failure, login
+Components: Auth
+
+============================================================
+Issue Key: SCRUM-18
+============================================================
+
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:58:57.827+0530
+Updated: 2026-05-27T23:35:31.033+0530
+Labels: case-4, kafka, lag, streaming
+Components: Notifications, Streaming
+
+============================================================
+Issue Key: SCRUM-17
+============================================================
+
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-05T23:58:54.638+0530
+Updated: 2026-05-27T23:35:35.199+0530
+Labels: case-3, kafka, lag, streaming
+Components: Notifications, Streaming
+
+============================================================
+Issue Key: SCRUM-11
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T12:57:43.225+0530
+Updated: 2026-05-28T00:25:49.635+0530
+Labels: 
+Components: 
+
+============================================================
+Issue Key: SCRUM-5
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-04-30T12:50:04.291+0530
+Updated: 2026-05-28T00:20:53.091+0530
+Labels: 
+Components: 
+

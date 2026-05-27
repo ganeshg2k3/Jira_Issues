@@ -1,0 +1,145 @@
+############################################################
+MODE: 3 - ATTRIBUTE MODE
+Written: 2026-05-27 19:18:07 UTC
+############################################################
+
+============================================================
+Issue Key: SCRUM-76
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Low
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:15.324+0530
+Updated: 2026-05-25T18:01:34.332+0530
+Labels: jira, setup
+Components: 
+
+============================================================
+Issue Key: SCRUM-75
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:12.621+0530
+Updated: 2026-05-25T20:21:24.528+0530
+Labels: documentation, on-call
+Components: 
+
+============================================================
+Issue Key: SCRUM-73
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:21:03.952+0530
+Updated: 2026-05-25T22:04:12.111+0530
+Labels: logging
+Components: 
+
+============================================================
+Issue Key: SCRUM-71
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:54.475+0530
+Updated: 2026-05-25T20:21:28.833+0530
+Labels: setup
+Components: 
+
+============================================================
+Issue Key: SCRUM-70
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:52.610+0530
+Updated: 2026-05-25T22:04:14.453+0530
+Labels: automation, ci-cd
+Components: 
+
+============================================================
+Issue Key: SCRUM-69
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:49.582+0530
+Updated: 2026-05-25T22:04:22.685+0530
+Labels: reliability
+Components: 
+
+============================================================
+Issue Key: SCRUM-68
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:47.026+0530
+Updated: 2026-05-25T22:04:20.064+0530
+Labels: migration
+Components: 
+
+============================================================
+Issue Key: SCRUM-67
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Low
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:45.068+0530
+Updated: 2026-05-25T20:21:33.226+0530
+Labels: documentation
+Components: 
+
+============================================================
+Issue Key: SCRUM-65
+============================================================
+
+Issue Type: Task
+Status: Resolved
+Priority: Medium
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-25T01:20:39.329+0530
+Updated: 2026-05-25T22:09:18.417+0530
+Labels: design, schema
+Components: 
+
+============================================================
+Issue Key: SCRUM-63
+============================================================
+
+Issue Type: Incident
+Status: Resolved
+Priority: High
+Assignee: None
+Reporter: Ganesh G
+Created: 2026-05-06T00:01:19.478+0530
+Updated: 2026-05-25T22:09:12.923+0530
+Labels: case-9, config, deployment, incident
+Components: Deployment
+
