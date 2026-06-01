@@ -14,3 +14,12 @@ Users are intermittently unable to log in due to authentication errors.
 Observed impact varies across services. Instance: 9.
 Replication steps and logs attached.
 
+============================================================
+Issue Key: KAN-5
+============================================================
+
+Summary: Setup project repository
+
+Description:
+Initialize repository, configure version control, and add initial project structure.
+

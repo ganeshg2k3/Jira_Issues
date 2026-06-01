@@ -1,100 +1,94 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-28 05:16:52 UTC
+Written: 2026-06-01 16:12:36 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-19
+Issue Key: KAN-1855
 ============================================================
 
-Summary: Kafka consumer lag causing delayed processing (case 5)
-
-Description:
-Kafka consumers are experiencing lag after deployment, impacting downstream services.
-Observed impact varies across services. Instance: 5.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-16
-============================================================
-
-Summary: Kafka consumer lag causing delayed processing (case 2)
-
-Description:
-Kafka consumers are experiencing lag after deployment, impacting downstream services.
-Observed impact varies across services. Instance: 2.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-15
-============================================================
-
-Summary: Kafka consumer lag causing delayed processing (case 1)
-
-Description:
-Kafka consumers are experiencing lag after deployment, impacting downstream services.
-Observed impact varies across services. Instance: 1.
-Replication steps and logs attached.
-
-============================================================
-Issue Key: SCRUM-14
-============================================================
-
-Summary: Auto-generated ticket 5
+Summary: Dummy Ticket 1448
 
 Description:
 
 
 ============================================================
-Issue Key: SCRUM-13
+Issue Key: KAN-1854
 ============================================================
 
-Summary: Auto-generated ticket 4
+Summary: Dummy Ticket 1447
 
 Description:
 
 
 ============================================================
-Issue Key: SCRUM-12
+Issue Key: KAN-1853
 ============================================================
 
-Summary: Auto-generated ticket 3
+Summary: Dummy Ticket 1446
 
 Description:
 
 
 ============================================================
-Issue Key: SCRUM-10
+Issue Key: KAN-1851
 ============================================================
 
-Summary: Auto-generated ticket 1
+Summary: Dummy Ticket 1444
 
 Description:
 
 
 ============================================================
-Issue Key: SCRUM-9
+Issue Key: KAN-1850
 ============================================================
 
-Summary: Auto-generated ticket 5
+Summary: Dummy Ticket 1443
 
 Description:
 
 
 ============================================================
-Issue Key: SCRUM-8
+Issue Key: KAN-1849
 ============================================================
 
-Summary: Auto-generated ticket 4
+Summary: Dummy Ticket 1442
 
 Description:
 
 
 ============================================================
-Issue Key: SCRUM-7
+Issue Key: KAN-1848
 ============================================================
 
-Summary: Auto-generated ticket 3
+Summary: Dummy Ticket 1441
+
+Description:
+
+
+============================================================
+Issue Key: KAN-1847
+============================================================
+
+Summary: Dummy Ticket 1440
+
+Description:
+
+
+============================================================
+Issue Key: KAN-1845
+============================================================
+
+Summary: Dummy Ticket 1438
+
+Description:
+
+
+============================================================
+Issue Key: KAN-1844
+============================================================
+
+Summary: Dummy Ticket 1437
 
 Description:
 

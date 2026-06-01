@@ -1,115 +1,95 @@
 ############################################################
 MODE: 2 - DESCRIPTION MODE
-Written: 2026-05-28 05:16:52 UTC
+Written: 2026-06-01 16:12:36 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-42
+Issue Key: KAN-1882
 ============================================================
 
-Summary: Payment transaction failures (case 8)
+Summary: Dummy Ticket 1475
 
 Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 8.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-41
+Issue Key: KAN-1879
 ============================================================
 
-Summary: Payment transaction failures (case 7)
+Summary: Dummy Ticket 1472
 
 Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 7.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-40
+Issue Key: KAN-1878
 ============================================================
 
-Summary: Payment transaction failures (case 6)
+Summary: Dummy Ticket 1471
 
 Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 6.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-39
+Issue Key: KAN-1877
 ============================================================
 
-Summary: Payment transaction failures (case 5)
+Summary: Dummy Ticket 1470
 
 Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 5.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-38
+Issue Key: KAN-1875
 ============================================================
 
-Summary: Payment transaction failures (case 4)
+Summary: Dummy Ticket 1468
 
 Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 4.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-37
+Issue Key: KAN-1874
 ============================================================
 
-Summary: Payment transaction failures (case 3)
+Summary: Dummy Ticket 1467
 
 Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 3.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-36
+Issue Key: KAN-1873
 ============================================================
 
-Summary: Payment transaction failures (case 2)
+Summary: Dummy Ticket 1466
 
 Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 2.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-35
+Issue Key: KAN-1872
 ============================================================
 
-Summary: Payment transaction failures (case 1)
+Summary: Dummy Ticket 1465
 
 Description:
-Payment requests fail due to downstream gateway errors.
-Observed impact varies across services. Instance: 1.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-31
+Issue Key: KAN-1870
 ============================================================
 
-Summary: Login failures for multiple users (case 7)
+Summary: Dummy Ticket 1463
 
 Description:
-Users are intermittently unable to log in due to authentication errors.
-Observed impact varies across services. Instance: 7.
-Replication steps and logs attached.
+
 
 ============================================================
-Issue Key: SCRUM-30
+Issue Key: KAN-1867
 ============================================================
 
-Summary: Login failures for multiple users (case 6)
+Summary: Dummy Ticket 1460
 
 Description:
-Users are intermittently unable to log in due to authentication errors.
-Observed impact varies across services. Instance: 6.
-Replication steps and logs attached.
+
 

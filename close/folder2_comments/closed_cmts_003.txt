@@ -14,3 +14,11 @@ Important Discussion Points:
 * Issue impacts mobile and web
 * Token validation failing
 
+============================================================
+Issue Key: KAN-5
+============================================================
+
+Commenters:
+
+Important Discussion Points:
+

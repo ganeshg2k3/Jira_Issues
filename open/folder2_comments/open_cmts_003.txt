@@ -1,115 +1,85 @@
 ############################################################
 MODE: 1 - COMMENT INTELLIGENCE MODE
-Written: 2026-05-28 05:16:52 UTC
+Written: 2026-06-01 16:12:36 UTC
 ############################################################
 
 ============================================================
-Issue Key: SCRUM-42
+Issue Key: KAN-1882
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
 
 ============================================================
-Issue Key: SCRUM-41
+Issue Key: KAN-1879
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
 
 ============================================================
-Issue Key: SCRUM-40
+Issue Key: KAN-1878
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
 
 ============================================================
-Issue Key: SCRUM-39
+Issue Key: KAN-1877
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
 
 ============================================================
-Issue Key: SCRUM-38
+Issue Key: KAN-1875
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
 
 ============================================================
-Issue Key: SCRUM-37
+Issue Key: KAN-1874
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
 
 ============================================================
-Issue Key: SCRUM-36
+Issue Key: KAN-1873
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
 
 ============================================================
-Issue Key: SCRUM-35
+Issue Key: KAN-1872
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Seen with credit cards
-* Retries sometimes succeed
 
 ============================================================
-Issue Key: SCRUM-31
+Issue Key: KAN-1870
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
 ============================================================
-Issue Key: SCRUM-30
+Issue Key: KAN-1867
 ============================================================
 
 Commenters:
-* Ganesh G
 
 Important Discussion Points:
-* Issue impacts mobile and web
-* Token validation failing
 
