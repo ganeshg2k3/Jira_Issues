@@ -1,0 +1,14 @@
+[
+  {
+    "issue_key": "KAN-5",
+    "status": "Done",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "HarshaVardhan",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-08T17:13:39.538+0530",
+    "updated": "2026-04-08T17:13:47.937+0530"
+  }
+]

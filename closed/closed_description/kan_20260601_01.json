@@ -1,0 +1,7 @@
+[
+  {
+    "issue_key": "KAN-5",
+    "summary": "Setup project repository",
+    "description": "Initialize repository, configure version control, and add initial project structure."
+  }
+]
