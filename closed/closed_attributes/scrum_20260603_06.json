@@ -1,0 +1,14 @@
+[
+  {
+    "issue_key": "SCRUM-12",
+    "status": "Resolved",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "Ganesh G",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-30T12:57:49.610+0530",
+    "updated": "2026-06-03T00:57:01.128+0530"
+  }
+]
