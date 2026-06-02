@@ -3,5 +3,15 @@
     "issue_key": "SCRUM-44",
     "summary": "Payment transaction failures (case 10)",
     "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 10.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-45",
+    "summary": "API timeout under load (case 1)",
+    "description": "Backend APIs are timing out when system load increases.\nObserved impact varies across services. Instance: 1.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-38",
+    "summary": "Payment transaction failures (case 4)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 4.\nReplication steps and logs attached."
   }
 ]

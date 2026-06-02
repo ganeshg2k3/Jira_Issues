@@ -13,5 +13,35 @@
         "body": "Retries sometimes succeed"
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-45",
+    "comments": [
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-06T00:00:24.059+0530",
+        "body": "Latency spikes during peak hours"
+      },
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-06T00:00:24.689+0530",
+        "body": "No recent config changes"
+      }
+    ]
+  },
+  {
+    "issue_key": "SCRUM-38",
+    "comments": [
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-06T00:00:00.245+0530",
+        "body": "Seen with credit cards"
+      },
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-06T00:00:00.764+0530",
+        "body": "Retries sometimes succeed"
+      }
+    ]
   }
 ]
