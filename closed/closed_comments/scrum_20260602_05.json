@@ -88,5 +88,35 @@
         "body": "No recent config changes"
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-58",
+    "comments": [
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-06T00:01:04.995+0530",
+        "body": "Issue started after release"
+      },
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-06T00:01:05.583+0530",
+        "body": "Rollback resolved partially"
+      }
+    ]
+  },
+  {
+    "issue_key": "SCRUM-57",
+    "comments": [
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-06T00:01:01.637+0530",
+        "body": "Issue started after release"
+      },
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-06T00:01:02.263+0530",
+        "body": "Rollback resolved partially"
+      }
+    ]
   }
 ]
