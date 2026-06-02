@@ -118,5 +118,20 @@
         "body": "Rollback resolved partially"
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-59",
+    "comments": [
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-06T00:01:08.196+0530",
+        "body": "Issue started after release"
+      },
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-06T00:01:08.745+0530",
+        "body": "Rollback resolved partially"
+      }
+    ]
   }
 ]
