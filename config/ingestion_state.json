@@ -1,41 +1,41 @@
 [
-    {
-  "team_name": "Triage",
-  "SCRUM": {
-    "last_ingestion_date": "2024-01-01T00:00:00Z",
-	"jira_last_modified_date":"2024-01-01T00:00:00Z"
-  },
-  "DATAPROD": {
-    "last_ingestion_date": "2024-01-01T00:00:00Z",
-	"jira_last_modified_date":"2024-01-01T00:00:00Z"
-  },
-  "DUNE": {
-    "last_ingestion_date": "2024-01-01T00:00:00Z",
-	"jira_last_modified_date":"2024-01-01T00:00:00Z"
-  },
-  "STPI": {
-    "last_ingestion_date": "2024-01-01T00:00:00Z",
-	"jira_last_modified_date":"2024-01-01T00:00:00Z"
-  },
-  "DOSDP": {
-    "last_ingestion_date": "2024-01-01T00:00:00Z",
-	"jira_last_modified_date":"2024-01-01T00:00:00Z"
-  },
-  "JEDI": {
-    "last_ingestion_date": "2024-01-01T00:00:00Z",
-	"jira_last_modified_date":"2024-01-01T00:00:00Z"
-  },
-  "SRFWBUG": {
-    "last_ingestion_date": "2024-01-01T00:00:00Z",
-	"jira_last_modified_date":"2024-01-01T00:00:00Z"
-  },
-  "LOWINKFW": {
-    "last_ingestion_date": "2024-01-01T00:00:00Z",
-	"jira_last_modified_date":"2024-01-01T00:00:00Z"
-  },
-  "GV": {
-    "last_ingestion_date": "2024-01-01T00:00:00Z",
-	"jira_last_modified_date":"2024-01-01T00:00:00Z"
+  {
+    "team_name": "Triage",
+    "SCRUM": {
+      "last_ingestion_date": "2026-06-02T12:24:42Z",
+      "jira_last_modified_date": "2026-06-02T12:24:42Z"
+    },
+    "DATAPROD": {
+      "last_ingestion_date": "2024-01-01T00:00:00Z",
+      "jira_last_modified_date": "2024-01-01T00:00:00Z"
+    },
+    "DUNE": {
+      "last_ingestion_date": "2024-01-01T00:00:00Z",
+      "jira_last_modified_date": "2024-01-01T00:00:00Z"
+    },
+    "STPI": {
+      "last_ingestion_date": "2024-01-01T00:00:00Z",
+      "jira_last_modified_date": "2024-01-01T00:00:00Z"
+    },
+    "DOSDP": {
+      "last_ingestion_date": "2024-01-01T00:00:00Z",
+      "jira_last_modified_date": "2024-01-01T00:00:00Z"
+    },
+    "JEDI": {
+      "last_ingestion_date": "2024-01-01T00:00:00Z",
+      "jira_last_modified_date": "2024-01-01T00:00:00Z"
+    },
+    "SRFWBUG": {
+      "last_ingestion_date": "2024-01-01T00:00:00Z",
+      "jira_last_modified_date": "2024-01-01T00:00:00Z"
+    },
+    "LOWINKFW": {
+      "last_ingestion_date": "2024-01-01T00:00:00Z",
+      "jira_last_modified_date": "2024-01-01T00:00:00Z"
+    },
+    "GV": {
+      "last_ingestion_date": "2024-01-01T00:00:00Z",
+      "jira_last_modified_date": "2024-01-01T00:00:00Z"
+    }
   }
-}
 ]
