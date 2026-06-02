@@ -1,0 +1,27 @@
+{
+  "teams": [
+    {
+      "team_name": "Triage",
+      "jira_base_url": "https://ganeshg2k3.atlassian.net/",
+      "git_base_url": "https://github.com/",
+      "github_repo_owner": "ganeshg2k3",
+      "github_repo": "Jira_Issues",
+      "branch": "main",
+      "projects": [
+        {
+          "project_key": "SCRUM",
+          "jqls": [
+            {
+              "ticket_status": "Open",
+              "jql": "project = 'SCRUM' AND reporter = 'ganesh' AND status NOT IN (Closed, Done, Canceled) AND updated > '{jira_last_modified_date}'"
+            },
+            {
+              "ticket_status": "Closed",
+              "jql": "project = 'SCRUM' AND reporter = 'ganesh' AND status IN (Closed, Done) AND updated > '{jira_last_modified_date}'"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
