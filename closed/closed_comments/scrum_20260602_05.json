@@ -133,5 +133,9 @@
         "body": "Rollback resolved partially"
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-9",
+    "comments": []
   }
 ]

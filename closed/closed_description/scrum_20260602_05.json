@@ -43,5 +43,10 @@
     "issue_key": "SCRUM-59",
     "summary": "Deployment caused configuration issues (case 5)",
     "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 5.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-9",
+    "summary": "Auto-generated ticket 5",
+    "description": ""
   }
 ]
