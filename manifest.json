@@ -280,5 +280,11 @@
     "executed_at_ist": "2026-06-03 01:15:54 IST",
     "open_count": 0,
     "closed_count": 0
+  },
+  {
+    "project_key": "SCRUM",
+    "executed_at_ist": "2026-06-03 01:24:42 IST",
+    "open_count": 0,
+    "closed_count": 0
   }
 ]
