@@ -1,0 +1,52 @@
+[
+  {
+    "issue_key": "SCRUM-16",
+    "summary": "Kafka consumer lag causing delayed processing (case 2)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 2.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-15",
+    "summary": "Kafka consumer lag causing delayed processing (case 1)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 1.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-14",
+    "summary": "Auto-generated ticket 5",
+    "description": ""
+  },
+  {
+    "issue_key": "SCRUM-13",
+    "summary": "Auto-generated ticket 4",
+    "description": ""
+  },
+  {
+    "issue_key": "SCRUM-12",
+    "summary": "Auto-generated ticket 3",
+    "description": ""
+  },
+  {
+    "issue_key": "SCRUM-11",
+    "summary": "Auto-generated ticket 2",
+    "description": ""
+  },
+  {
+    "issue_key": "SCRUM-10",
+    "summary": "Auto-generated ticket 1",
+    "description": ""
+  },
+  {
+    "issue_key": "SCRUM-9",
+    "summary": "Auto-generated ticket 5",
+    "description": ""
+  },
+  {
+    "issue_key": "SCRUM-8",
+    "summary": "Auto-generated ticket 4",
+    "description": ""
+  },
+  {
+    "issue_key": "SCRUM-7",
+    "summary": "Auto-generated ticket 3",
+    "description": ""
+  }
+]

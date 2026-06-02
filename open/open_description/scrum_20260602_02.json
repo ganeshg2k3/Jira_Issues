@@ -1,0 +1,52 @@
+[
+  {
+    "issue_key": "SCRUM-66",
+    "summary": "Add unit tests for transformation module",
+    "description": "Coverage is below 60% for the transform layer. Add tests for edge cases."
+  },
+  {
+    "issue_key": "SCRUM-65",
+    "summary": "Design schema for events table",
+    "description": "Define the schema for the events table including partitioning strategy."
+  },
+  {
+    "issue_key": "SCRUM-64",
+    "summary": "Deployment caused configuration issues (case 10)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 10.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-63",
+    "summary": "Deployment caused configuration issues (case 9)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 9.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-62",
+    "summary": "Deployment caused configuration issues (case 8)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 8.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-61",
+    "summary": "Deployment caused configuration issues (case 7)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 7.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-60",
+    "summary": "Deployment caused configuration issues (case 6)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 6.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-59",
+    "summary": "Deployment caused configuration issues (case 5)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 5.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-58",
+    "summary": "Deployment caused configuration issues (case 4)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 4.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-57",
+    "summary": "Deployment caused configuration issues (case 3)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 3.\nReplication steps and logs attached."
+  }
+]
