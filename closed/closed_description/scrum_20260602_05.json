@@ -1,0 +1,7 @@
+[
+  {
+    "issue_key": "SCRUM-44",
+    "summary": "Payment transaction failures (case 10)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 10.\nReplication steps and logs attached."
+  }
+]
