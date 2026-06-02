@@ -3,9 +3,12 @@
     {
       "team_name": "Triage",
       "jira_base_url": "https://ganeshg2k3.atlassian.net/",
+      "jira_username": "your_jira_email@example.com",
+      "jira_token": "ATATT3xFfGF0R7Mv2uC9NYRr70xvLSjWOOb5qVZrweCSaarKpXACUYgdAnMJUZbWJqRNms2emoOLBjLsY72oOCuXqccG5ovlHd6OMScM6Wpmm-Hq2HF9M0oxjHYeUN4_9lt8g2YDvvdPUIc-CT7EuyeoR_7_yOMl_a57BkNcy20Cv2MWZ1QBNZ4=CA07BDBA",
       "git_base_url": "https://github.com/",
       "github_repo_owner": "ganeshg2k3",
       "github_repo": "Jira_Issues",
+      "github_token": "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",
       "branch": "main",
       "projects": [
         {
