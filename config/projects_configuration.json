@@ -10,11 +10,11 @@
           "jqls": [
             {
               "ticket_status": "Open",
-              "jql": "project = 'SCRUM' AND reporter = 'Ganesh G' AND status NOT IN (Closed, Done, Canceled) AND updated > '{jira_last_modified_date}'"
+              "jql": "project = 'SCRUM' AND reporter = 'ganeshg2k3@gmail.com' AND status NOT IN (Closed, Done, Canceled) AND updated > '{jira_last_modified_date}'"
             },
             {
               "ticket_status": "Closed",
-              "jql": "project = 'SCRUM' AND reporter = 'Ganesh G' AND status IN (Closed, Done) AND updated > '{jira_last_modified_date}'"
+              "jql": "project = 'SCRUM' AND reporter = 'ganeshg2k3@gmail.com' AND status IN (Closed, Done) AND updated > '{jira_last_modified_date}'"
             }
           ]
         }
