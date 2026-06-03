@@ -2,5 +2,20 @@
   {
     "issue_key": "SCRUM-12",
     "comments": []
+  },
+  {
+    "issue_key": "SCRUM-23",
+    "comments": [
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-05T23:59:15.277+0530",
+        "body": "Observed in production"
+      },
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-05T23:59:15.775+0530",
+        "body": "Restart temporarily reduces lag"
+      }
+    ]
   }
 ]

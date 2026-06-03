@@ -10,5 +10,25 @@
     "components": [],
     "created": "2026-04-30T12:57:49.610+0530",
     "updated": "2026-06-03T00:57:01.128+0530"
+  },
+  {
+    "issue_key": "SCRUM-23",
+    "status": "Resolved",
+    "priority": "High",
+    "issuetype": "Incident",
+    "assignee": null,
+    "reporter": "Ganesh G",
+    "labels": [
+      "case-9",
+      "kafka",
+      "lag",
+      "streaming"
+    ],
+    "components": [
+      "Notifications",
+      "Streaming"
+    ],
+    "created": "2026-05-05T23:59:14.016+0530",
+    "updated": "2026-06-03T12:20:20.900+0530"
   }
 ]
