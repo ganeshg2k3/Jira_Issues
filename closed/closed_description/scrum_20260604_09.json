@@ -1,0 +1,7 @@
+[
+  {
+    "issue_key": "SCRUM-74",
+    "summary": "Remove deprecated endpoints from v1 API",
+    "description": "Cleaned up all v1 endpoints that were marked deprecated since Q1."
+  }
+]

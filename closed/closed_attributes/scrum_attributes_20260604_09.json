@@ -1,0 +1,16 @@
+[
+  {
+    "issue_key": "SCRUM-74",
+    "status": "Resolved",
+    "priority": "Low",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "Ganesh G",
+    "labels": [
+      "cleanup"
+    ],
+    "components": [],
+    "created": "2026-05-25T01:21:08.422+0530",
+    "updated": "2026-06-04T01:36:23.870+0530"
+  }
+]
