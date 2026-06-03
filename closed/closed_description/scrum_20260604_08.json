@@ -1,0 +1,7 @@
+[
+  {
+    "issue_key": "SCRUM-30",
+    "summary": "Login failures for multiple users (case 6)",
+    "description": "Users are intermittently unable to log in due to authentication errors.\nObserved impact varies across services. Instance: 6.\nReplication steps and logs attached."
+  }
+]

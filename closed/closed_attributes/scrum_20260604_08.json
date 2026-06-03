@@ -1,0 +1,21 @@
+[
+  {
+    "issue_key": "SCRUM-30",
+    "status": "Resolved",
+    "priority": "High",
+    "issuetype": "Incident",
+    "assignee": null,
+    "reporter": "Ganesh G",
+    "labels": [
+      "auth",
+      "case-6",
+      "failure",
+      "login"
+    ],
+    "components": [
+      "Auth"
+    ],
+    "created": "2026-05-05T23:59:35.158+0530",
+    "updated": "2026-06-04T00:09:28.210+0530"
+  }
+]
