@@ -14,7 +14,7 @@
             },
             {
               "ticket_status": "Closed",
-              "jql": "project = SCRUM AND reporter = \"ganeshg2k3@gmail.com\" AND status IN (Closed, Done, Resolved)"
+              "jql": "project = SCRUM AND reporter = \"ganeshg2k3@gmail.com\" AND status IN (Closed, Done, Resolved) AND updated > \"{jira_last_modified_date}\""
             }
           ]
         }
