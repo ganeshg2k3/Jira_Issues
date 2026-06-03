@@ -442,5 +442,11 @@
     "executed_at_utc": "2026-06-03 12:17:39 UTC",
     "open_count": 32,
     "closed_count": 3
+  },
+  {
+    "project_key": "SCRUM",
+    "executed_at_utc": "2026-06-03 12:17:51 UTC",
+    "open_count": 32,
+    "closed_count": 3
   }
 ]
