@@ -42,5 +42,9 @@
         "body": "Restart temporarily reduces lag"
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-14",
+    "comments": []
   }
 ]

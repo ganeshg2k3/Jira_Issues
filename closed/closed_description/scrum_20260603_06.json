@@ -18,5 +18,10 @@
     "issue_key": "SCRUM-16",
     "summary": "Kafka consumer lag causing delayed processing (case 2)",
     "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 2.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-14",
+    "summary": "Auto-generated ticket 5",
+    "description": ""
   }
 ]
