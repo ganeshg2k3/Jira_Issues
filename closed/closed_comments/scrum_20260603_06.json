@@ -17,5 +17,15 @@
         "body": "Restart temporarily reduces lag"
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-13",
+    "comments": [
+      {
+        "author": "Ganesh G",
+        "created": "2026-06-03T15:07:50.437+0530",
+        "body": "Issue is resolved."
+      }
+    ]
   }
 ]

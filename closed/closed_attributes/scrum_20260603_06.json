@@ -30,5 +30,17 @@
     ],
     "created": "2026-05-05T23:59:14.016+0530",
     "updated": "2026-06-03T12:20:20.900+0530"
+  },
+  {
+    "issue_key": "SCRUM-13",
+    "status": "Resolved",
+    "priority": "Medium",
+    "issuetype": "Task",
+    "assignee": null,
+    "reporter": "Ganesh G",
+    "labels": [],
+    "components": [],
+    "created": "2026-04-30T12:57:53.501+0530",
+    "updated": "2026-06-03T15:07:50.437+0530"
   }
 ]
