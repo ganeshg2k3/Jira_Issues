@@ -1,0 +1,52 @@
+[
+  {
+    "issue_key": "SCRUM-45",
+    "summary": "API timeout under load (case 1)",
+    "description": "Backend APIs are timing out when system load increases.\nObserved impact varies across services. Instance: 1.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-44",
+    "summary": "Payment transaction failures (case 10)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 10.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-43",
+    "summary": "Payment transaction failures (case 9)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 9.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-42",
+    "summary": "Payment transaction failures (case 8)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 8.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-41",
+    "summary": "Payment transaction failures (case 7)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 7.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-40",
+    "summary": "Payment transaction failures (case 6)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 6.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-39",
+    "summary": "Payment transaction failures (case 5)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 5.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-38",
+    "summary": "Payment transaction failures (case 4)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 4.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-35",
+    "summary": "Payment transaction failures (case 1)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 1.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-34",
+    "summary": "Login failures for multiple users (case 10)",
+    "description": "Users are intermittently unable to log in due to authentication errors.\nObserved impact varies across services. Instance: 10.\nReplication steps and logs attached."
+  }
+]

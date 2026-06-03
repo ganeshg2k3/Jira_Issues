@@ -1,0 +1,52 @@
+[
+  {
+    "issue_key": "SCRUM-62",
+    "summary": "Deployment caused configuration issues (case 8)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 8.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-61",
+    "summary": "Deployment caused configuration issues (case 7)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 7.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-60",
+    "summary": "Deployment caused configuration issues (case 6)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 6.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-59",
+    "summary": "Deployment caused configuration issues (case 5)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 5.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-58",
+    "summary": "Deployment caused configuration issues (case 4)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 4.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-57",
+    "summary": "Deployment caused configuration issues (case 3)",
+    "description": "Recent deployment introduced incorrect configuration values.\nObserved impact varies across services. Instance: 3.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-53",
+    "summary": "API timeout under load (case 9)",
+    "description": "Backend APIs are timing out when system load increases.\nObserved impact varies across services. Instance: 9.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-48",
+    "summary": "API timeout under load (case 4)",
+    "description": "Backend APIs are timing out when system load increases.\nObserved impact varies across services. Instance: 4.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-47",
+    "summary": "API timeout under load (case 3)",
+    "description": "Backend APIs are timing out when system load increases.\nObserved impact varies across services. Instance: 3.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-46",
+    "summary": "API timeout under load (case 2)",
+    "description": "Backend APIs are timing out when system load increases.\nObserved impact varies across services. Instance: 2.\nReplication steps and logs attached."
+  }
+]

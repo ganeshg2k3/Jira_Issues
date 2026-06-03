@@ -1,0 +1,52 @@
+[
+  {
+    "issue_key": "SCRUM-33",
+    "summary": "Login failures for multiple users (case 9)",
+    "description": "Users are intermittently unable to log in due to authentication errors.\nObserved impact varies across services. Instance: 9.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-32",
+    "summary": "Login failures for multiple users (case 8)",
+    "description": "Users are intermittently unable to log in due to authentication errors.\nObserved impact varies across services. Instance: 8.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-31",
+    "summary": "Login failures for multiple users (case 7)",
+    "description": "Users are intermittently unable to log in due to authentication errors.\nObserved impact varies across services. Instance: 7.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-30",
+    "summary": "Login failures for multiple users (case 6)",
+    "description": "Users are intermittently unable to log in due to authentication errors.\nObserved impact varies across services. Instance: 6.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-28",
+    "summary": "Login failures for multiple users (case 4)",
+    "description": "Users are intermittently unable to log in due to authentication errors.\nObserved impact varies across services. Instance: 4.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-27",
+    "summary": "Login failures for multiple users (case 3)",
+    "description": "Users are intermittently unable to log in due to authentication errors.\nObserved impact varies across services. Instance: 3.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-24",
+    "summary": "Kafka consumer lag causing delayed processing (case 10)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 10.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-23",
+    "summary": "Kafka consumer lag causing delayed processing (case 9)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 9.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-22",
+    "summary": "Kafka consumer lag causing delayed processing (case 8)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 8.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-21",
+    "summary": "Kafka consumer lag causing delayed processing (case 7)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 7.\nReplication steps and logs attached."
+  }
+]
