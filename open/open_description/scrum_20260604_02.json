@@ -1,0 +1,52 @@
+[
+  {
+    "issue_key": "SCRUM-50",
+    "summary": "API timeout under load (case 6)",
+    "description": "Backend APIs are timing out when system load increases.\nObserved impact varies across services. Instance: 6.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-49",
+    "summary": "API timeout under load (case 5)",
+    "description": "Backend APIs are timing out when system load increases.\nObserved impact varies across services. Instance: 5.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-37",
+    "summary": "Payment transaction failures (case 3)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 3.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-36",
+    "summary": "Payment transaction failures (case 2)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 2.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-35",
+    "summary": "Payment transaction failures (case 1)",
+    "description": "Payment requests fail due to downstream gateway errors.\nObserved impact varies across services. Instance: 1.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-29",
+    "summary": "Login failures for multiple users (case 5)",
+    "description": "Users are intermittently unable to log in due to authentication errors.\nObserved impact varies across services. Instance: 5.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-26",
+    "summary": "Login failures for multiple users (case 2)",
+    "description": "Users are intermittently unable to log in due to authentication errors.\nObserved impact varies across services. Instance: 2.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-25",
+    "summary": "Login failures for multiple users (case 1)",
+    "description": "Users are intermittently unable to log in due to authentication errors.\nObserved impact varies across services. Instance: 1.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-20",
+    "summary": "Kafka consumer lag causing delayed processing (case 6)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 6.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-10",
+    "summary": "Auto-generated ticket 1",
+    "description": ""
+  }
+]
