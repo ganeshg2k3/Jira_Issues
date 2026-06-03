@@ -1,0 +1,52 @@
+[
+  {
+    "issue_key": "SCRUM-24",
+    "summary": "Kafka consumer lag causing delayed processing (case 10)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 10.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-22",
+    "summary": "Kafka consumer lag causing delayed processing (case 8)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 8.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-21",
+    "summary": "Kafka consumer lag causing delayed processing (case 7)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 7.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-20",
+    "summary": "Kafka consumer lag causing delayed processing (case 6)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 6.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-19",
+    "summary": "Kafka consumer lag causing delayed processing (case 5)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 5.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-16",
+    "summary": "Kafka consumer lag causing delayed processing (case 2)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 2.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-15",
+    "summary": "Kafka consumer lag causing delayed processing (case 1)",
+    "description": "Kafka consumers are experiencing lag after deployment, impacting downstream services.\nObserved impact varies across services. Instance: 1.\nReplication steps and logs attached."
+  },
+  {
+    "issue_key": "SCRUM-14",
+    "summary": "Auto-generated ticket 5",
+    "description": ""
+  },
+  {
+    "issue_key": "SCRUM-13",
+    "summary": "Auto-generated ticket 4",
+    "description": ""
+  },
+  {
+    "issue_key": "SCRUM-10",
+    "summary": "Auto-generated ticket 1",
+    "description": ""
+  }
+]
