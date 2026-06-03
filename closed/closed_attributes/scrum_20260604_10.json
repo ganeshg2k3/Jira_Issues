@@ -1,0 +1,21 @@
+[
+  {
+    "issue_key": "SCRUM-35",
+    "status": "Resolved",
+    "priority": "High",
+    "issuetype": "Incident",
+    "assignee": null,
+    "reporter": "Ganesh G",
+    "labels": [
+      "case-1",
+      "error",
+      "gateway",
+      "payment"
+    ],
+    "components": [
+      "Payments"
+    ],
+    "created": "2026-05-05T23:59:49.713+0530",
+    "updated": "2026-06-04T00:37:35.486+0530"
+  }
+]
