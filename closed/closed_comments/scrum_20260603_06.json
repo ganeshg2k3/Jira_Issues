@@ -27,5 +27,20 @@
         "body": "Issue is resolved."
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-16",
+    "comments": [
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-05T23:58:52.858+0530",
+        "body": "Observed in production"
+      },
+      {
+        "author": "Ganesh G",
+        "created": "2026-05-05T23:58:53.405+0530",
+        "body": "Restart temporarily reduces lag"
+      }
+    ]
   }
 ]
