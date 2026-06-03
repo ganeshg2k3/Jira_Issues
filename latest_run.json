@@ -1,12 +1,14 @@
 {
-  "executed_at_ist": "2026-06-04 00:07:41 IST",
+  "executed_at_ist": "2026-06-04 00:09:33 IST",
   "team_name": "Triage",
   "projects": [
     {
       "project_key": "SCRUM",
-      "open_count": 26,
-      "closed_count": 48,
-      "latest_closed_files": []
+      "open_count": 25,
+      "closed_count": 49,
+      "latest_closed_files": [
+        "closed/closed_description/scrum_20260604_08.json"
+      ]
     }
   ]
 }
