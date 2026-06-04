@@ -2,10 +2,10 @@
   {
     "team_name": "Triage",
     "SCRUM": {
-      "last_ingestion_date": "2026-06-04 17:27",
-      "jira_last_modified_date": "2026-06-04 01:36",
-      "open_count": 20,
-      "closed_count": 54
+      "last_ingestion_date": "2026-06-04 17:29",
+      "jira_last_modified_date": "2026-06-04 17:28",
+      "open_count": 19,
+      "closed_count": 55
     },
     "DATAPROD": {
       "last_ingestion_date": "2024-01-01T00:00:00Z",
