@@ -1,0 +1,336 @@
+import json
+import logging
+from datetime import datetime
+from statistics import mean
+
+
+logging.basicConfig(
+    filename="employee_system.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+
+class Employee:
+    def __init__(self, emp_id, name, department, salary):
+        self.emp_id = emp_id
+        self.name = name
+        self.department = department
+        self.salary = salary
+
+    def to_dict(self):
+        return vars(self)
+
+    @staticmethod
+    def from_dict(data):
+        return Employee(**data)
+
+    def __str__(self):
+        return (
+            f"ID: {self.emp_id}, "
+            f"Name: {self.name}, "
+            f"Department: {self.department}, "
+            f"Salary: {self.salary}"
+        )
+
+
+class EmployeeManager:
+    def __init__(self):
+        self.employees = []
+
+    def find_employee(self, emp_id):
+        return next(
+            (emp for emp in self.employees if emp.emp_id == emp_id),
+            None
+        )
+
+    def add_employee(self, employee):
+        if self.find_employee(employee.emp_id):
+            print("Employee ID already exists.")
+            return False
+
+        self.employees.append(employee)
+        logging.info(f"Employee added: {employee.emp_id}")
+        return True
+
+    def remove_employee(self, emp_id):
+        employee = self.find_employee(emp_id)
+
+        if not employee:
+            return False
+
+        self.employees.remove(employee)
+        logging.info(f"Employee removed: {emp_id}")
+        return True
+
+    def update_salary(self, emp_id, salary):
+        employee = self.find_employee(emp_id)
+
+        if not employee:
+            return False
+
+        employee.salary = salary
+        logging.info(f"Salary updated for {emp_id}: {salary}")
+        return True
+
+    def list_employees(self):
+        if not self.employees:
+            print("No employees available.")
+            return
+
+        for employee in self.employees:
+            print(employee)
+
+    def filter_by_department(self, department):
+        return [
+            emp for emp in self.employees
+            if emp.department.lower() == department.lower()
+        ]
+
+    def highest_paid_employee(self):
+        return max(
+            self.employees,
+            key=lambda emp: emp.salary,
+            default=None
+        )
+
+    def lowest_paid_employee(self):
+        return min(
+            self.employees,
+            key=lambda emp: emp.salary,
+            default=None
+        )
+
+    def average_salary(self):
+        if not self.employees:
+            return 0
+
+        return mean(emp.salary for emp in self.employees)
+
+    def department_summary(self):
+        summary = {}
+
+        for employee in self.employees:
+            dept = employee.department
+            summary[dept] = summary.get(dept, 0) + 1
+
+        return summary
+
+    def save_to_file(self, filename):
+        data = [emp.to_dict() for emp in self.employees]
+
+        with open(filename, "w") as file:
+            json.dump(data, file, indent=4)
+
+        logging.info(f"Data saved to {filename}")
+
+    def load_from_file(self, filename):
+        try:
+            with open(filename, "r") as file:
+                data = json.load(file)
+
+            self.employees = [
+                Employee.from_dict(item)
+                for item in data
+            ]
+
+            logging.info(f"Data loaded from {filename}")
+
+        except FileNotFoundError:
+            print("File not found.")
+
+    def generate_report(self):
+        return {
+            "total_employees": len(self.employees),
+            "average_salary": self.average_salary(),
+            "department_summary": self.department_summary()
+        }
+
+
+class Validator:
+    @staticmethod
+    def validate_employee_id(emp_id):
+        return bool(emp_id) and emp_id.isalnum()
+
+    @staticmethod
+    def validate_name(name):
+        return len(name.strip()) > 2
+
+    @staticmethod
+    def validate_salary(salary):
+        try:
+            return float(salary) > 0
+        except ValueError:
+            return False
+
+
+class ReportGenerator:
+    @staticmethod
+    def print_report(manager):
+        report = manager.generate_report()
+
+        print("\n===== REPORT =====")
+        print(f"Total Employees: {report['total_employees']}")
+        print(f"Average Salary: {report['average_salary']:.2f}")
+
+        print("\nDepartment Summary:")
+        for dept, count in report["department_summary"].items():
+            print(f"{dept}: {count}")
+
+        highest = manager.highest_paid_employee()
+        if highest:
+            print("\nHighest Paid Employee:")
+            print(highest)
+
+        lowest = manager.lowest_paid_employee()
+        if lowest:
+            print("\nLowest Paid Employee:")
+            print(lowest)
+
+        print("==================\n")
+
+
+class AuditTrail:
+    @staticmethod
+    def record_action(action):
+        with open("audit.txt", "a") as file:
+            file.write(f"{datetime.now()} - {action}\n")
+
+
+def display_menu():
+    print("\nEmployee Management System")
+    print("1. Add Employee")
+    print("2. Remove Employee")
+    print("3. Search Employee")
+    print("4. Update Salary")
+    print("5. List Employees")
+    print("6. Department Filter")
+    print("7. Generate Report")
+    print("8. Save")
+    print("9. Load")
+    print("10. Exit")
+
+
+def add_employee_flow(manager):
+    emp_id = input("Employee ID: ")
+    name = input("Name: ")
+    department = input("Department: ")
+    salary = input("Salary: ")
+
+    if not Validator.validate_employee_id(emp_id):
+        print("Invalid employee ID.")
+        return
+
+    if not Validator.validate_name(name):
+        print("Invalid name.")
+        return
+
+    if not Validator.validate_salary(salary):
+        print("Invalid salary.")
+        return
+
+    employee = Employee(
+        emp_id,
+        name,
+        department,
+        float(salary)
+    )
+
+    if manager.add_employee(employee):
+        AuditTrail.record_action(f"Added employee {emp_id}")
+        print("Employee added.")
+
+
+def remove_employee_flow(manager):
+    emp_id = input("Employee ID to remove: ")
+
+    if manager.remove_employee(emp_id):
+        AuditTrail.record_action(f"Removed employee {emp_id}")
+        print("Employee removed.")
+    else:
+        print("Employee not found.")
+
+
+def search_employee_flow(manager):
+    emp_id = input("Employee ID to search: ")
+    employee = manager.find_employee(emp_id)
+
+    if employee:
+        print(employee)
+    else:
+        print("Employee not found.")
+
+
+def update_salary_flow(manager):
+    emp_id = input("Employee ID: ")
+    salary = input("New Salary: ")
+
+    if not Validator.validate_salary(salary):
+        print("Invalid salary.")
+        return
+
+    if manager.update_salary(emp_id, float(salary)):
+        AuditTrail.record_action(f"Updated salary for {emp_id}")
+        print("Salary updated.")
+    else:
+        print("Employee not found.")
+
+
+def department_filter_flow(manager):
+    department = input("Department name: ")
+    employees = manager.filter_by_department(department)
+
+    if not employees:
+        print("No employees in department.")
+        return
+
+    for employee in employees:
+        print(employee)
+
+
+def main():
+    manager = EmployeeManager()
+
+    while True:
+        display_menu()
+        choice = input("Enter choice: ")
+
+        if choice == "1":
+            add_employee_flow(manager)
+
+        elif choice == "2":
+            remove_employee_flow(manager)
+
+        elif choice == "3":
+            search_employee_flow(manager)
+
+        elif choice == "4":
+            update_salary_flow(manager)
+
+        elif choice == "5":
+            manager.list_employees()
+
+        elif choice == "6":
+            department_filter_flow(manager)
+
+        elif choice == "7":
+            ReportGenerator.print_report(manager)
+
+        elif choice == "8":
+            manager.save_to_file("employees.json")
+            print("Saved successfully.")
+
+        elif choice == "9":
+            manager.load_from_file("employees.json")
+            print("Loaded successfully.")
+
+        elif choice == "10":
+            print("Goodbye.")
+            break
+
+        else:
+            print("Invalid choice.")
+
+
+if __name__ == "__main__":
+    main()
